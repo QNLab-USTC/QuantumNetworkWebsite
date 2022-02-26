@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ertuil.github.io/QuantumNetworkWebSite/'
 languageCode = 'en-us'
 title = 'Group of Quantum Network, USTC'
 theme = 'timer-hugo'
