@@ -7,7 +7,7 @@ paginate = "5"
 
 [params]
 home = "Home"
-#logo = "images/ustc.jpg"
+logo = "images/USTC_logo.png"
 dateFormat = "6 January 2006"
 # Meta data
 description = "Our research group focusing quantum networks"
@@ -20,9 +20,9 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable = true
-bgImage = "images/slider.jpg"
-heading = "We are a group of passinate perple, focus on"
-description = "We try to propose a brand new network architecture, leverage the quantum information science, to build a BETTER, SECURE, and POWERFUL quantum network."
+bgImage = "images/quantum_slider.jpg"
+heading = "We are a group of passinate people, focus on"
+description = "Our goal is to design a brand new quantum network architecture by leveraging the quantum information science. We are dedicated to pioneering stuides to build a BETTER, SECURE, and POWERFUL quantum network!"
 # button
 btn = false
 btnText = "Download More"
@@ -39,8 +39,8 @@ title = "Cyber Security"
 # Homepage About Section
 [params.about]
 enable = true
-title = "ABOUT US"
-content = "TBD! Under construction!"
+title = "Research Group of Quantum Network"
+content = "We are a research group focuses on quantum networks! 中国科学技术大学量子信息网络研究团队成立于2018年，是我国最早一批从事前沿量子网络相关研究的科研团队。"
 image = "images/team.png"
 
 # Call to Action
@@ -54,8 +54,8 @@ btnURL = "mailto:kpxue@ustc.edu.cn"
 # Portfolio Section On Homepage
 [params.portfolio]
 enable = true
-title = "Latest Works"
-subtitle = "Here are some recent works, papers, and other recent situation of our team."
+title = "Highlights"
+subtitle = "1.Quantum network simulator <br> 2.routing algorithm design .... Here are some recent works, papers, and other recent situation of our team."
 
 # social icon
 # [[params.socialIcon]]
