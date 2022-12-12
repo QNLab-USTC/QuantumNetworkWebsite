@@ -7,7 +7,7 @@ paginate = "5"
 
 [params]
 home = "Home"
-logo = "images/USTC_logo.png"
+logo = "images/team.png"
 dateFormat = "6 January 2006"
 # Meta data
 description = "Our research group focusing quantum networks"
@@ -20,7 +20,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable = true
-bgImage = "images/quantum_slider.jpg"
+bgImage = "images/team.png"
 heading = "We are a group of passinate people, focus on"
 description = "Our goal is to design a brand new quantum network architecture by leveraging the quantum information science. We are dedicated to pioneering stuides to build a BETTER, SECURE, and POWERFUL quantum network!"
 # button
@@ -39,8 +39,11 @@ title = "Cyber Security"
 # Homepage About Section
 [params.about]
 enable = true
-title = "Research Group of Quantum Network"
-content = "We are a research group focuses on quantum networks! 中国科学技术大学量子信息网络研究团队成立于2018年，是我国最早一批从事前沿量子网络相关研究的科研团队。"
+title = "团队简介"
+content = "
+当前随着量子器件与量子信息技术的发展，量子组网逐渐成为可能，并有有望为隐形传态、分布式量子计算等量子应用提供广域范围服务。然而，受限于量子节点的通信距离与处理能力，当前的量子网络具有能力弱，效率低，服务质量难以保证的特点。将量子网络发展类比于轨道交通建设，当前的量子网络只是初步解决了前期的基础设施建设问题，如何应对源-目的最优路径选择、高峰期用户需求区分服务与不同区域轨道列车车次分配等成为未来量子网络发展亟待解决的关键问题。
+
+中国科学技术大学量子信息网络研究团队成立于2018年，是我国最早一批从事量子网络前沿研究的科研团队。团队致力于研究未来量子组网的路由规划、请求调度与资源分配等关键技术研究，已发表了一系列代表性理论成果，并自主开发了系统级量子网络仿真平台[SimQN](https://github.com/ertuil/SimQN)，该平台针对量子网络难以大规模部署验证的问题，提供了从量子操作、量子网络协议栈、网络部署、性能分析等一整套完整解决方案。"
 image = "images/team.png"
 
 # Call to Action
