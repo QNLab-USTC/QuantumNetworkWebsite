@@ -34,6 +34,18 @@
 							</li>
 							{{ end }}
 							{{ end }}
+
+							{{if eq .Site.Language.Lang "en"}}
+							<li class="nav-item">
+								<a class="nav-link"
+									href="{{absURL  "zh"}}">中文</a>
+							</li>
+							{{else}}
+							<li class="nav-item">
+								<a class="nav-link"
+									href="{{absURL ""}}">English</a>
+							</li>
+							{{end}}
 						</ul>
 					</div>
 				</nav>

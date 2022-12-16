@@ -1,32 +1,36 @@
 baseURL = 'https://ertuil.github.io/QuantumNetworkWebsite/'
-languageCode = 'en-us'
+languageCode = 'en'
+defaultContentLanguage = "en"
 title = 'Group of Quantum Network, USTC'
 theme = 'timer-hugo'
 enableEmoji = true
-paginate = "5"
+paginate = "8"
 
 [params]
 home = "Home"
 logo = "images/team.png"
-dateFormat = "6 January 2006"
 # Meta data
 description = "Our research group focusing quantum networks"
-author = "Infolab, USTC"
+author = "Infonet, USTC"
 # Google Analitycs
 #googleAnalitycsID = "Your ID"
 # contact form action
 contactFormAction = "#" # contact form works with https://formspree.io
 
+####### 英文页面配置
+####### 英文页面配置
+[languages.en]
+weight = 1
+[languages.en.params]
+    home = "Home"
+    dateFormat = "6 January 2006"
+
 # Banner Section
 [params.banner]
 enable = true
-bgImage = "images/team.png"
+bgImage = "images/quantum_slider.jpg"
 heading = "We are a group of passinate people, focus on"
 description = "Our goal is to design a brand new quantum network architecture by leveraging the quantum information science. We are dedicated to pioneering stuides to build a BETTER, SECURE, and POWERFUL quantum network!"
-# button
-btn = false
-btnText = "Download More"
-btnURL = "https://themefisher.com/"
 
 # flip text
 [[params.banner.flipText]]
@@ -36,14 +40,17 @@ title = "Quantum Internet"
 [[params.banner.flipText]]
 title = "Cyber Security"
 
+
 # Homepage About Section
 [params.about]
 enable = true
-title = "团队简介"
-content = "
-当前随着量子器件与量子信息技术的发展，量子组网逐渐成为可能，并有有望为隐形传态、分布式量子计算等量子应用提供广域范围服务。然而，受限于量子节点的通信距离与处理能力，当前的量子网络具有能力弱，效率低，服务质量难以保证的特点。将量子网络发展类比于轨道交通建设，当前的量子网络只是初步解决了前期的基础设施建设问题，如何应对源-目的最优路径选择、高峰期用户需求区分服务与不同区域轨道列车车次分配等成为未来量子网络发展亟待解决的关键问题。
+title = "Our Team"
+content = """
+Currently, with the development of quantum devices and quantum information technology, quantum networking has gradually become possible and has the promise of providing wide-area services for quantum applications such as quantum teleportation and distributed quantum computing. However, limited by the communication distance and processing capability of quantum nodes, current quantum networks are characterized by weak capacity, low efficiency, and difficult to guarantee the quality of service. Comparing the development of quantum network to rail transit construction, the current quantum network is only a preliminary solution to the preliminary infrastructure construction problem. How to deal with the source-destination optimal path selection, peak user demand differentiation services and different regional rail train trips allocation, etc. become the key issues to be solved in the future development of quantum network.
 
-中国科学技术大学量子信息网络研究团队成立于2018年，是我国最早一批从事量子网络前沿研究的科研团队。团队致力于研究未来量子组网的路由规划、请求调度与资源分配等关键技术研究，已发表了一系列代表性理论成果，并自主开发了系统级量子网络仿真平台[SimQN](https://github.com/ertuil/SimQN)，该平台针对量子网络难以大规模部署验证的问题，提供了从量子操作、量子网络协议栈、网络部署、性能分析等一整套完整解决方案。"
+<br />
+
+Established in 2018, the Quantum Information Network Research Team at the University of Science and Technology of China (USTC) is one of the earliest scientific research teams engaged in cutting-edge research on quantum networks in China. The team is dedicated to the research of key technologies such as routing planning, request scheduling and resource allocation for future quantum networking, and has published a series of representative theoretical results and independently developed a system-level quantum network simulation platform, which provides a complete set of solutions from quantum operation, quantum network protocol stack, network deployment, and performance analysis for the problem that quantum networks are difficult to deploy and verify on a large scale."""
 image = "images/team.png"
 
 # Call to Action
@@ -58,7 +65,7 @@ btnURL = "mailto:kpxue@ustc.edu.cn"
 [params.portfolio]
 enable = true
 title = "Highlights"
-subtitle = "1.Quantum network simulator <br> 2.routing algorithm design .... Here are some recent works, papers, and other recent situation of our team."
+subtitle = "1.Quantum network simulator 2.routing algorithm design .... Here are some recent works, papers, and other recent situation of our team."
 
 # social icon
 # [[params.socialIcon]]
@@ -79,21 +86,101 @@ url = "#"
     weight = 1
 
 [[menu.main]]
-    name = "Our Work"
-    url = "work/"
+    name = "Publication"
+    url = "publication"
     weight = 3
 
 [[menu.main]]
-    name = "Simulator"
-    url = "simulator/"
+    name = "Projects"
+    url = "projects/"
     weight = 4
 
 [[menu.main]]
     name = "Blog"
-    url = "blog/"
+    url = "blogs/"
     weight = 5
 
 [[menu.main]]
-    url = "about/"
+    name = "Our Team"
+    url = "team"
+    weight = 7
+
+[[menu.main]]
+    url = "about"
     name = "About Us"
-    weight = 6
+    weight = 8
+
+####### 中文页面配置
+####### 中文页面配置
+[languages.zh]
+weight = 2
+[languages.zh.params]
+    home = "主页"
+    dateFormat = "2006/01/06"
+
+[languages.zh.params.banner]
+    enable = true
+    bgImage = "images/quantum_slider.jpg"
+    heading = "我们是富有激情的小组，专注于"
+    description = "我们的目标是利用量子信息学技术，构建崭新的量子网络架构。我们专注于探索前沿领域，来构建一个更好、更安全、更强大的量子网络！"
+
+[languages.zh.params.about]
+enable = true
+title = "团队简介"
+content = """
+当前随着量子器件与量子信息技术的发展，量子组网逐渐成为可能，并有有望为隐形传态、分布式量子计算等量子应用提供广域范围服务。然而，受限于量子节点的通信距离与处理能力，当前的量子网络具有能力弱，效率低，服务质量难以保证的特点。将量子网络发展类比于轨道交通建设，当前的量子网络只是初步解决了前期的基础设施建设问题，如何应对源-目的最优路径选择、高峰期用户需求区分服务与不同区域轨道列车车次分配等成为未来量子网络发展亟待解决的关键问题。
+
+<br />
+
+中国科学技术大学量子信息网络研究团队成立于2018年，是我国最早一批从事量子网络前沿研究的科研团队。团队致力于研究未来量子组网的路由规划、请求调度与资源分配等关键技术研究，已发表了一系列代表性理论成果，并自主开发了系统级量子网络仿真平台，该平台针对量子网络难以大规模部署验证的问题，提供了从量子操作、量子网络协议栈、网络部署、性能分析等一整套完整解决方案。"""
+image = "images/team.png"
+
+[[languages.zh.params.banner.flipText]]
+title = "量子网络"
+[[languages.zh.params.banner.flipText]]
+title = "量子互联网"
+[[languages.zh.params.banner.flipText]]
+title = "网络安全"
+
+[languages.zh.params.cta]
+enable = true
+title = "欢迎您和我们取得联系"
+content = "我们乐于倾听您的意见或建议。请点击下面的按钮向我们发送电子邮件。"
+btnText = "联系我们"
+btnURL = "mailto:kpxue@ustc.edu.cn"
+
+[languages.zh.params.portfolio]
+enable = true
+title = "新闻"
+subtitle = "1.量子网络仿真 2.路由算法设计 ... 这里是我们团队最新的工作、论文或其他信息："
+
+[[languages.zh.menu.main]]
+    name = "主页"
+    pre = ""
+    url = "zh/"
+    weight = 1
+
+[[languages.zh.menu.main]]
+    name = "论文/专利"
+    url = "publication"
+    weight = 3
+
+[[languages.zh.menu.main]]
+    name = "项目"
+    url = "projects/"
+    weight = 4
+
+[[languages.zh.menu.main]]
+    name = "博客"
+    url = "blogs/"
+    weight = 5
+
+[[languages.zh.menu.main]]
+    name = "团队建设"
+    url = "team/"
+    weight = 7
+
+[[languages.zh.menu.main]]
+    url = "about"
+    name = "关于我们"
+    weight = 8
