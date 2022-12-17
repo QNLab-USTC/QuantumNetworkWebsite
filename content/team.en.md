@@ -4,14 +4,39 @@ date: 2022-12-16T13:25:55+08:00
 draft: false
 ---
 
-团队建设页面（英文）
+# People
 
-教授：
+## Teacher
 
-副教授：
+![Jun Lu](url)
+**Jun Lu**
 
-博士：
+![Nenghai Yu](url)
+**Nenghai Yu**
 
-硕士：
+![Kaiping Xue](url)
+**Kaiping Xue**
+e-mail: <kpxue@ustc.edu.cn>
 
-本科生：
+![Jian Li](https://github.com/ertuil/QuantumNetworkWebsite/tree/main/static/images/Photo-lijian.JPG)
+**Jian Li**
+e-mail: <lijian9@ustc.edu.cn>
+
+## Ph.D Student
+
+![Zhonghui Li](url)
+**Zhonghui Li**
+e-mail: @mail.ustc.edu.cn 
+
+**Zhaoying Wang**
+
+**Lutong Chen**
+
+
+## Master Student 
+
+**Mingjun Wang**
+
+**Peng Zheng**
+
+**Zirui Xiao**
