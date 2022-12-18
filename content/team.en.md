@@ -10,7 +10,7 @@ draft: false
 
 ## Staff
 
-![Jun Lu](https://github.com/ertuil/QuantumNetworkWebsite/raw/main/static/images/lujun.png)   
+![Jun Lu](/static/images/lujun.png)   
 **Jun Lu**  
 
 ![Nenghai Yu](url)  
@@ -20,7 +20,7 @@ draft: false
 **Kaiping Xue**  
 e-mail: <kpxue@ustc.edu.cn>
 
-![Jian Li](https://github.com/ertuil/QuantumNetworkWebsite/raw/main/static/images/Photo-lijian.JPG)  
+![Jian Li](/static/images/Photo-lijian.JPG)  
 **Jian Li**  
 e-mail: <lijian9@ustc.edu.cn>
 
