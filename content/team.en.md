@@ -6,9 +6,11 @@ draft: false
 
 # People  
 
-## Teacher
+***
 
-![Jun Lu](https://github.com/ertuil/QuantumNetworkWebsite/tree/main/static/images/lujun.png)   
+## Staff
+
+![Jun Lu](https://github.com/ertuil/QuantumNetworkWebsite/raw/main/static/images/lujun.png)   
 **Jun Lu**  
 
 ![Nenghai Yu](url)  
@@ -18,7 +20,7 @@ draft: false
 **Kaiping Xue**  
 e-mail: <kpxue@ustc.edu.cn>
 
-![Jian Li](https://github.com/ertuil/QuantumNetworkWebsite/tree/main/static/images/Photo-lijian.JPG)  
+![Jian Li](https://github.com/ertuil/QuantumNetworkWebsite/raw/main/static/images/Photo-lijian.JPG)  
 **Jian Li**  
 e-mail: <lijian9@ustc.edu.cn>
 
@@ -30,9 +32,11 @@ e-mail: <lijian9@ustc.edu.cn>
 **Zhonghui Li**  
 e-mail: @mail.ustc.edu.cn 
 
+![Zhaoying Wang](url)  
 **Zhaoying Wang**  
 e-mail: @mail.ustc.edu.cn 
 
+![Lutong Chen](url)  
 **Lutong Chen**  
 e-mail: @mail.ustc.edu.cn 
 
@@ -40,11 +44,14 @@ e-mail: @mail.ustc.edu.cn
 
 ## Master Student 
 
+![Mingjun Wang](url)  
 **Mingjun Wang**  
 e-mail: @mail.ustc.edu.cn 
 
+![Peng Zheng](url)  
 **Peng Zheng**  
 e-mail: @mail.ustc.edu.cn 
 
+![Zirui Xiao](url)  
 **Zirui Xiao**  
 e-mail: @mail.ustc.edu.cn 
