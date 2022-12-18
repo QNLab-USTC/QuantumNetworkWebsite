@@ -10,7 +10,7 @@ draft: false
 
 ## Staff
 
-![Jun Lu](/static/images/lujun.png)   
+![Jun Lu](/images/lujun.png)   
 **Jun Lu**  
 
 ![Nenghai Yu](url)  
@@ -20,7 +20,7 @@ draft: false
 **Kaiping Xue**  
 e-mail: <kpxue@ustc.edu.cn>
 
-![Jian Li](/static/images/Photo-lijian.JPG)  
+![Jian Li](/images/Photo-lijian.JPG)  
 **Jian Li**  
 e-mail: <lijian9@ustc.edu.cn>
 
