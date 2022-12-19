@@ -46,10 +46,6 @@ title = "Cyber Security"
 enable = true
 title = "Our Team"
 content = """
-Currently, with the development of quantum devices and quantum information technology, quantum networking has gradually become possible and has the promise of providing wide-area services for quantum applications such as quantum teleportation and distributed quantum computing. However, limited by the communication distance and processing capability of quantum nodes, current quantum networks are characterized by weak capacity, low efficiency, and difficult to guarantee the quality of service. Comparing the development of quantum network to rail transit construction, the current quantum network is only a preliminary solution to the preliminary infrastructure construction problem. How to deal with the source-destination optimal path selection, peak user demand differentiation services and different regional rail train trips allocation, etc. become the key issues to be solved in the future development of quantum network.
-
-<br />
-
 Established in 2018, the Quantum Information Network Research Team at the University of Science and Technology of China (USTC) is one of the earliest scientific research teams engaged in cutting-edge research on quantum networks in China. The team is dedicated to the research of key technologies such as routing planning, request scheduling and resource allocation for future quantum networking, and has published a series of representative theoretical results and independently developed a system-level quantum network simulation platform, which provides a complete set of solutions from quantum operation, quantum network protocol stack, network deployment, and performance analysis for the problem that quantum networks are difficult to deploy and verify on a large scale."""
 image = "images/team.png"
 
@@ -65,7 +61,11 @@ btnURL = "mailto:kpxue@ustc.edu.cn"
 [params.portfolio]
 enable = true
 title = "Highlights"
-subtitle = "1.Quantum network simulator 2.routing algorithm design .... Here are some recent works, papers, and other recent situation of our team."
+subtitle = """
+Currently, with the development of quantum devices and quantum information technology, quantum networking has gradually become possible and has the promise of providing wide-area services for quantum applications such as quantum teleportation and distributed quantum computing. However, limited by the communication distance and processing capability of quantum nodes, current quantum networks are characterized by weak capacity, low efficiency, and difficult to guarantee the quality of service. Comparing the development of quantum network to rail transit construction, the current quantum network is only a preliminary solution to the preliminary infrastructure construction problem. How to deal with the source-destination optimal path selection, peak user demand differentiation services and different regional rail train trips allocation, etc. become the key issues to be solved in the future development of quantum network.
+
+
+Here are some recent works, papers, and other recent situation of our team."""
 
 # social icon
 # [[params.socialIcon]]
