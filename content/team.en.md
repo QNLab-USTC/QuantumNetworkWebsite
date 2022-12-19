@@ -10,22 +10,49 @@ draft: false
 
 ## Staff
 
-<div align="right">
+<!-- <div align="right">
     <img width="150px" height="200px" src="/images/lujun.png"/>Jun Lu
-</div>
+</div> -->
 
-<div align="right">
-    <img width="150px" height="200px" src="/images/lujun.png"/>Nenghai Yu
-</div>
-
-<div align="right">
-    <img width="150px" height="200px" src="/images/lujun.png"/>Kaiping Xue<br>
-    kpxue@ustc.edu.cn
-</div>
-
-<div align="right">
-    <img width="150px" height="200px" src="/images/Photo-lijian.JPG"/>Li Jian<br>
-    lijian9@ustc.edu.cn
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+        <figure  style="width: 150px" >
+        <img src="/images/lujun.png" width="150px" height="200px" />
+        <figcaption>
+            <h5>Lu Jun</h5>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 150px" >
+        <img src="/images/Photo-yunenghai.jpg" width="150px" height="200px" />
+        <figcaption>
+            <h5>Nenghai Yu</h5>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 150px" >
+        <img src="/images/Photo-kaiping.jpg" width="150px" height="200px" />
+        <figcaption>
+            <h5>Kaiping Xue</h5>
+            <p><a href="mailto:kpxue@ustc.edu.cn">kpxue AT ustc.edu.cn</a></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 150px" >
+        <img src="/images/Photo-lijian.JPG" width="150px" height="200px" />
+        <figcaption>
+            <h5>Kaiping Xue</h5>
+            <p><a href="mailto:lijian9@ustc.edu.cn">lijian9 AT ustc.edu.cn</a></p>
+        </figcaption>
+        </figure>
+    </div>
+  </div>
 </div>
 
 ***
