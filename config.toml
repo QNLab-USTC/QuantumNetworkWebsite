@@ -92,12 +92,20 @@ url = "#"
 
 [[menu.main]]
     name = "Projects"
+    identifier = "projects"
     url = "projects/"
     weight = 4
 
 [[menu.main]]
-    name = "Blog"
-    url = "blogs/"
+    parent = "projects"
+    name = "SimQN"
+    identifier = "simqn"
+    url = "/projects/simqn"
+    weight = "1"
+
+[[menu.main]]
+    name = "News"
+    url = "news/"
     weight = 5
 
 [[menu.main]]
@@ -167,12 +175,20 @@ subtitle = "1.量子网络仿真 2.路由算法设计 ... 这里是我们团队�
 
 [[languages.zh.menu.main]]
     name = "项目"
+    identifier = "projects"
     url = "projects/"
     weight = 4
 
 [[languages.zh.menu.main]]
-    name = "博客"
-    url = "blogs/"
+    parent = "projects"
+    name = "SimQN"
+    identifier = "simqn"
+    url = "/projects/simqn"
+    weight = "1"
+
+[[languages.zh.menu.main]]
+    name = "新闻"
+    url = "news/"
     weight = 5
 
 [[languages.zh.menu.main]]
