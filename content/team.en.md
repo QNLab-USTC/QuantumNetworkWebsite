@@ -10,10 +10,6 @@ draft: false
 
 ## Staff
 
-<!-- <div align="right">
-    <img width="150px" height="200px" src="/images/lujun.png"/>Jun Lu
-</div> -->
-
 <div class="container">
   <div class="row">
     <div class="col-sm">
