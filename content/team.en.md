@@ -10,11 +10,11 @@ draft: false
 
 ## Staff
 
-<div align="right">
+<div align="left">
     <img width="150px" height="200px" src="/images/lujun.png"/>Jun Lu
 </div>
 
-<div align="right">
+<div align="center">
     <img width="150px" height="200px" src="/images/lujun.png"/>Nenghai Yu
 </div>
 
@@ -22,8 +22,8 @@ draft: false
     <img width="150px" height="200px" src="/images/lujun.png"/>Kaiping Xue<br>
     kpxue@ustc.edu.cn
 </div>
-
-<div align="right">
+<br>
+<div align="left">
     <img width="150px" height="200px" src="/images/Photo-lijian.JPG"/>Li Jian<br>
     lijian9@ustc.edu.cn
 </div>
