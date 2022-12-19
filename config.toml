@@ -1,4 +1,4 @@
-baseURL = 'https://ertuil.github.io/QuantumNetworkWebsite/'
+baseURL = 'https://qnlab-ustc.com/'
 languageCode = 'en'
 defaultContentLanguage = "en"
 title = 'Group of Quantum Network, USTC'
@@ -184,3 +184,29 @@ subtitle = "1.量子网络仿真 2.路由算法设计 ... 这里是我们团队�
     url = "about"
     name = "关于我们"
     weight = 8
+
+
+####### Markdown Render Config
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      wrapStandAloneImageWithinParagraph = true
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false

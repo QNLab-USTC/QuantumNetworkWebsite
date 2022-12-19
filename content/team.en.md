@@ -10,7 +10,23 @@ draft: false
 
 ## Staff
 
-<div align="right"><img width="150px" height="200px" src="/QuantumNetworkWebsite/images/lujun.png"/>Jun Lu</div><div align="right"><img width="150px" height="200px" src="/QuantumNetworkWebsite/images/lujun.png"/>Nenghai Yu</div><div align="right"><img width="150px" height="200px" src="/QuantumNetworkWebsite/images/lujun.png"/>Kaiping Xue<br>kpxue@ustc.edu.cn</div><div align="right"><img width="150px" height="200px" src="/QuantumNetworkWebsite/images/lujun.png"/>/QuantumNetworkWebsite/images/Photo-lijian.JPG<br>lijian9@ustc.edu.cn</div>
+<div align="right">
+    <img width="150px" height="200px" src="/images/lujun.png"/>Jun Lu
+</div>
+
+<div align="right">
+    <img width="150px" height="200px" src="/images/lujun.png"/>Nenghai Yu
+</div>
+
+<div align="right">
+    <img width="150px" height="200px" src="/images/lujun.png"/>Kaiping Xue<br>
+    kpxue@ustc.edu.cn
+</div>
+
+<div align="right">
+    <img width="150px" height="200px" src="/images/Photo-lijian.JPG"/>Li Jian<br>
+    lijian9@ustc.edu.cn
+</div>
 
 ***
 
