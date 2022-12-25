@@ -35,7 +35,7 @@ draft: false
         <img src="/images/Photo-kaiping.jpg" width="150px" height="200px" />
         <figcaption>
             <h5>Kaiping Xue</h5>
-            <p><a href="mailto:kpxue@ustc.edu.cn">kpxue AT ustc.edu.cn</a></p>
+            <p><a href="mailto:kpxue@ustc.edu.cn">E-mail</a></p>
         </figcaption>
         </figure>
     </div>
@@ -43,8 +43,8 @@ draft: false
         <figure  style="width: 150px" >
         <img src="/images/Photo-lijian.JPG" width="150px" height="200px" />
         <figcaption>
-            <h5>Kaiping Xue</h5>
-            <p><a href="mailto:lijian9@ustc.edu.cn">lijian9 AT ustc.edu.cn</a></p>
+            <h5>Jian Li</h5>
+            <p><a href="mailto:lijian9@ustc.edu.cn">E-mail</a></p>
         </figcaption>
         </figure>
     </div>
@@ -55,30 +55,72 @@ draft: false
 
 ## Ph.D Student
 
-![Zhonghui Li](url)  
-**Zhonghui Li**  
-e-mail: @mail.ustc.edu.cn 
-
-![Zhaoying Wang](url)  
-**Zhaoying Wang**  
-e-mail: @mail.ustc.edu.cn 
-
-![Lutong Chen](url)  
-**Lutong Chen**  
-e-mail: @mail.ustc.edu.cn 
-
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+        <figure  style="width: 150px" >
+        <img src="/images/lizhonghui.png" width="150px" height="200px" />
+        <figcaption>
+            <h5>Zhonghui Li</h5>
+            <p><a href="mailto:leestone@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 150px" >
+        <img src="/images/wangzhaoying.jpg" width="150px" height="200px" />
+        <figcaption>
+            <h5>Zhaoying Wang</h5>
+            <p><a href="mailto:wzy0716@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 150px" >
+        <img src="/images/chenlutong.jpg" width="150px" height="200px" />
+        <figcaption>
+            <h5>Lutong Chen</h5>
+            <p><a href="mailto:lutong98@mail.ustc.edu.cn">E-mail</a></p>
+        </figcaption>
+        </figure>
+    </div>
+  </div>
+</div>
 ***
 
 ## Master Student 
-
-![Mingjun Wang](url)  
-**Mingjun Wang**  
-e-mail: @mail.ustc.edu.cn 
-
-![Peng Zheng](url)  
-**Peng Zheng**  
-e-mail: @mail.ustc.edu.cn 
-
-![Zirui Xiao](url)  
-**Zirui Xiao**  
-e-mail: @mail.ustc.edu.cn 
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+        <figure  style="width: 150px" >
+        <img src="/images/Photo-wangmingjun.JPG" width="150px" height="200px" />
+        <figcaption>
+            <h5>Mingjun Wang</h5>
+            <p><a href="mailto:wmj0113@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 150px" >
+        <img src="/images/zhengpeng.jpg" width="150px" height="200px" />
+        <figcaption>
+            <h5>Peng Zheng</h5>
+            <p><a href="mailto:zhengpeng656@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 150px" >
+        <img src="/images/xiaozirui.jpg" width="150px" height="200px" />
+        <figcaption>
+            <h5>Zirui Xiao</h5>
+            <p><a href="mailto:ackerman@mail.ustc.edu.cn">E-mail</a></p>
+        </figcaption>
+        </figure>
+    </div>
+  </div>
+</div>
