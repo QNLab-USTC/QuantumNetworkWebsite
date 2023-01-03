@@ -9,7 +9,13 @@ draft: false
 arXiv
 
 ***
+# 2023
 
+**SimQN: a Network-layer Simulator for the Quantum Network Investigation**  
+Lutong Chen, Kaiping Xue, Jian Li, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu 
+**IEEE Network**, Accepted  
+
+***
 # 2022
 
 **An Asynchronous Entanglement Distribution Protocol for Quantum Networks**  
