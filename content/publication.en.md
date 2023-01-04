@@ -11,8 +11,8 @@ arXiv
 ***
 # 2023
 
-**SimQN: a Network-layer Simulator for the Quantum Network Investigation**  
-Lutong Chen, Kaiping Xue, Jian Li, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu 
+**SimQN: a Network-layer Simulator for the Quantum Network Investigation**   
+Lutong Chen, Kaiping Xue, Jian Li, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu   
 **IEEE Network**, Accepted  
 
 ***
