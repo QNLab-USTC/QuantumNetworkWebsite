@@ -165,39 +165,39 @@ subtitle = "1.量子网络仿真 2.路由算法设计 ... 这里是我们团队�
 [[languages.zh.menu.main]]
     name = "主页"
     pre = ""
-    url = "zh/"
+    url = "https://qnlab-ustc.com/"
     weight = 1
 
 [[languages.zh.menu.main]]
     name = "论文/专利"
-    url = "publication"
+    url = "/publication/"
     weight = 3
 
 [[languages.zh.menu.main]]
     name = "项目"
     identifier = "projects"
-    url = "projects/"
+    url = "/projects/"
     weight = 4
 
 [[languages.zh.menu.main]]
     parent = "projects"
     name = "SimQN"
     identifier = "simqn"
-    url = "/projects/simqn"
+    url = "/projects/simqn/"
     weight = "1"
 
 [[languages.zh.menu.main]]
     name = "新闻"
-    url = "news/"
+    url = "/news"
     weight = 5
 
 [[languages.zh.menu.main]]
     name = "团队建设"
-    url = "team/"
+    url = "/team"
     weight = 7
 
 [[languages.zh.menu.main]]
-    url = "about"
+    url = "/about"
     name = "关于我们"
     weight = 8
 

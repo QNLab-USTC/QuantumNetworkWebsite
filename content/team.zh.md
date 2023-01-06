@@ -4,14 +4,6 @@ date: 2022-12-16T13:25:59+08:00
 draft: false
 ---
 
-团队建设页面（中文）
-
-教授：
-
-副教授：
-
-博士：
-
-硕士：
-
-本科生：
+<script>
+window.location.href = "/team/";
+</script>
