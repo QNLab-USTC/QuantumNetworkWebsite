@@ -4,11 +4,12 @@ date: 2022-12-16T13:25:55+08:00
 draft: false
 ---
 
-# People  
 
-***
+
 
 ## Scientific Conunselor
+
+***
 
 <div class="container">
   <div class="row">
@@ -17,8 +18,8 @@ draft: false
         <img src="/images/lujun.png" width="210px" height="280px" />
         <figcaption>
             <h5>Jun Lu</h5>
-            <a>Professor</a>
-            <a>Academician of Chinese Academy of Engineering</a>
+            <p>Professor</p>  
+            <p>Academician of Chinese Academy of Engineering</p>  
             <p></p>
         </figcaption>
         </figure>
@@ -27,10 +28,9 @@ draft: false
         <figure  style="width: 210px" >
         <img src="/images/Photo-QibinSun.jpg" width="210px" height="280px" />
         <figcaption>
-            <h5>Qibin Sun, Professor</h5>
-            <a>Professor</a>
-            <a>IEEE Fellow</a>
-            <p></p>
+            <h5>Qibin Sun</h5>
+            <p>Professor</p>  
+            <p>IEEE Fellow</p>
         </figcaption>
         </figure>
     </div>
@@ -39,8 +39,8 @@ draft: false
         <img src="/images/Photo-yunenghai.png" width="210px" height="280px" />
         <figcaption>
             <h5>Nenghai Yu</h5>
-            <a>Professor</a>
-            <a>Executive Dean of the School of Cyber Security, USTC</a>
+            <p>Professor</p>  
+            <p>Executive Dean of the School of Cyber Security, USTC</p>  
             <p></p>
         </figcaption>
         </figure>
@@ -49,6 +49,8 @@ draft: false
 </div>
 
 ## Faculty
+
+***
 
 <div class="container">
   <div class="row">
@@ -77,6 +79,8 @@ draft: false
 
 
 ## Ph.D Student
+
+***
 
 <div class="container">
   <div class="row">
@@ -114,6 +118,8 @@ draft: false
   
 
 ## Master Student 
+
+***
 
 <div class="container">
   <div class="row">
@@ -168,10 +174,11 @@ draft: false
     </div>
   </div>
 </div>
-  
+
 
 ## Bachelor Student
 
+***
 
 <div class="container">
   <div class="row">
