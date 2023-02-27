@@ -16,8 +16,9 @@ draft: false
         <figure  style="width: 210px" >
         <img src="/images/lujun.png" width="210px" height="280px" />
         <figcaption>
-            <h5>Jun Lu, Professor</h5>
-            <h5>Academician of Chinese Academy of Engineering</h5>
+            <h5>Jun Lu</h5>
+            <a>Professor</a>
+            <a>Academician of Chinese Academy of Engineering</a>
             <p></p>
         </figcaption>
         </figure>
@@ -27,7 +28,8 @@ draft: false
         <img src="/images/Photo-QibinSun.jpg" width="210px" height="280px" />
         <figcaption>
             <h5>Qibin Sun, Professor</h5>
-            <h5>IEEE Fellow</h5>
+            <a>Professor</a>
+            <a>IEEE Fellow</a>
             <p></p>
         </figcaption>
         </figure>
@@ -36,8 +38,9 @@ draft: false
         <figure  style="width: 210px" >
         <img src="/images/Photo-yunenghai.png" width="210px" height="280px" />
         <figcaption>
-            <h5>Nenghai Yu, Professor</h5>
-            <h5>Executive Dean of the School of Cyber Security, USTC</h5>
+            <h5>Nenghai Yu</h5>
+            <a>Professor</a>
+            <a>Executive Dean of the School of Cyber Security, USTC</a>
             <p></p>
         </figcaption>
         </figure>
