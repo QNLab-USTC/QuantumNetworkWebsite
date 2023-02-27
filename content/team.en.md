@@ -103,8 +103,10 @@ draft: false
     </div>
   </div>
 </div>
+  
 
 ## Master Student 
+
 <div class="container">
   <div class="row">
     <div class="col-sm">
@@ -116,7 +118,6 @@ draft: false
             <p></p>
         </figcaption>
         </figure>
-  <div class="row">
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/tanjiesheng.JPG" width="210px" height="280px" />
@@ -126,7 +127,6 @@ draft: false
             <p></p>
         </figcaption>
         </figure>
-  <div class="row">
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/lipuli.JPG" width="210px" height="280px" />
@@ -158,8 +158,10 @@ draft: false
     </div>
   </div>
 </div>
+  
 
 ## Bachelor Student
+
 
 <div class="container">
   <div class="row">
