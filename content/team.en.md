@@ -16,7 +16,8 @@ draft: false
         <figure  style="width: 210px" >
         <img src="/images/lujun.png" width="210px" height="280px" />
         <figcaption>
-            <h5>Lu Jun</h5>
+            <h5>Jun Lu, Professor</h5>
+            <h5>Academician of Chinese Academy of Engineering</h5>
             <p></p>
         </figcaption>
         </figure>
@@ -25,7 +26,8 @@ draft: false
         <figure  style="width: 210px" >
         <img src="/images/Photo-QibinSun.jpg" width="210px" height="280px" />
         <figcaption>
-            <h5>Qibin Sun</h5>
+            <h5>Qibin Sun, Professor</h5>
+            <h5>IEEE Fellow</h5>
             <p></p>
         </figcaption>
         </figure>
@@ -34,7 +36,8 @@ draft: false
         <figure  style="width: 210px" >
         <img src="/images/Photo-yunenghai.png" width="210px" height="280px" />
         <figcaption>
-            <h5>Nenghai Yu</h5>
+            <h5>Nenghai Yu, Professor</h5>
+            <h5>Executive Dean of the School of Cyber Security, USTC</h5>
             <p></p>
         </figcaption>
         </figure>
@@ -42,7 +45,7 @@ draft: false
   </div>
 </div>
 
-## Staff
+## Faculty
 
 <div class="container">
   <div class="row">
@@ -52,7 +55,7 @@ draft: false
         <figcaption>
             <h5>Kaiping Xue</h5>
             <p><a href="mailto:kpxue@ustc.edu.cn">E-mail</a></p>
-            <a href="mailto:http://staff.ustc.edu.cn/~kpxue/">Homepage</a>
+            <a href="http://staff.ustc.edu.cn/~kpxue/">Homepage</a>
         </figcaption>
         </figure>
     </div>
@@ -62,7 +65,7 @@ draft: false
         <figcaption>
             <h5>Jian Li</h5>
             <p><a href="mailto:lijian9@ustc.edu.cn">E-mail</a></p>
-            <a href="mailto:https://infonetlijian.github.io/homepage/">Homepage</a>
+            <a href="https://infonetlijian.github.io/homepage/">Homepage</a>
         </figcaption>
         </figure>
     </div>
