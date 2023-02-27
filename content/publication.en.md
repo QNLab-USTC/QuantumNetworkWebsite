@@ -11,9 +11,14 @@ arXiv
 ***
 # 2023
 
+**A Segment-based Multipath Distribution Method in Partially-Trusted Relay Quantum Networks**   
+Mingjun Wang, Jian Li, Kaiping Xue, Ruidong Li, Nenghai Yu, Yangyang Li, Yifeng Liu, Qibin Sun, Jun Lu   
+**IEEE Communications Magazine**, Accepted  
+
 **SimQN: a Network-layer Simulator for the Quantum Network Investigation**   
 Lutong Chen, Kaiping Xue, Jian Li, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu   
-**IEEE Network**, Accepted  
+**IEEE Network**, Accepted   
+[Online](https://ieeexplore.ieee.org/abstract/document/10024900/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10024900) - [Github](https://github.com/ertuil/SimQN)    
 
 ***
 # 2022
@@ -31,7 +36,7 @@ Lutong Chen; Kaiping Xue; Jian Li; Nenghai Yu; Ruidong Li; Jianqing Liu; Qibin S
 **Fidelity-Guaranteed Entanglement Routing in Quantum Networks**  
 Jian Li; Mingjun Wang; Kaiping Xue; Ruidong Li; Nenghai Yu; Qibin Sun; Jun Lu  
 **IEEE Transactions on Communications**, Volume: 70, Issue: 10  
-[Online](https://ieeexplore.ieee.org/abstract/document/9862987) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9862987)
+[Online](https://ieeexplore.ieee.org/abstract/document/9862987) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9862987) - [Github](https://github.com/infonetlijian/Fidelity-Guaranteed-Entanglement-Routing)  
 
 **A Connection-Oriented Entanglement Distribution Design in Quantum Networks**  
 Jian Li; Qidong Jia; Kaiping Xue; David S. L. Wei; Nenghai Yu  

@@ -3,6 +3,7 @@ title: "News"
 date: 2022-12-19T11:23:39+08:00
 draft: false
 ---
+- 2023.2 our paper "A Segment-based Multipath Distribution Method in Partially-Trusted Relay Quantum Networks" is accepted by IEEE Communications Magazine!  
 - 2023.1 our paper "SimQN: a Network-layer Simulator for the Quantum Network Investigation" is accepted by IEEE Network!
 - 2022.9, our paper "A Heuristic Remote Entanglement Distribution Algorithm on Memory-Limited Quantum Paths" is accepted by IEEE Transactions on Communications!
 - 2022.8, our paper "Fidelity-Guaranteed Entanglement Routing in Quantum Networks" is accepted by IEEE Transactions on Communications!

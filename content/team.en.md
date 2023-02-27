@@ -8,7 +8,7 @@ draft: false
 
 ***
 
-## Conunselor
+## Scientific Conunselor
 
 <div class="container">
   <div class="row">
@@ -32,7 +32,7 @@ draft: false
     </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/Photo-yunenghai.jpg" width="210px" height="280px" />
+        <img src="/images/Photo-yunenghai.png" width="210px" height="280px" />
         <figcaption>
             <h5>Nenghai Yu</h5>
             <p></p>
@@ -48,7 +48,7 @@ draft: false
   <div class="row">
     <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/Photo-kaiping.jpg" width="210px" height="280px" />
+        <img src="/images/Photo-kaiping.png" width="210px" height="280px" />
         <figcaption>
             <h5>Kaiping Xue</h5>
             <p><a href="mailto:kpxue@ustc.edu.cn">E-mail</a></p>
@@ -116,6 +116,26 @@ draft: false
             <p></p>
         </figcaption>
         </figure>
+  <div class="row">
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/tanjiesheng.JPG" width="210px" height="280px" />
+        <figcaption>
+            <h5>Jiesheng Tan</h5>
+            <p><a href="mailto:tjs11235@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
+        </figcaption>
+        </figure>
+  <div class="row">
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/lipuli.JPG" width="210px" height="280px" />
+        <figcaption>
+            <h5>Puli Li</h5>
+            <p><a href="mailto:lipuli@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
+        </figcaption>
+        </figure>
     </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
@@ -133,6 +153,32 @@ draft: false
         <figcaption>
             <h5>Zirui Xiao</h5>
             <p><a href="mailto:ackerman@mail.ustc.edu.cn">E-mail</a></p>
+        </figcaption>
+        </figure>
+    </div>
+  </div>
+</div>
+
+## Bachelor Student
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/wujiaqi.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Jiaqi Wu</h5>
+            <p><a href="mailto:wujiaqi191383@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/gaoxuming.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Xuming Gao</h5>
+            <p><a href="mailto:dearlanxing@mail.ustc.edu.cn">E-mail</a></p>
         </figcaption>
         </figure>
     </div>

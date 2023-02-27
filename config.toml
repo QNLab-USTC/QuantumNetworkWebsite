@@ -1,7 +1,7 @@
 baseURL = 'https://qnlab-ustc.com/'
 languageCode = 'en'
 defaultContentLanguage = "en"
-title = 'Group of Quantum Network, USTC'
+title = 'Research Group of Quantum Network, USTC'
 theme = 'timer-hugo'
 enableEmoji = true
 paginate = "8"
