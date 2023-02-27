@@ -52,6 +52,7 @@ draft: false
         <figcaption>
             <h5>Kaiping Xue</h5>
             <p><a href="mailto:kpxue@ustc.edu.cn">E-mail</a></p>
+            <p><a href="mailto:http://staff.ustc.edu.cn/~kpxue/">Homepage</a></p>
         </figcaption>
         </figure>
     </div>
@@ -61,6 +62,7 @@ draft: false
         <figcaption>
             <h5>Jian Li</h5>
             <p><a href="mailto:lijian9@ustc.edu.cn">E-mail</a></p>
+            <p><a href="mailto:https://infonetlijian.github.io/homepage/">Homepage</a></p>
         </figcaption>
         </figure>
     </div>
@@ -137,6 +139,11 @@ draft: false
         </figcaption>
         </figure>
     </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/zhengpeng.jpg" width="210px" height="280px" />
