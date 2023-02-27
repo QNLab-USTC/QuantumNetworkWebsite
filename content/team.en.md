@@ -52,7 +52,7 @@ draft: false
         <figcaption>
             <h5>Kaiping Xue</h5>
             <p><a href="mailto:kpxue@ustc.edu.cn">E-mail</a></p>
-            <p><a href="mailto:http://staff.ustc.edu.cn/~kpxue/">Homepage</a></p>
+            <a href="mailto:http://staff.ustc.edu.cn/~kpxue/">Homepage</a>
         </figcaption>
         </figure>
     </div>
@@ -62,7 +62,7 @@ draft: false
         <figcaption>
             <h5>Jian Li</h5>
             <p><a href="mailto:lijian9@ustc.edu.cn">E-mail</a></p>
-            <p><a href="mailto:https://infonetlijian.github.io/homepage/">Homepage</a></p>
+            <a href="mailto:https://infonetlijian.github.io/homepage/">Homepage</a>
         </figcaption>
         </figure>
     </div>
@@ -120,18 +120,20 @@ draft: false
             <p></p>
         </figcaption>
         </figure>
+    </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/tanjiesheng.JPG" width="210px" height="280px" />
+        <img src="/images/tanjiesheng.jpg" width="210px" height="280px" />
         <figcaption>
             <h5>Jiesheng Tan</h5>
             <p><a href="mailto:tjs11235@mail.ustc.edu.cn">E-mail</a></p>
             <p></p>
         </figcaption>
         </figure>
+    </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/lipuli.JPG" width="210px" height="280px" />
+        <img src="/images/lipuli.jpg" width="210px" height="280px" />
         <figcaption>
             <h5>Puli Li</h5>
             <p><a href="mailto:lipuli@mail.ustc.edu.cn">E-mail</a></p>
@@ -139,11 +141,6 @@ draft: false
         </figcaption>
         </figure>
     </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row">
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/zhengpeng.jpg" width="210px" height="280px" />
