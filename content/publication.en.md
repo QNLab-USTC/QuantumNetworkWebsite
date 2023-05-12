@@ -11,9 +11,14 @@ arXiv
 ***
 # 2023
 
+**Swapping-based Entanglement Routing Design for Congestion Mitigation in Quantum Networks**   
+Zhonghui Li, Jian Li, Kaiping Xue,  David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu   
+**IEEE Transactions on Network and Service Management**, Accepted  
+
 **A Segment-based Multipath Distribution Method in Partially-Trusted Relay Quantum Networks**   
 Mingjun Wang, Jian Li, Kaiping Xue, Ruidong Li, Nenghai Yu, Yangyang Li, Yifeng Liu, Qibin Sun, Jun Lu   
 **IEEE Communications Magazine**, Accepted  
+[Online](https://ieeexplore.ieee.org/abstract/document/10061626) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10061626)  
 
 **SimQN: a Network-layer Simulator for the Quantum Network Investigation**   
 Lutong Chen, Kaiping Xue, Jian Li, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu   
