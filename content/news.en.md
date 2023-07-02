@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2023-7-2T11:23:39+08:00
+date: 2023-7-12T11:23:39+08:00
 draft: false
 ---
 - 2023.7 our paper "Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions" is accepted by IEEE Communications Surveys and Tutorials!  

@@ -1,6 +1,6 @@
 ---
 title: "Our Team"
-date: 2023-7-2T13:25:55+08:00
+date: 2023-7-12T13:25:55+08:00
 draft: false
 ---
 
@@ -91,7 +91,7 @@ draft: false
 </div>
 
 
-# Ph.D Student
+# Ph.D Students
 
 ***
 
@@ -130,22 +130,12 @@ draft: false
 </div>
   
 
-# Master Student 
+# Master Students 
 
 ***
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
-        <figure  style="width: 210px" >
-        <img src="/images/Photo-wangmingjun.JPG" width="210px" height="280px" />
-        <figcaption>
-            <h5>Mingjun Wang</h5>
-            <p><a href="mailto:wmj0113@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
-        </figcaption>
-        </figure>
-    </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/tanjiesheng.jpg" width="210px" height="280px" />
@@ -185,17 +175,7 @@ draft: false
         </figcaption>
         </figure>
     </div>
-  </div>
-</div>
-
-
-# Bachelor Student
-
-***
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
+        <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/wujiaqi.jpg" width="210px" height="280px" />
         <figcaption>
@@ -211,6 +191,36 @@ draft: false
         <figcaption>
             <h5>Xuming Gao</h5>
             <p><a href="mailto:dearlanxing@mail.ustc.edu.cn">E-mail</a></p>
+        </figcaption>
+        </figure>
+    </div>
+  </div>
+</div>
+
+
+# Bachelor Students
+
+***
+
+<div class="container">
+  <div class="row">
+
+  </div>
+</div>
+
+# Graduate Students 
+
+***
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/Photo-wangmingjun.JPG" width="210px" height="280px" />
+        <figcaption>
+            <h5>Mingjun Wang</h5>
+            <p><a href="mailto:wmj0113@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
         </figcaption>
         </figure>
     </div>
