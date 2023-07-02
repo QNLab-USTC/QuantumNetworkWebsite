@@ -1,6 +1,6 @@
 ---
 title: "Our Team"
-date: 2022-12-16T13:25:55+08:00
+date: 2023-7-2T13:25:55+08:00
 draft: false
 ---
 
@@ -59,6 +59,7 @@ draft: false
         <img src="/images/Photo-kaiping.png" width="210px" height="280px" />
         <figcaption>
             <h5>Kaiping Xue</h5>
+            <p>Professor</p>
             <p><a href="mailto:kpxue@ustc.edu.cn">E-mail</a></p>
             <a href="http://staff.ustc.edu.cn/~kpxue/">Homepage</a>
         </figcaption>
@@ -69,8 +70,20 @@ draft: false
         <img src="/images/Photo-lijian.JPG" width="210px" height="280px" />
         <figcaption>
             <h5>Jian Li</h5>
+            <p>Research Associate</p>
             <p><a href="mailto:lijian9@ustc.edu.cn">E-mail</a></p>
             <a href="https://infonetlijian.github.io/homepage/">Homepage</a>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/lizhonghui.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Zhonghui Li</h5>
+            <p>Post-Doc</p>
+            <p><a href="mailto:leestone@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
         </figcaption>
         </figure>
     </div>
@@ -84,16 +97,6 @@ draft: false
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
-        <figure  style="width: 210px" >
-        <img src="/images/lizhonghui.jpg" width="210px" height="280px" />
-        <figcaption>
-            <h5>Zhonghui Li</h5>
-            <p><a href="mailto:leestone@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
-        </figcaption>
-        </figure>
-    </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/wangzhaoying.jpg" width="210px" height="280px" />
@@ -110,6 +113,16 @@ draft: false
         <figcaption>
             <h5>Lutong Chen</h5>
             <p><a href="mailto:lutong98@mail.ustc.edu.cn">E-mail</a></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/chenyuxin.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Yuxin Chen</h5>
+            <p><a href="mailto:dhcgdb@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
         </figcaption>
         </figure>
     </div>

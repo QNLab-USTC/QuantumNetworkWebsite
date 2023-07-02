@@ -1,8 +1,11 @@
 ---
 title: "News"
-date: 2022-12-19T11:23:39+08:00
+date: 2023-7-2T11:23:39+08:00
 draft: false
 ---
+- 2023.7 our paper "Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions" is accepted by IEEE Communications Surveys and Tutorials!  
+- 2023.6 our paper "Q-DDCA: Decentralized Dynamic Congestion Avoid Routing in Large-Scale Quantum Networks" is accepted by IEEE Transactions on Networking!  
+- 2023.5 our paper "Swapping-based Entanglement Routing Design for Congestion Mitigation in Quantum Networks" is accepted by IEEE Transactions on Network and Service Management!  
 - 2023.2 our paper "A Segment-based Multipath Distribution Method in Partially-Trusted Relay Quantum Networks" is accepted by IEEE Communications Magazine!  
 - 2023.1 our paper "SimQN: a Network-layer Simulator for the Quantum Network Investigation" is accepted by IEEE Network!
 - 2022.9, our paper "A Heuristic Remote Entanglement Distribution Algorithm on Memory-Limited Quantum Paths" is accepted by IEEE Transactions on Communications!
