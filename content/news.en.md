@@ -3,6 +3,7 @@ title: "News"
 date: 2023-7-12T11:23:39+08:00
 draft: false
 ---
+- 2023.7 our paper "Efficient Remote Entanglement Distribution in Quantum Networks: A Segment-based Method" is accepted by IEEE Transactions on Network and Service Management! 
 - 2023.7 our paper "Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions" is accepted by IEEE Communications Surveys and Tutorials!  
 - 2023.6 our paper "Q-DDCA: Decentralized Dynamic Congestion Avoid Routing in Large-Scale Quantum Networks" is accepted by IEEE Transactions on Networking!  
 - 2023.5 our paper "Swapping-based Entanglement Routing Design for Congestion Mitigation in Quantum Networks" is accepted by IEEE Transactions on Network and Service Management!  

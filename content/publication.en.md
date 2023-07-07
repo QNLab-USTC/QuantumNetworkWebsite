@@ -8,9 +8,14 @@ draft: false
 
 arXiv
 
-***
+***    
 
 # 2023
+
+**Efficient Remote Entanglement Distribution in Quantum Networks: A Segment-based Method**   
+Zhonghui Li, Jian Li*, Kaiping Xue*,  David S. L. Wei, Nenghai Yu, Qibin Sun, Jun Lu   
+**IEEE Transactions on Network and Service Management**, Accepted  
+
 **Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions**   
 Zhonghui Li, Kaiping Xue*, Jian Li, David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
 **IEEE Communications Surveys and Tutorials**, Accepted     
