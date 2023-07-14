@@ -82,7 +82,7 @@ draft: false
         <figcaption>
             <h5>Zhonghui Li</h5>
             <p>Post-Doc</p>
-            <p><a href="mailto:leestone@mail.ustc.edu.cn">E-mail</a></p>
+            <p><a href="mailto:leestone@ustc.edu.cn">E-mail</a></p>
             <a href="https://lzhstone95.github.io/Homepage/">Homepage</a>
         </figcaption>
         </figure>
