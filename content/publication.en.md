@@ -12,13 +12,20 @@ arXiv
 
 # 2023
 
+**An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks**   
+Zhaoying Wang, Jian Li*, Kaiping Xue*,  David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu   
+**IEEE Transactions on Network Science and Engineering**, Accepted  
+
+
 **Efficient Remote Entanglement Distribution in Quantum Networks: A Segment-based Method**   
 Zhonghui Li, Jian Li*, Kaiping Xue*,  David S. L. Wei, Nenghai Yu, Qibin Sun, Jun Lu   
 **IEEE Transactions on Network and Service Management**, Accepted  
+[Online](https://ieeexplore.ieee.org/abstract/document/10185987) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10185987)    
 
 **Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions**   
 Zhonghui Li, Kaiping Xue*, Jian Li, David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
 **IEEE Communications Surveys and Tutorials**, Accepted     
+[Online](https://ieeexplore.ieee.org/abstract/document/10177948) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10177948)    
 
 **Q-DDCA: Decentralized Dynamic Congestion Avoid Routing in Large-Scale Quantum Networks**   
 Lutong Chen, Kaiping Xue*, Jian Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
