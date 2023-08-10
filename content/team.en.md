@@ -7,7 +7,7 @@ draft: false
 
 
 
-# Scientific Conunselor
+# Scientific Counselor
 
 ***
 
