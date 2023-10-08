@@ -35,4 +35,4 @@ draft: false
    
  * 2021.7, our paper "Build a Large-Scale and Wide-Area Quantum Internet Based on an OSI-Alike Model" is accepted by China Communications!
    
- * 2021.1, our paper "An improved QKD protocol without public announcement basis using periodically derived basis" is accepted by China Communications!
+ * 2021.1, our paper "An improved QKD protocol without public announcement basis using periodically derived basis" is accepted by Quantum Information Processing!
