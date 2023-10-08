@@ -5,9 +5,9 @@ draft: false
 ---
  * 2023.9, our paper "A Connectionless Entanglement Distribution Protocol Design in Quantum Networks" is accepted by IEEE Network!
 
- * 2023.9, Welcome two master students Jiaqi Wu and Xumin Gao to join our team!
+ * 2023.9, Welcome two master students Jiaqi Wu and Xumin Gao to join our group!
 
- * 2023.8, Welcome PhD student Yuxin Chen to join our team!
+ * 2023.8, Welcome PhD student Yuxin Chen to join our group!
    
  * 2023.7, our paper "An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks" is accepted by IEEE Transactions on Network Science and Engineering!
   
