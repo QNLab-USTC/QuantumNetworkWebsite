@@ -12,7 +12,7 @@ arXiv
 
 # 2023
 **A Connectionless Entanglement Distribution Protocol Design in Quantum Networks**
-Zirui Xiao, Jian Li, Kaiping Xue, Zhonghui Li, Nenghai Yu, Qibin Sun, Jun Lu 
+Zirui Xiao, Jian Li*, Kaiping Xue, Zhonghui Li, Nenghai Yu, Qibin Sun, Jun Lu 
 **IEEE Network**, Accepted. 
 
 **An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks**   
