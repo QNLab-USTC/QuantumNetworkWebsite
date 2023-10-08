@@ -17,7 +17,7 @@ Zirui Xiao, Jian Li*, Kaiping Xue, Zhonghui Li, Nenghai Yu, Qibin Sun, Jun Lu
 
 **An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks**   
 Zhaoying Wang, Jian Li*, Kaiping Xue*,  David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu   
-**IEEE Transactions on Network Science and Engineering**, (Early Access). [Online](https://ieeexplore.ieee.org/abstract/document/10147899) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10147899)  
+**IEEE Transactions on Network Science and Engineering**, (Early Access). [**[Online]**](https://ieeexplore.ieee.org/abstract/document/10147899) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10147899)  
 
 **Efficient Remote Entanglement Distribution in Quantum Networks: A Segment-based Method**   
 Zhonghui Li, Jian Li*, Kaiping Xue*,  David S. L. Wei, Nenghai Yu, Qibin Sun, Jun Lu   
