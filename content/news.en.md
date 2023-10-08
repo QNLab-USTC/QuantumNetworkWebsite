@@ -4,6 +4,10 @@ date: 2023-7-12T11:23:39+08:00
 draft: false
 ---
  * 2023.9, our paper _"A Connectionless Entanglement Distribution Protocol Design in Quantum Networks"_ is accepted by IEEE Network!
+
+ * 2023.9, Welcome two master students Jiaqi Wu and Xumin Gao to join our team!
+
+ * 2023.8, Welcome PhD student Yuxin Chen to join our team!
    
  * 2023.7, our paper _"An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks"_ is accepted by IEEE Transactions on Network Science and Engineering!
   
@@ -25,7 +29,7 @@ draft: false
 
  * 2022.7, our paper _"An Asynchronous Entanglement Distribution Protocol for Quantum Networks"_ is accepted by IEEE Network!
   
- * 2022.5, our open-source project **SimQN**, which is a network-layer simulator designed for the quantum networks, has been published on [Github](https://github.com/ertuil/SimQN)!
+ * 2022.5, our open-source project **_SimQN_**, which is a network-layer simulator designed for the quantum networks, has been published on [Github](https://github.com/ertuil/SimQN)!
   
  * 2022.5, our paper _"A Connection-Oriented Entanglement Distribution Design in Quantum Networks"_ is accepted by IEEE Network!
  
