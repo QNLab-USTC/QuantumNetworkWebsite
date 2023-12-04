@@ -208,7 +208,7 @@ draft: false
         <figure  style="width: 210px" >
         <img src="/images/wujiaqi.jpg" width="210px" height="280px" />
         <figcaption>
-            <h5>Bing Yang</h5>
+            <h5>Bin Yang</h5>
             <p><a href="mailto:wujiaqi191383@mail.ustc.edu.cn">E-mail</a></p>
             <p></p>
         </figcaption>
@@ -238,6 +238,16 @@ draft: false
         <img src="/images/Photo-wangmingjun.JPG" width="210px" height="280px" />
         <figcaption>
             <h5>Mingjun Wang</h5>
+            <p><a href="mailto:wmj0113@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/Photo-wangmingjun.JPG" width="210px" height="280px" />
+        <figcaption>
+            <h5>Qidong Jia</h5>
             <p><a href="mailto:wmj0113@mail.ustc.edu.cn">E-mail</a></p>
             <p></p>
         </figcaption>
