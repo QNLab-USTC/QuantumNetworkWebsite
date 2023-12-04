@@ -206,10 +206,10 @@ draft: false
   <div class="row">
   <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/wujiaqi-1.jpg" width="210px" height="280px" />
+        <img src="/images/yangbing.jpg" width="210px" height="280px" />
         <figcaption>
             <h5>Bin Yang</h5>
-            <p><a href="mailto:wujiaqi191383@mail.ustc.edu.cn">E-mail</a></p>
+            <p><a href="mailto:yangbing61@mail.ustc.edu.cn">E-mail</a></p>
             <p></p>
         </figcaption>
         </figure>
