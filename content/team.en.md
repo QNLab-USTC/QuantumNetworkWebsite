@@ -187,7 +187,7 @@ draft: false
     </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/gaoxuming.png" width="210px" height="280px" />
+        <img src="/images/gaoxuming.jpg" width="210px" height="280px" />
         <figcaption>
             <h5>Xuming Gao</h5>
             <p><a href="mailto:dearlanxing@mail.ustc.edu.cn">E-mail</a></p>
