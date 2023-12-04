@@ -245,10 +245,10 @@ draft: false
     </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/Photo-wangmingjun.JPG" width="210px" height="280px" />
+        <img src="/images/jiaqidong.jpg" width="210px" height="280px" />
         <figcaption>
             <h5>Qidong Jia</h5>
-            <p><a href="mailto:wmj0113@mail.ustc.edu.cn">E-mail</a></p>
+            <p><a href="mailto:jqd123@mail.ustc.edu.cn">E-mail</a></p>
             <p></p>
         </figcaption>
         </figure>
