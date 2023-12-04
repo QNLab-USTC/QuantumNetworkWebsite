@@ -204,7 +204,26 @@ draft: false
 
 <div class="container">
   <div class="row">
-
+  <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/wujiaqi.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Bing Yang</h5>
+            <p><a href="mailto:wujiaqi191383@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/wujiaqi.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Yuqi Yang</h5>
+            <p><a href="mailto:wujiaqi191383@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
   </div>
 </div>
 
