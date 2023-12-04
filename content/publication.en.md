@@ -25,7 +25,7 @@ Zhonghui Li, Jian Li*, Kaiping Xue*,  David S. L. Wei, Nenghai Yu, Qibin Sun, Ju
 
 **Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions**   
 Zhonghui Li, Kaiping Xue*, Jian Li, David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
-**IEEE Communications Surveys and Tutorials**, (Early Access). [**[Online](https://ieeexplore.ieee.org/abstract/document/10177948)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10177948)**] - [**[arXiv](https://arxiv.org/pdf/2307.12490.pdf)**]     
+**IEEE Communications Surveys and Tutorials**, Volume: 25, Issue: 4. [**[Online](https://ieeexplore.ieee.org/abstract/document/10177948)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10177948)**] - [**[arXiv](https://arxiv.org/pdf/2307.12490.pdf)**]     
 
 **Q-DDCA: Decentralized Dynamic Congestion Avoid Routing in Large-Scale Quantum Networks**   
 Lutong Chen, Kaiping Xue*, Jian Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
@@ -49,7 +49,7 @@ Lutong Chen, Kaiping Xue*, Jian Li*, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu
 
 **An Asynchronous Entanglement Distribution Protocol for Quantum Networks**  
 Zhaoying Wang, Jian Li*, Kaiping Xue, Shaoyin Cheng, Nenghai Yu, Qibin Sun, Jun Lu  
-**IEEE Network**,Volume: 36, Issue: 5. [**[Online](https://ieeexplore.ieee.org/abstract/document/9963998)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963998)**]
+**IEEE Network**, Volume: 36, Issue: 5. [**[Online](https://ieeexplore.ieee.org/abstract/document/9963998)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963998)**]
 
 **A Heuristic Remote Entanglement Distribution Algorithm on Memory-Limited Quantum Paths**  
 Lutong Chen, Kaiping Xue*, Jian Li*, Nenghai Yu, Ruidong Li, Jianqing Liu, Qibin Sun, Jun Lu  
