@@ -208,7 +208,7 @@ draft: false
         <figure  style="width: 210px" >
         <img src="/images/yangbing.jpg" width="210px" height="280px" />
         <figcaption>
-            <h5>Bin Yang</h5>
+            <h5>Bing Yang</h5>
             <p><a href="mailto:yangbing61@mail.ustc.edu.cn">E-mail</a></p>
             <p></p>
         </figcaption>
