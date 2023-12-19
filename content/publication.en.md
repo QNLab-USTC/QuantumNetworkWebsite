@@ -13,7 +13,7 @@ arXiv
 # 2023
 **Security-Enhanced WireGuard Protocol Design using Quantum Key Distribution**
 Lutong Chen, Kaiping Xue, Jian Li, Zhonghui Li, Nenghai Yu
-**the International Conference on Computing, Networking and Communications (ICNC 2024)**, Accepted.
+**International Conference on Computing, Networking and Communications (ICNC 2024)**, Accepted.
 
 **A Connectionless Entanglement Distribution Protocol Design in Quantum Networks**  
 Zirui Xiao, Jian Li*, Kaiping Xue, Zhonghui Li, Nenghai Yu, Qibin Sun, Jun Lu   
