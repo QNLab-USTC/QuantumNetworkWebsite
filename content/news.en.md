@@ -3,6 +3,8 @@ title: "News"
 date: 2023-7-12T11:23:39+08:00
 draft: false
 ---
+ * 2023.12, our paper "Security-Enhanced WireGuard Protocol Design using Quantum Key Distribution" is accepted by the International Conference on Computing, Networking and Communications (ICNC 2024)!
+ 
  * 2023.09, our paper "A Connectionless Entanglement Distribution Protocol Design in Quantum Networks" is accepted by IEEE Network!
 
  * 2023.09, Welcome two master students Jiaqi Wu and Xumin Gao to join our group!
