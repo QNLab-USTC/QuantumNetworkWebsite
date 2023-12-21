@@ -13,11 +13,11 @@ arXiv
 # 2023
 
 **REDP: Reliable Entanglement Distribution Protocol Design for Large-scale Quantum Networks**     
-Lutong Chen, Kaiping Xue, Jian Li, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu    
+Lutong Chen, Kaiping Xue*, Jian Li, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu    
 **IEEE Journal on Selected Areas in Communications**, Early Accept. **[[Online]()]** - **[[PDF]()]**   
 
 **Security-Enhanced WireGuard Protocol Design using Quantum Key Distribution**    
-Lutong Chen, Kaiping Xue, Jian Li, Zhonghui Li, Nenghai Yu    
+Lutong Chen, Kaiping Xue*, Jian Li, Zhonghui Li, Nenghai Yu    
 **International Conference on Computing, Networking and Communications (ICNC 2024)**, Early Accept. **[[Online]()]** - **[[PDF]()]**
 
 **A Connectionless Entanglement Distribution Protocol Design in Quantum Networks**  
