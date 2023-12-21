@@ -11,21 +11,26 @@ arXiv
 ***    
 
 # 2023
+
+**REDP: Reliable Entanglement Distribution Protocol Design for Large-scale Quantum Networks** 
+Lutong Chen, Kaiping Xue, Jian Li, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu 
+**IEEE Journal on Selected Areas in Communications**, Early Accept. **[[Online]()]** - **[[PDF]()]** 
+
 **Security-Enhanced WireGuard Protocol Design using Quantum Key Distribution**    
 Lutong Chen, Kaiping Xue, Jian Li, Zhonghui Li, Nenghai Yu    
-**International Conference on Computing, Networking and Communications (ICNC 2024)**, Accepted.  
+**International Conference on Computing, Networking and Communications (ICNC 2024)**, Early Accept. **[[Online]()]** - **[[PDF]()]**
 
 **A Connectionless Entanglement Distribution Protocol Design in Quantum Networks**  
 Zirui Xiao, Jian Li*, Kaiping Xue, Zhonghui Li, Nenghai Yu, Qibin Sun, Jun Lu   
-**IEEE Network**, (Early Access). **[[Online](https://ieeexplore.ieee.org/abstract/document/10274626)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10274626)]**
+**IEEE Network**, (Early Accept). **[[Online](https://ieeexplore.ieee.org/abstract/document/10274626)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10274626)]**
 
 **An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks**   
 Zhaoying Wang, Jian Li*, Kaiping Xue*,  David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu   
-**IEEE Transactions on Network Science and Engineering**, (Early Access). **[[Online](https://ieeexplore.ieee.org/abstract/document/10194979)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10194979)]**  
+**IEEE Transactions on Network Science and Engineering**, (Early Accept). **[[Online](https://ieeexplore.ieee.org/abstract/document/10194979)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10194979)]**  
 
 **Efficient Remote Entanglement Distribution in Quantum Networks: A Segment-based Method**   
 Zhonghui Li, Jian Li*, Kaiping Xue*,  David S. L. Wei, Nenghai Yu, Qibin Sun, Jun Lu   
-**IEEE Transactions on Network and Service Management**, (Early Access). [**[Online](https://ieeexplore.ieee.org/abstract/document/10185987)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10185987)**]   
+**IEEE Transactions on Network and Service Management**, (Early Accept). [**[Online](https://ieeexplore.ieee.org/abstract/document/10185987)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10185987)**]   
 
 **Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions**   
 Zhonghui Li, Kaiping Xue*, Jian Li, David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
@@ -33,7 +38,7 @@ Zhonghui Li, Kaiping Xue*, Jian Li, David S. L. Wei, Ruidong Li, Nenghai Yu, Qib
 
 **Q-DDCA: Decentralized Dynamic Congestion Avoid Routing in Large-Scale Quantum Networks**   
 Lutong Chen, Kaiping Xue*, Jian Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
-**IEEE/ACM Transactions on Networking**, (Early Access). [**[Online](https://ieeexplore.ieee.org/abstract/document/10158747)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10158747)**]    
+**IEEE/ACM Transactions on Networking**, (Early Accept). [**[Online](https://ieeexplore.ieee.org/abstract/document/10158747)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10158747)**]    
 
 **Swapping-based Entanglement Routing Design for Congestion Mitigation in Quantum Networks**   
 Zhonghui Li, Jian Li*, Kaiping Xue*,  David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu   
@@ -41,11 +46,11 @@ Zhonghui Li, Jian Li*, Kaiping Xue*,  David S. L. Wei, Ruidong Li, Nenghai Yu, Q
 
 **A Segment-based Multipath Distribution Method in Partially-Trusted Relay Quantum Networks**   
 Mingjun Wang, Jian Li*, Kaiping Xue*, Ruidong Li, Nenghai Yu, Yangyang Li, Yifeng Liu, Qibin Sun, Jun Lu   
-**IEEE Communications Magazine**, (Early Access). [**[Online](https://ieeexplore.ieee.org/abstract/document/10061626)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10061626)**] - [**[Github](https://github.com/infonetlijian/FGR)**]   
+**IEEE Communications Magazine**, (Early Accept). [**[Online](https://ieeexplore.ieee.org/abstract/document/10061626)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10061626)**] - [**[Github](https://github.com/infonetlijian/FGR)**]   
 
 **SimQN: a Network-layer Simulator for the Quantum Network Investigation**   
 Lutong Chen, Kaiping Xue*, Jian Li*, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu   
-**IEEE Network**, (Early Access). [**[Online](https://ieeexplore.ieee.org/abstract/document/10024900/)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10024900)**] - [**[Github](https://github.com/ertuil/SimQN)**]   
+**IEEE Network**, (Early Accept). [**[Online](https://ieeexplore.ieee.org/abstract/document/10024900/)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10024900)**] - [**[Github](https://github.com/ertuil/SimQN)**]   
 
 ***
 
