@@ -2,7 +2,7 @@
 title: "Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions"
 date: 2021-10-1T00:00:00+08:00
 draft: false
-image: "/images/IEEE-Commu-Surveys.png"
+image: "/images/Chen-JSAC.png"
 ---
 
 Quantum applications offer significant advantages over their classical counterparts primarily due to the fundamental principles of quantum mechanics, especially quantum entanglement. To harness the full potential and broaden the scope of quantum applications, it becomes imperative to establish entanglement-assisted quantum networks by connecting multiple quantum nodes through physical channels. Quantum networks have shown promise in terms of improving the overall functional benefits of the Internet and enabling applications with no counterpart in the classical world, which is a breakthrough technology towards the unimaginable future. However, entanglement-assisted quantum networks differ fundamentally from classical networks, encompassing various aspects including physical resources and top-level applications. Therefore, it is crucial to undertake fundamental yet essential endeavors in order to pave the way for building entanglement-assisted quantum networks.
