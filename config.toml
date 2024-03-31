@@ -23,7 +23,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 weight = 1
 [languages.en.params]
     home = "Home"
-    dateFormat = "6 January 2006"
+    dateFormat = "2 January 2006"
 
 # Banner Section
 [params.banner]
@@ -62,7 +62,7 @@ btnURL = "mailto:kpxue@ustc.edu.cn"
 enable = true
 title = "Highlights"
 subtitle = """
-Currently, with the development of quantum devices and quantum information technology, quantum networking has gradually become possible and has the promise of providing wide-area services for quantum applications such as quantum teleportation and distributed quantum computing. However, limited by the communication distance and processing capability of quantum nodes, current quantum networks are characterized by weak capacity, low efficiency, and difficult to guarantee the quality of service. Comparing the development of quantum network to rail transit construction, the current quantum network is only a preliminary solution to the preliminary infrastructure construction problem. How to deal with the source-destination optimal path selection, peak user demand differentiation services and different regional rail train trips allocation, etc. become the key issues to be solved in the future development of quantum network.  
+Currently, with the development of quantum devices and quantum information technology, quantum networking has gradually become possible and has the promise of providing wide-area services for quantum applications such as quantum teleportation and distributed quantum computing. However, limited by the communication distance and processing capability of quantum nodes, current quantum networks are characterized by weak capacity, low efficiency, and difficult to guarantee the quality of service. Comparing the development of quantum network to rail transit construction, the current quantum network is only a preliminary solution to the preliminary infrastructure construction problem. How to deal with the source-destination optimal path selection, peak user demand differentiation services and different regional rail train trips allocation, etc. become the key issues to be solved in the future development of quantum network.
 
 
 Here are some recent works, papers, and other recent situation of our team."""
@@ -124,7 +124,7 @@ url = "#"
 weight = 2
 [languages.zh.params]
     home = "主页"
-    dateFormat = "2006/01/06"
+    dateFormat = "2006/01/02"
 
 [languages.zh.params.banner]
     enable = true
