@@ -1,6 +1,6 @@
 ---
 title: "Our Team"
-date: 2023-7-12T13:25:55+08:00
+date: 2023-07-12T13:25:55+08:00
 draft: false
 ---
 
@@ -18,8 +18,8 @@ draft: false
         <img src="/images/lujun.png" width="210px" height="280px" />
         <figcaption>
             <h5>Jun Lu</h5>
-            <p>Professor</p>  
-            <p>Academician of Chinese Academy of Engineering</p>  
+            <p>Professor</p>
+            <p>Academician of Chinese Academy of Engineering</p>
             <p></p>
         </figcaption>
         </figure>
@@ -29,7 +29,7 @@ draft: false
         <img src="/images/Photo-QibinSun.jpg" width="210px" height="280px" />
         <figcaption>
             <h5>Qibin Sun</h5>
-            <p>Professor</p>  
+            <p>Professor</p>
             <p>IEEE Fellow</p>
         </figcaption>
         </figure>
@@ -39,8 +39,8 @@ draft: false
         <img src="/images/Photo-yunenghai.png" width="210px" height="280px" />
         <figcaption>
             <h5>Nenghai Yu</h5>
-            <p>Professor</p>  
-            <p>Executive Dean of the School of Cyber Security, USTC</p>  
+            <p>Professor</p>
+            <p>Executive Dean of the School of Cyber Security, USTC</p>
             <p></p>
         </figcaption>
         </figure>
@@ -128,9 +128,9 @@ draft: false
     </div>
   </div>
 </div>
-  
 
-# Master Students 
+
+# Master Students
 
 ***
 
@@ -227,7 +227,7 @@ draft: false
   </div>
 </div>
 
-# Graduate Students 
+# Graduate Students
 
 ***
 
