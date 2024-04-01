@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = 'Research Group of Quantum Network, USTC'
 theme = 'timer-hugo'
 enableEmoji = true
+enableGitInfo = true
 paginate = "8"
 
 [params]
@@ -16,6 +17,10 @@ author = "Infonet, USTC"
 googleAnalitycsID = "UA-101909927-1"
 # contact form action
 contactFormAction = "#" # contact form works with https://formspree.io
+
+####### 日期自动更新配置
+[frontmatter]
+  date = [':git', 'date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
 
 ####### 英文页面配置
 ####### 英文页面配置
