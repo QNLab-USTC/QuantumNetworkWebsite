@@ -220,7 +220,7 @@ a:hover {
 
 .navbar .nav-item .nav-link {
   color: #444 !important;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 500;
   transition: .3s all;
   text-transform: uppercase;
