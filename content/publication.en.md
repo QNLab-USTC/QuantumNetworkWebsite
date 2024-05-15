@@ -19,7 +19,7 @@ Lutong Chen, Kaiping Xue, Jian Li, Zhonghui Li, Nenghai Yu\
 
 **A Distributed Routing Protocol Based on Key Reservation in Quantum Key Distribution Networks**
 Jiaqi Wu, Lutong Chen, Jing Zhang, Zixuan Huang, Zhonghui Li, Jian Li, Kaiping Xue, Nenghai Yu\
-**IEEE International Conference on Communications (ICC 2024)**, June 9–13, 2024.\
+**IEEE International Conference on Communications (ICC 2024)**, June 9–13, 2024.
 
 **Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks**
 Zhaoying Wang, Jian Li, Zhonghui Li, Lutong Chen, Nenghai Yu, Qibin Sun and Jun Lu\
