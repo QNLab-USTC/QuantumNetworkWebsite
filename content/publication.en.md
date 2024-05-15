@@ -32,6 +32,11 @@ Lutong Chen, Kaiping Xue*, Jian Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
 **IEEE/ACM Transactions on Networking**, Volume: 32, Issue: 1.\
 [**[Online](https://ieeexplore.ieee.org/abstract/document/10158747)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10158747)**]
 
+**A Connectionless Entanglement Distribution Protocol Design in Quantum Networks**\
+Zirui Xiao, Jian Li*, Kaiping Xue, Zhonghui Li, Nenghai Yu, Qibin Sun, Jun Lu\
+**IEEE Network**, Volume: 38, Issue: 1.\
+**[[Online](https://ieeexplore.ieee.org/abstract/document/10274626)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10274626)]**
+
 ***
 
 # 2023
@@ -40,11 +45,6 @@ Lutong Chen, Kaiping Xue*, Jian Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
 Lutong Chen, Kaiping Xue*, Jian Li, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
 **IEEE Journal on Selected Areas in Communications**, (Early Accept).\
 **[[Online](https://ieeexplore.ieee.org/abstract/document/10477626)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10477626)]**
-
-**A Connectionless Entanglement Distribution Protocol Design in Quantum Networks**\
-Zirui Xiao, Jian Li*, Kaiping Xue, Zhonghui Li, Nenghai Yu, Qibin Sun, Jun Lu\
-**IEEE Network**, (Early Accept).\
-**[[Online](https://ieeexplore.ieee.org/abstract/document/10274626)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10274626)]**
 
 **Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions**\
 Zhonghui Li, Kaiping Xue*, Jian Li, David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
