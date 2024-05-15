@@ -12,16 +12,16 @@ arXiv
 
 # 2024
 
-**Q-CSKDF: A Continuous and Security Key Derivation Function for Quantum Key Distribution**
+**Q-CSKDF: A Continuous and Security Key Derivation Function for Quantum Key Distribution**\
 Lutong Chen, Kaiping Xue, Jian Li, Zhonghui Li, Nenghai Yu\
 **IEEE Network**, (Early Accept).\
 **[[Online](https://ieeexplore.ieee.org/abstract/document/10517672)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10517672)]**
 
-**A Distributed Routing Protocol Based on Key Reservation in Quantum Key Distribution Networks**
+**A Distributed Routing Protocol Based on Key Reservation in Quantum Key Distribution Networks**\
 Jiaqi Wu, Lutong Chen, Jing Zhang, Zixuan Huang, Zhonghui Li, Jian Li, Kaiping Xue, Nenghai Yu\
 **IEEE International Conference on Communications (ICC 2024)**, June 9–13, 2024.
 
-**Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks**
+**Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks**\
 Zhaoying Wang, Jian Li, Zhonghui Li, Lutong Chen, Nenghai Yu, Qibin Sun and Jun Lu\
 **International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)**, July 1-3, 2024.\
 **[[Online](https://www.ieee-qcnc.org/2024/accepted-papers.php)]**
