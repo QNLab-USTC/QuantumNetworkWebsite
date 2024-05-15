@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Group of Quantum Network, USTC</title><link>https://qnlab-ustc.com/</link><description>Recent content on Research Group of Quantum Network, USTC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 15 May 2024 16:40:58 +0800</lastBuildDate><atom:link href="https://qnlab-ustc.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://qnlab-ustc.com/publication/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/publication/</guid><description>Preprints arXiv
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Group of Quantum Network, USTC</title><link>https://qnlab-ustc.com/</link><description>Recent content on Research Group of Quantum Network, USTC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 15 May 2024 21:44:12 +0800</lastBuildDate><atom:link href="https://qnlab-ustc.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Patents</title><link>https://qnlab-ustc.com/patents/</link><pubDate>Wed, 15 May 2024 16:51:22 +0800</pubDate><guid>https://qnlab-ustc.com/patents/</guid><description>申请中 一种基于优先级感知进行密钥资源预分配的分布式路由方法
+发明人：薛开平; 吴佳琦; 李健; 李忠辉;俞能海; 孙启彬; 陆军
+申请号：202410515822.7
+一种针对混合中继QKD网络的分段密钥分发方法及系统
+发明人：李健,王明君,薛开平,陈鲁同,俞能海,孙启彬,陆军
+申请号：202310171705.9（实质审查）
+2024 一种在 IPSec 中融合量子密钥的自适应一次一密数据保护方法
+发明人：薛开平;高旭民;刘斌;李健;陈鲁同;俞能海
+专利号：ZL202410207077.X\
+动态调整量子密钥分组尺寸和量子密钥窗口尺寸的方法及系统
+发明人：薛开平;高旭民;刘斌;李健;陈鲁同;俞能海
+专利号：ZL202410195584.6\
+一种基于动态密钥采样的连续安全密钥派生方法和系统
+发明人：薛开平;陈鲁同;李健;李忠辉;俞能海
+专利号：ZL202410123926.3\
+一种量子密钥分发网络节点间的密钥同步方法
+发明人：李健;郑鹏;薛开平;李忠辉;俞能海
+专利号：ZL202311589216.1\
+一种量子密钥分发网络中负载均衡的分布式路由方法及系统
+发明人：李健;郑鹏;薛开平;李忠辉;俞能海;孙启彬;陆军
+专利号：ZL202410023271.2\
+2023 一种在IPSec协议中动态融合量子密钥的数据保护方法
+发明人：李健,王明君,陈鲁同,薛开平,俞能海,孙启彬,陆军
+专利号：ZL202310399867.8\</description></item><item><title>Publications</title><link>https://qnlab-ustc.com/publication/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/publication/</guid><description>Preprints arXiv
 2024 Q-CSKDF: A Continuous and Security Key Derivation Function for Quantum Key Distribution
 Lutong Chen, Kaiping Xue, Jian Li, Zhonghui Li, Nenghai Yu
 IEEE Network, (Early Accept).
