@@ -126,16 +126,6 @@ draft: false
         </figcaption>
         </figure>
     </div>
-  </div>
-</div>
-
-
-# Master Students
-
-***
-
-<div class="container">
-  <div class="row">
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/tanjiesheng.jpg" width="210px" height="280px" />
@@ -148,14 +138,24 @@ draft: false
     </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/lipuli.jpg" width="210px" height="280px" />
+        <img src="/images/yangyuqi.jpg" width="210px" height="280px" />
         <figcaption>
-            <h5>Puli Li</h5>
-            <p><a href="mailto:lipuli@mail.ustc.edu.cn">E-mail</a></p>
+            <h5>Yuqi Yang</h5>
+            <p><a href="mailto:yyq2020@mail.ustc.edu.cn">E-mail</a></p>
             <p></p>
         </figcaption>
         </figure>
     </div>
+  </div>
+</div>
+
+
+# Master Students
+
+***
+
+<div class="container">
+  <div class="row">
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/zhengpeng.jpg" width="210px" height="280px" />
@@ -194,6 +194,16 @@ draft: false
         </figcaption>
         </figure>
     </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/yangbing.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Bing Yang</h5>
+            <p><a href="mailto:yangbing61@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
   </div>
 </div>
 
@@ -204,22 +214,22 @@ draft: false
 
 <div class="container">
   <div class="row">
-  <div class="col-sm">
+    <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/yangbing.jpg" width="210px" height="280px" />
+        <img src="/images/hengshaochuang.jpg" width="210px" height="280px" />
         <figcaption>
-            <h5>Bing Yang</h5>
-            <p><a href="mailto:yangbing61@mail.ustc.edu.cn">E-mail</a></p>
+            <h5>Shaochuang Heng</h5>
+            <p><a href="mailto:hsc2021@mail.ustc.edu.cn">E-mail</a></p>
             <p></p>
         </figcaption>
         </figure>
     </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/yangyuqi.jpg" width="210px" height="280px" />
+        <img src="/images/xiazite.jpg" width="210px" height="280px" />
         <figcaption>
-            <h5>Yuqi Yang</h5>
-            <p><a href="mailto:yyq2020@mail.ustc.edu.cn">E-mail</a></p>
+            <h5>Zite Xia</h5>
+            <p><a href="mailto:xzt2004@mail.ustc.edu.cn">E-mail</a></p>
             <p></p>
         </figcaption>
         </figure>
@@ -239,7 +249,9 @@ draft: false
         <figcaption>
             <h5>Mingjun Wang</h5>
             <p><a href="mailto:wmj0113@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
+            <p><b>Graduation Year: </b>2023</p>
+            <p><b>To: </b>China Development Bank</p>
+            <p><b>City: </b>Zhengzhou</p>
         </figcaption>
         </figure>
     </div>
@@ -249,6 +261,22 @@ draft: false
         <figcaption>
             <h5>Qidong Jia</h5>
             <p><a href="mailto:jqd123@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Graduation Year: </b>2022</p>
+            <p><b>To: </b>Huawei</p>
+            <p><b>City: </b>Nanjing</p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/lipuli.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Puli Li</h5>
+            <p><a href="mailto:lipuli@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Graduation Year: </b>2024</p>
+            <!-- <p><b>To: </b></p>
+            <p><b>City: </b></p> -->
             <p></p>
         </figcaption>
         </figure>
