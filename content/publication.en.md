@@ -12,6 +12,10 @@ arXiv
 
 # 2024
 
+**Purification Scheduling Control for Throughput Maximization in Quantum Networks**\
+Zirui Xiao, Jian Li, Kaiping Xue, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu\
+**Communications Physics**, (Early Accept).
+
 **Q-CSKDF: A Continuous and Security Key Derivation Function for Quantum Key Distribution**\
 Lutong Chen, Kaiping Xue, Jian Li, Zhonghui Li, Nenghai Yu\
 **IEEE Network**, (Early Accept).\
@@ -19,17 +23,32 @@ Lutong Chen, Kaiping Xue, Jian Li, Zhonghui Li, Nenghai Yu\
 
 **A Distributed Routing Protocol Based on Key Reservation in Quantum Key Distribution Networks**\
 Jiaqi Wu, Lutong Chen, Jing Zhang, Zixuan Huang, Zhonghui Li, Jian Li, Kaiping Xue, Nenghai Yu\
-**IEEE International Conference on Communications (ICC 2024)**, June 9–13, 2024.
+**IEEE International Conference on Communications (ICC 2024)**, June 9–13, 2024.\
+**[[Online](https://ieeexplore.ieee.org/abstract/document/10622992)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10622992)]**
 
 **Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks**\
 Zhaoying Wang, Jian Li, Zhonghui Li, Lutong Chen, Nenghai Yu, Qibin Sun and Jun Lu\
 **International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)**, July 1-3, 2024.\
-**[[Online](https://www.ieee-qcnc.org/2024/accepted-papers.php)]**
+**[[Online](https://ieeexplore.ieee.org/abstract/document/10628434)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10628434)]**
+
+***
+
+# 2023
+
+**REDP: Reliable Entanglement Distribution Protocol Design for Large-scale Quantum Networks**\
+Lutong Chen, Kaiping Xue*, Jian Li, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
+**IEEE Journal on Selected Areas in Communications**, (Early Accept).\
+**[[Online](https://ieeexplore.ieee.org/abstract/document/10477626)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10477626)]**
 
 **Security-Enhanced WireGuard Protocol Design using Quantum Key Distribution**\
 Lutong Chen, Kaiping Xue*, Jian Li, Zhonghui Li, Nenghai Yu\
 **International Conference on Computing, Networking and Communications (ICNC 2024)**, February 19-22, 2024.\
-**[[Online](http://www.conf-icnc.org/2024/papers/p718-chen.pdf)]**
+**[[Online](https://ieeexplore.ieee.org/abstract/document/10556292)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10556292)]**
+
+**A Connectionless Entanglement Distribution Protocol Design in Quantum Networks**\
+Zirui Xiao, Jian Li*, Kaiping Xue, Zhonghui Li, Nenghai Yu, Qibin Sun, Jun Lu\
+**IEEE Network**, Volume: 38, Issue: 1.\
+**[[Online](https://ieeexplore.ieee.org/abstract/document/10274626)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10274626)]**
 
 **An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks**\
 Zhaoying Wang, Jian Li*, Kaiping Xue*,  David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
@@ -41,29 +60,15 @@ Zhonghui Li, Jian Li*, Kaiping Xue*,  David S. L. Wei, Nenghai Yu, Qibin Sun, Ju
 **IEEE Transactions on Network and Service Management**, Volume: 21, Issue: 1.\
 [**[Online](https://ieeexplore.ieee.org/abstract/document/10185987)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10185987)**]
 
-**Q-DDCA: Decentralized Dynamic Congestion Avoid Routing in Large-Scale Quantum Networks**\
-Lutong Chen, Kaiping Xue*, Jian Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
-**IEEE/ACM Transactions on Networking**, Volume: 32, Issue: 1.\
-[**[Online](https://ieeexplore.ieee.org/abstract/document/10158747)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10158747)**]
-
-**A Connectionless Entanglement Distribution Protocol Design in Quantum Networks**\
-Zirui Xiao, Jian Li*, Kaiping Xue, Zhonghui Li, Nenghai Yu, Qibin Sun, Jun Lu\
-**IEEE Network**, Volume: 38, Issue: 1.\
-**[[Online](https://ieeexplore.ieee.org/abstract/document/10274626)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10274626)]**
-
-***
-
-# 2023
-
-**REDP: Reliable Entanglement Distribution Protocol Design for Large-scale Quantum Networks**\
-Lutong Chen, Kaiping Xue*, Jian Li, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
-**IEEE Journal on Selected Areas in Communications**, (Early Accept).\
-**[[Online](https://ieeexplore.ieee.org/abstract/document/10477626)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10477626)]**
-
 **Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions**\
 Zhonghui Li, Kaiping Xue*, Jian Li, David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
 **IEEE Communications Surveys and Tutorials**, Volume: 25, Issue: 4.\
 [**[Online](https://ieeexplore.ieee.org/abstract/document/10177948)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10177948)**] - [**[arXiv](https://arxiv.org/pdf/2307.12490.pdf)**]
+
+**Q-DDCA: Decentralized Dynamic Congestion Avoid Routing in Large-Scale Quantum Networks**\
+Lutong Chen, Kaiping Xue*, Jian Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
+**IEEE/ACM Transactions on Networking**, Volume: 32, Issue: 1.\
+[**[Online](https://ieeexplore.ieee.org/abstract/document/10158747)**] - [**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10158747)**]
 
 **Swapping-based Entanglement Routing Design for Congestion Mitigation in Quantum Networks**\
 Zhonghui Li, Jian Li*, Kaiping Xue*,  David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
