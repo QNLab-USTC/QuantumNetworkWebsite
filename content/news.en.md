@@ -3,6 +3,14 @@ title: "News"
 date: 2023-07-12T11:23:39+08:00
 draft: false
 ---
+ * 2024.08, our paper "Purification Scheduling Control for Throughput Maximization in Quantum Networks" is accepted by Communications Physics!
+
+ * 2024.05, our paper "Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks" is accepted by International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)!
+
+ * 2024.04, our paper "Q-CSKDF: A Continuous and Security Key Derivation Function for Quantum Key Distribution" is accepted by IEEE Network!
+
+ * 2024.01, our paper "A Distributed Routing Protocol Based on Key Reservation in Quantum Key Distribution Networks" is accepted by IEEE International Conference on Communications (ICC 2024)!
+
  * 2023.12, our paper "REDP: Reliable Entanglement Distribution Protocol Design for Large-scale Quantum Networks" is accepted by IEEE Journal on Seclected Areas in Communications!
 
  * 2023.11, our paper "Security-Enhanced WireGuard Protocol Design using Quantum Key Distribution" is accepted by the International Conference on Computing, Networking and Communications (ICNC 2024)!
