@@ -70,7 +70,7 @@ draft: false
         <img src="/images/Photo-lijian.JPG" width="210px" height="280px" />
         <figcaption>
             <h5>Jian Li</h5>
-            <p>Research Associate</p>
+            <p>Associate Researcher</p>
             <p><a href="mailto:lijian9@ustc.edu.cn">E-mail</a></p>
             <a href="https://infonetlijian.github.io/homepage/">Homepage</a>
         </figcaption>
@@ -204,6 +204,26 @@ draft: false
         </figcaption>
         </figure>
     </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/shangkunjie.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Kunjie Shang</h5>
+            <p><a href="mailto:sun_kj@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/zhenghaijun.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Haijun Zheng</h5>
+            <p><a href="mailto:hjzheng@mail.ustc.edu.cn">E-mail</a></p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
   </div>
 </div>
 
@@ -264,19 +284,6 @@ draft: false
             <p><b>Graduation Year: </b>2022</p>
             <p><b>To: </b>Huawei</p>
             <p><b>City: </b>Nanjing</p>
-            <p></p>
-        </figcaption>
-        </figure>
-    </div>
-    <div class="col-sm">
-        <figure  style="width: 210px" >
-        <img src="/images/lipuli.jpg" width="210px" height="280px" />
-        <figcaption>
-            <h5>Puli Li</h5>
-            <p><a href="mailto:lipuli@mail.ustc.edu.cn">E-mail</a></p>
-            <p><b>Graduation Year: </b>2024</p>
-            <!-- <p><b>To: </b></p>
-            <p><b>City: </b></p> -->
             <p></p>
         </figcaption>
         </figure>
