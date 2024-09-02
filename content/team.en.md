@@ -103,7 +103,8 @@ draft: false
         <figcaption>
             <h5>Zhaoying Wang</h5>
             <p><a href="mailto:wzy0716@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
+            <p><b>Research Direction: </b></p>
+            <p>Quantum Internet</p>
         </figcaption>
         </figure>
     </div>
@@ -113,6 +114,8 @@ draft: false
         <figcaption>
             <h5>Lutong Chen</h5>
             <p><a href="mailto:lutong98@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Research Direction: </b></p>
+            <p>Quantum Internet</p>
         </figcaption>
         </figure>
     </div>
@@ -122,7 +125,8 @@ draft: false
         <figcaption>
             <h5>Yuxin Chen</h5>
             <p><a href="mailto:dhcgdb@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
+            <p><b>Research Direction: </b></p>
+            <p>QKD Network</p>
         </figcaption>
         </figure>
     </div>
@@ -132,7 +136,8 @@ draft: false
         <figcaption>
             <h5>Jiesheng Tan</h5>
             <p><a href="mailto:tjs11235@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
+            <p><b>Research Direction: </b></p>
+            <p>Quantum Internet</p>
         </figcaption>
         </figure>
     </div>
@@ -142,7 +147,8 @@ draft: false
         <figcaption>
             <h5>Yuqi Yang</h5>
             <p><a href="mailto:yyq2020@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
+            <p><b>Research Direction: </b></p>
+            <p>QKD Network</p>
         </figcaption>
         </figure>
     </div>
@@ -162,7 +168,8 @@ draft: false
         <figcaption>
             <h5>Peng Zheng</h5>
             <p><a href="mailto:zhengpeng656@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
+            <p><b>Research Direction: </b></p>
+            <p>QKD Network</p>
         </figcaption>
         </figure>
     </div>
@@ -172,6 +179,8 @@ draft: false
         <figcaption>
             <h5>Zirui Xiao</h5>
             <p><a href="mailto:ackerman@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Research Direction: </b></p>
+            <p>Quantum Internet</p>
         </figcaption>
         </figure>
     </div>
@@ -181,7 +190,8 @@ draft: false
         <figcaption>
             <h5>Jiaqi Wu</h5>
             <p><a href="mailto:wujiaqi191383@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
+            <p><b>Research Direction: </b></p>
+            <p>QKD Network</p>
         </figcaption>
         </figure>
     </div>
@@ -191,6 +201,8 @@ draft: false
         <figcaption>
             <h5>Xuming Gao</h5>
             <p><a href="mailto:dearlanxing@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Research Direction: </b></p>
+            <p>QKD Network</p>
         </figcaption>
         </figure>
     </div>
@@ -200,7 +212,8 @@ draft: false
         <figcaption>
             <h5>Bing Yang</h5>
             <p><a href="mailto:yangbing61@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
+            <p><b>Research Direction: </b></p>
+            <p>Quantum Internet</p>
         </figcaption>
         </figure>
     </div>
@@ -210,7 +223,8 @@ draft: false
         <figcaption>
             <h5>Kunjie Shang</h5>
             <p><a href="mailto:sun_kj@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
+            <p><b>Research Direction: </b></p>
+            <p>QKD Network</p>
         </figcaption>
         </figure>
     </div>
@@ -220,7 +234,8 @@ draft: false
         <figcaption>
             <h5>Haijun Zheng</h5>
             <p><a href="mailto:hjzheng@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
+            <p><b>Research Direction: </b></p>
+            <p>QKD Network</p>
         </figcaption>
         </figure>
     </div>
