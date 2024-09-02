@@ -3,6 +3,8 @@ title: "News"
 date: 2023-07-12T11:23:39+08:00
 draft: false
 ---
+ * 2024.8, our team receive Second Class Prize in the Seventennth National College Student Information Security Contest (2024-第十七届全国大学生信息安全竞赛 -—作品赛)!
+
  * 2024.08, our paper "Purification Scheduling Control for Throughput Maximization in Quantum Networks" is accepted by Communications Physics!
 
  * 2024.05, our paper "Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks" is accepted by International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)!
