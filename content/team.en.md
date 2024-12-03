@@ -273,7 +273,7 @@ draft: false
         <figure  style="width: 210px" >
         <img src="/images/jianfengniu.jpg" width="210px" height="280px" />
         <figcaption>
-            <h5>Zite Xia</h5>
+            <h5>Jianfeng Niu</h5>
             <p><a href="mailto:excelsior@mail.ustc.edu.cn">E-mail</a></p>
             <p></p>
         </figcaption>
