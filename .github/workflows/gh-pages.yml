@@ -32,4 +32,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-page
+          publish_dir: ./public
           # cname: www.elliot98.top
