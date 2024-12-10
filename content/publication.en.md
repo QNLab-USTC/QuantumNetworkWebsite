@@ -14,7 +14,28 @@ arXiv
 
 **Purification Scheduling Control for Throughput Maximization in Quantum Networks**\
 Zirui Xiao, Jian Li, Kaiping Xue, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu\
-**Communications Physics**, (Early Accept).
+**Communications Physics**, Volume: 7, Number: 307.\
+**[[Online](https://www.nature.com/articles/s42005-024-01796-2)]** - **[[PDF](https://www.nature.com/articles/s42005-024-01796-2.pdf)]** - **[<button class="citation-btn open-modal" data-modal-id="citation-modal-xiao2024purification">BibTex</button>]**
+
+<div id="citation-modal-xiao2024purification" class="modal">
+  <div class="modal-content">
+    <pre id="citation-text-xiao2024purification" class="citation-box">
+@article{xiao2024purification,
+  title={Purification Scheduling Control for Throughput Maximization in Quantum Networks},
+  author={Xiao, Zirui and Li, Jian and Xue, Kaiping and Yu, Nenghai and Li, Ruidong and Sun, Qibin and Lu, Jun},
+  journal={Communications Physics},
+  volume={7},
+  number={307},
+  year={2024},
+  doi={10.1038/s42005-024-01796-2}
+}
+    </pre>
+    <div class="button-container">
+      <button class="copy-btn" onclick="copyCitation('citation-text-xiao2024purification')">Copy</button>
+      <button class="close-btn" data-modal-id="citation-modal-xiao2024purification">Close</button>
+    </div>
+  </div>
+</div>
 
 **Q-CSKDF: A Continuous and Security Key Derivation Function for Quantum Key Distribution**\
 Lutong Chen, Kaiping Xue, Jian Li, Zhonghui Li, Nenghai Yu\

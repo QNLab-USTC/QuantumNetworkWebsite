@@ -2,11 +2,11 @@
   {{ "<!-- Basic Page Needs -->" | safeHTML }}
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  
+
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
-  
+
   {{ "<!-- Mobile Specific Metas -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Title }}</title>
@@ -29,9 +29,148 @@
   {{ "<!-- template main css file -->" | safeHTML }}
   {{ $styles := resources.Get "css/style.css" | minify}}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
-  
+
 	{{"<!-- Custom stylesheet - for your changes -->" |safeHTML}}
 	{{ $custom := resources.Get "css/custom.css" | minify }}
   <link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
-  
+
 </head>
+
+<!-- Ciatation Model Style -->
+<style>
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.modal-content {
+    margin: 10% auto;
+    padding: 20px;
+    background-color: #fefefe;
+    width: 80%;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+    text-align: center;
+}
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: -10px;
+}
+.close:hover, .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.citation-box {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-family: monospace;
+    text-align: left;
+    overflow-x: auto;
+}
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+/* Ciatatin btn Style*/
+.citation-btn {
+    background: none;
+    border: none;
+    color: #007bff;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: inherit;
+    padding: 0;
+}
+
+.citation-btn:hover {
+    color: #0056b3;
+}
+/* Copy btn Style */
+.copy-btn {
+    display: inline-block;
+    padding: 8px 12px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 0px;
+    width: 60px;
+    height: 40px;
+}
+.copy-btn:hover {
+    background: #0056b3;
+}
+/* Close btn Style */
+.close-btn {
+    display: inline-block;
+    padding: 8px 12px;
+    background: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 0px;
+    width: 60px;
+    height: 40px;
+}
+.close-btn:hover {
+    background: #c82333;
+}
+</style>
+
+<!-- Ciatation Model Function -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const openButtons = document.querySelectorAll('.open-modal');
+    const closeButtons = document.querySelectorAll('.close-btn');
+
+    openButtons.forEach((btn) => {
+        btn.addEventListener('click', function () {
+            const modalId = btn.getAttribute('data-modal-id');
+            const modal = document.getElementById(modalId);
+            if (modal) modal.style.display = 'block';
+        });
+    });
+
+    closeButtons.forEach((btn) => {
+        btn.addEventListener('click', function () {
+            const modalId = btn.getAttribute('data-modal-id');
+            const modal = document.getElementById(modalId);
+            if (modal) modal.style.display = 'none';
+        });
+    });
+
+    window.addEventListener('click', function (event) {
+        const modals = document.querySelectorAll('.modal');
+        modals.forEach((modal) => {
+            if (event.target === modal) {
+                modal.style.display = 'none';
+            }
+        });
+    });
+});
+    function copyCitation(elementId) {
+        const citationText = document.getElementById(elementId).innerText;
+        navigator.clipboard.writeText(citationText).then(() => {
+            alert('Citation copied to clipboard!');
+        }).catch(err => {
+            console.error('Failed to copy citation: ', err);
+        });
+    }
+</script>
