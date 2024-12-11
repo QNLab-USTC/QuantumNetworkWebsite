@@ -3,7 +3,15 @@ title: "News"
 date: 2023-07-12T11:23:39+08:00
 draft: false
 ---
- * 2024.8, our team receive Second Class Prize in the Seventennth National College Student Information Security Contest (2024-第十七届全国大学生信息安全竞赛 -—作品赛)! - **[[Link](http://www.ciscn.cn/announcement/view/364)]**
+ * 2024.12, our paper "Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks" is accepted by IEEE Transactions on Communications!
+
+ * 2024.11, our paper "DRM-ETP: A Dynamic Rate Matching-Based Entanglement Transport Protocol in Quantum Networks" is accepted by IEEE/ACM Transactions on Networking!
+
+ * 2024.10, our paper "NarrowGap: Reducing Bottlenecks for End-to-end Entanglement Distribution in Quantum Networks" is accepted by IEEE/ACM Transactions on Networking!
+
+ * 2024.09, welcome three master students Bing Yang, Kunjie Shang, and Haijun Zheng, as well as one PhD student, Yuqi Yang, to join our group!
+
+ * 2024.08, our team receive Second Class Prize in the Seventennth National College Student Information Security Contest (2024-第十七届全国大学生信息安全竞赛 -—作品赛)! - **[[Link](http://www.ciscn.cn/announcement/view/364)]**
 
  * 2024.08, our paper "Purification Scheduling Control for Throughput Maximization in Quantum Networks" is accepted by Communications Physics!
 
