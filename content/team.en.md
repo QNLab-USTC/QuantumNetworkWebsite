@@ -87,6 +87,17 @@ draft: false
         </figcaption>
         </figure>
     </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/chenlutong.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Lutong Chen</h5>
+            <p>Post-Doc</p>
+            <p><a href="mailto:lutong98@mail.ustc.edu.cn">E-mail</a></p>
+            <a href="https://www.elliot98.top/">Homepage</a>
+        </figcaption>
+        </figure>
+    </div>
   </div>
 </div>
 
@@ -97,28 +108,6 @@ draft: false
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
-        <figure  style="width: 210px" >
-        <img src="/images/wangzhaoying.jpg" width="210px" height="280px" />
-        <figcaption>
-            <h5>Zhaoying Wang</h5>
-            <p><a href="mailto:wzy0716@mail.ustc.edu.cn">E-mail</a></p>
-            <p><b>Research Direction: </b></p>
-            <p>Quantum Internet</p>
-        </figcaption>
-        </figure>
-    </div>
-    <div class="col-sm">
-        <figure  style="width: 210px" >
-        <img src="/images/chenlutong.jpg" width="210px" height="280px" />
-        <figcaption>
-            <h5>Lutong Chen</h5>
-            <p><a href="mailto:lutong98@mail.ustc.edu.cn">E-mail</a></p>
-            <p><b>Research Direction: </b></p>
-            <p>Quantum Internet</p>
-        </figcaption>
-        </figure>
-    </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/chenyuxin.jpg" width="210px" height="280px" />
@@ -288,6 +277,18 @@ draft: false
 
 <div class="container">
   <div class="row">
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/wangzhaoying.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Zhaoying Wang</h5>
+            <p><a href="mailto:wzy0716@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Graduation Year: </b>2024</p>
+            <p><b>To: </b>BYD Company</p>
+            <p><b>City: </b>Shenzhen</p>
+        </figcaption>
+        </figure>
+    </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/Photo-wangmingjun.JPG" width="210px" height="280px" />
