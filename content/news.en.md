@@ -3,6 +3,12 @@ title: "News"
 date: 2023-07-12T11:23:39+08:00
 draft: false
 ---
+ * 2024.2, our paper "IPSeQ: A Security-Enhanced IPSec Protocol Integrated with Quantum Key Distribution" is accepted by IEEE Communications Magazine!
+
+ * 2024.1, our paper "Integration of Quantum Key Distribution Networks and Classical Networks: An Evolution Perspective" is accepted by IEEE Network!
+
+ * 2024.1, our paper "An On-demand Routing Scheme with QoS Provisioning for QKD Networks" is accepted by IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC) 2025!
+
  * 2024.12, our paper "Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks" is accepted by IEEE Transactions on Communications!
 
  * 2024.11, our paper "DRM-ETP: A Dynamic Rate Matching-Based Entanglement Transport Protocol in Quantum Networks" is accepted by IEEE/ACM Transactions on Networking!
