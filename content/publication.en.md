@@ -43,6 +43,10 @@ Jian Li, Peng Zheng, Zhonghui Li, Kaiping Xue, Zhilin Xie, Nenghai Yu\
 Yuqi Yang, Zhonghui Li, Jian Li, Shaochuang Heng, Lutong Chen, Qibin Sun, Jun Lu\
 **International Conference on Quantum Communications, Networking, and Computing (QCNC 2025)**.
 
+**Decentralized Key Management and Service in Quantum Key Distribution Networks: An Experimental Implementation**\
+Jian Li, Peng Zheng, Zhonghui Li*, Yuqi Yang, Nenghai Yu, Qibin Sun, Jun Lu\
+**IEEE Journal on Selected Areas in Communications**, (Early Access).
+
 ***
 
 # 2024
