@@ -9,6 +9,8 @@ draft: false
 
  * 2024.1, our paper "An On-demand Routing Scheme with QoS Provisioning for QKD Networks" is accepted by IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC) 2025!
 
+ * 2024.1, our paper "Decentralized Key Management and Service in Quantum Key Distribution Networks: An Experimental Implementation" is accepted by IEEE Journal on Selected Areas in Communications!
+
  * 2024.12, our paper "Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks" is accepted by IEEE Transactions on Communications!
 
  * 2024.11, our paper "DRM-ETP: A Dynamic Rate Matching-Based Entanglement Transport Protocol in Quantum Networks" is accepted by IEEE/ACM Transactions on Networking!
