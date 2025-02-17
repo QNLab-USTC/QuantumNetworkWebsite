@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Group of Quantum Network, USTC</title><link>https://qnlab-ustc.com/</link><description>Recent content on Research Group of Quantum Network, USTC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 11 Dec 2024 17:35:24 +0800</lastBuildDate><atom:link href="https://qnlab-ustc.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Our Team</title><link>https://qnlab-ustc.com/team/</link><pubDate>Wed, 12 Jul 2023 13:25:55 +0800</pubDate><guid>https://qnlab-ustc.com/team/</guid><description>&lt;h1 id="scientific-counselor">Scientific Counselor&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Group of Quantum Network, USTC</title><link>https://qnlab-ustc.com/</link><description>Recent content on Research Group of Quantum Network, USTC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 17 Feb 2025 10:57:10 +0800</lastBuildDate><atom:link href="https://qnlab-ustc.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://qnlab-ustc.com/publication/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/publication/</guid><description>&lt;h1 id="preprints">Preprints&lt;/h1>
+&lt;p>arXiv&lt;/p>
+&lt;hr>
+&lt;h1 id="2025">2025&lt;/h1>
+&lt;p>&lt;strong>IPSeQ: A Security-Enhanced IPSec Protocol Integrated with Quantum Key Distribution&lt;/strong>&lt;br>
+Xumin Gao, Kaiping Xue, Jian Li, Zhonghui Li, Jiaqi Wu, Nenghai Yu, Qibin Sun, Jun Lu&lt;br>
+&lt;strong>IEEE Communications Magazine&lt;/strong>, (Early Access).&lt;/p>
+&lt;p>&lt;strong>Integration of Quantum Key Distribution Networks and Classical Networks: An Evolution Perspective&lt;/strong>&lt;br>
+Jian Li, Peng Zheng, Zhonghui Li, Kaiping Xue, Zhilin Xie, Nenghai Yu&lt;br>
+&lt;strong>IEEE Network&lt;/strong>, (Early Access).&lt;br>
+&lt;strong>[&lt;a href="https://ieeexplore.ieee.org/document/10886940">Online&lt;/a>]&lt;/strong> - &lt;strong>[&lt;a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=10886940">PDF&lt;/a>]&lt;/strong> - &lt;strong>[&lt;button class="citation-btn open-modal" data-modal-id="citation-modal-li2025integration">BibTex&lt;/button>]&lt;/strong>&lt;/p>
+&lt;div id="citation-modal-li2025integration" class="modal">
+ &lt;div class="modal-content">
+ &lt;pre id="citation-text-li2025integration" class="citation-box">
+@article{li2025integration,
+ title={Integration of Quantum Key Distribution Networks and Classical Networks: An Evolution Perspective},
+ author={Li, Jian and Zheng, Peng and Li, Zhonghui and Xue, Kaiping and Xie, Zhilin and Yu, Nenghai and Sun, Qibin and Lu, Jun},
+ journal={IEEE Network},
+ year={2025},
+ publisher={IEEE},
+ doi={10.1109/MNET.2025.3537691}
+}
+ &lt;/pre>
+ &lt;div class="button-container">
+ &lt;button class="copy-btn" onclick="copyCitation('citation-text-li2025integration')">Copy&lt;/button>
+ &lt;button class="close-btn" data-modal-id="citation-modal-li2025integration">Close&lt;/button>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+&lt;p>&lt;strong>An On-demand Routing Scheme with QoS Provisioning for QKD Networks&lt;/strong>&lt;br>
+Yuqi Yang, Zhonghui Li, Jian Li, Shaochuang Heng, Lutong Chen, Qibin Sun, Jun Lu&lt;br>
+&lt;strong>International Conference on Quantum Communications, Networking, and Computing (QCNC 2025)&lt;/strong>.&lt;/p></description></item><item><title>News</title><link>https://qnlab-ustc.com/news/</link><pubDate>Wed, 12 Jul 2023 11:23:39 +0800</pubDate><guid>https://qnlab-ustc.com/news/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>2024.2, our paper &amp;ldquo;IPSeQ: A Security-Enhanced IPSec Protocol Integrated with Quantum Key Distribution&amp;rdquo; is accepted by IEEE Communications Magazine!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>2024.1, our paper &amp;ldquo;Integration of Quantum Key Distribution Networks and Classical Networks: An Evolution Perspective&amp;rdquo; is accepted by IEEE Network!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>2024.1, our paper &amp;ldquo;An On-demand Routing Scheme with QoS Provisioning for QKD Networks&amp;rdquo; is accepted by IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC) 2025!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>2024.12, our paper &amp;ldquo;Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks&amp;rdquo; is accepted by IEEE Transactions on Communications!&lt;/p></description></item><item><title>Our Team</title><link>https://qnlab-ustc.com/team/</link><pubDate>Wed, 12 Jul 2023 13:25:55 +0800</pubDate><guid>https://qnlab-ustc.com/team/</guid><description>&lt;h1 id="scientific-counselor">Scientific Counselor&lt;/h1>
 &lt;hr>
 &lt;div class="container">
  &lt;div class="row">
@@ -125,28 +167,7 @@
 &lt;h2 id="2023">2023&lt;/h2>
 &lt;p>&lt;strong>一种在IPSec协议中动态融合量子密钥的数据保护方法&lt;/strong>&lt;br>
 发明人：李健,王明君,陈鲁同,薛开平,俞能海,孙启彬,陆军&lt;br>
-专利号：&lt;strong>ZL202310399867.8&lt;/strong>&lt;/p></description></item><item><title>News</title><link>https://qnlab-ustc.com/news/</link><pubDate>Wed, 12 Jul 2023 11:23:39 +0800</pubDate><guid>https://qnlab-ustc.com/news/</guid><description>&lt;ul>
-&lt;li>
-&lt;p>2024.12, our paper &amp;ldquo;Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks&amp;rdquo; is accepted by IEEE Transactions on Communications!&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>2024.11, our paper &amp;ldquo;DRM-ETP: A Dynamic Rate Matching-Based Entanglement Transport Protocol in Quantum Networks&amp;rdquo; is accepted by IEEE/ACM Transactions on Networking!&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>2024.10, our paper &amp;ldquo;NarrowGap: Reducing Bottlenecks for End-to-end Entanglement Distribution in Quantum Networks&amp;rdquo; is accepted by IEEE/ACM Transactions on Networking!&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>2024.09, welcome three master students Bing Yang, Kunjie Shang, and Haijun Zheng, as well as one PhD student, Yuqi Yang, to join our group!&lt;/p></description></item><item><title>Publications</title><link>https://qnlab-ustc.com/publication/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/publication/</guid><description>&lt;h1 id="preprints">Preprints&lt;/h1>
-&lt;p>arXiv&lt;/p>
-&lt;hr>
-&lt;h1 id="2024">2024&lt;/h1>
-&lt;p>&lt;strong>Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks&lt;/strong>&lt;br>
-Zhaoying Wang, Jian Li, Kaiping Xue, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu&lt;br>
-&lt;strong>IEEE Transactions on Communucations&lt;/strong>, (Early Access).&lt;/p>
-&lt;p>&lt;strong>DRM-ETP: A Dynamic Rate Matching-Based Entanglement Transport Protocol in Quantum Networks&lt;/strong>&lt;br>
-Jian Li, Zhaoying Wang, Kaiping Xue, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu&lt;br>
-&lt;strong>IEEE/ACM Transactions on Networking&lt;/strong>, (Early Access).&lt;br>
-&lt;strong>[&lt;a href="https://ieeexplore.ieee.org/abstract/document/10778612">Online&lt;/a>]&lt;/strong> - &lt;strong>[&lt;a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=10778612">PDF&lt;/a>]&lt;/strong> - &lt;strong>[&lt;button class="citation-btn open-modal" data-modal-id="citation-modal-li2024drm">BibTex&lt;/button>]&lt;/strong>&lt;/p></description></item><item><title>SimQN: a Network-layer Simulator for the Quantum Network Investigation</title><link>https://qnlab-ustc.com/projects/simqn/</link><pubDate>Fri, 16 Dec 2022 13:40:06 +0800</pubDate><guid>https://qnlab-ustc.com/projects/simqn/</guid><description>&lt;p>Welcome to SimQN&amp;rsquo;s documentation. SimQN is a discrete-event based network simulation platform for quantum networks.
+专利号：&lt;strong>ZL202310399867.8&lt;/strong>&lt;/p></description></item><item><title>SimQN: a Network-layer Simulator for the Quantum Network Investigation</title><link>https://qnlab-ustc.com/projects/simqn/</link><pubDate>Fri, 16 Dec 2022 13:40:06 +0800</pubDate><guid>https://qnlab-ustc.com/projects/simqn/</guid><description>&lt;p>Welcome to SimQN&amp;rsquo;s documentation. SimQN is a discrete-event based network simulation platform for quantum networks.
 SimQN enables large-scale investigations, including QKD protocols, entanglement distributions protocols, and routing algorithms, resource allocation schemas in quantum networks. For example, users can use SimQN to design routing algorithms for better QKD performance. For more information, please refer to the &lt;a href="https://qnlab-ustc.github.io/SimQN/">Documents&lt;/a>.&lt;/p>
 &lt;p>SimQN is a Python3 library for quantum networking simulation. It is designed to be general propose. It means that SimQN can be used for both QKD network, entanglement distribution network and other kinds of quantum networks&amp;rsquo; evaluation. The core idea is that SimQN makes no architecture assumption. Since there is currently no recognized network architecture in quantum networks investigations, SimQN stays flexible in this aspect.&lt;/p></description></item><item><title>2024 National College Student Information Security Contest</title><link>https://qnlab-ustc.com/highlights/ciscn_2024/</link><pubDate>Mon, 02 Sep 2024 19:30:18 +0800</pubDate><guid>https://qnlab-ustc.com/highlights/ciscn_2024/</guid><description>&lt;p>On August 14, 2024, the 17th National College Student Information Security Contest Finals successfully concluded at the Taicang Smart Port Campus of Northwestern Polytechnical University. The team of undergraduate students from our laboratory won the second prize with their project &amp;ldquo;IPSec VPN Data Security Transmission Platform Integrated with Quantum Key&amp;rdquo;, supervised by Associate Researcher Jian Li.&lt;/p>
 &lt;div align="center">
