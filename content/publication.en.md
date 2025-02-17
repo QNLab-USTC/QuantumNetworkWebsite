@@ -9,12 +9,67 @@ draft: false
 arXiv
 
 ***
+# 2025
+
+**IPSeQ: A Security-Enhanced IPSec Protocol Integrated with Quantum Key Distribution**\
+Xumin Gao, Kaiping Xue, Jian Li, Zhonghui Li, Jiaqi Wu, Nenghai Yu, Qibin Sun, Jun Lu\
+**IEEE Communications Magazine**, (Early Access).
+
+**Integration of Quantum Key Distribution Networks and Classical Networks: An Evolution Perspective**\
+Jian Li, Peng Zheng, Zhonghui Li, Kaiping Xue, Zhilin Xie, Nenghai Yu\
+**IEEE Network**, (Early Access).\
+**[[Online](https://ieeexplore.ieee.org/document/10886940)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10886940)]** - **[<button class="citation-btn open-modal" data-modal-id="citation-modal-li2025integration">BibTex</button>]**
+
+<div id="citation-modal-li2025integration" class="modal">
+  <div class="modal-content">
+    <pre id="citation-text-li2025integration" class="citation-box">
+@article{li2025integration,
+  title={Integration of Quantum Key Distribution Networks and Classical Networks: An Evolution Perspective},
+  author={Li, Jian and Zheng, Peng and Li, Zhonghui and Xue, Kaiping and Xie, Zhilin and Yu, Nenghai and Sun, Qibin and Lu, Jun},
+  journal={IEEE Network},
+  year={2025},
+  publisher={IEEE},
+  doi={10.1109/MNET.2025.3537691}
+}
+    </pre>
+    <div class="button-container">
+      <button class="copy-btn" onclick="copyCitation('citation-text-li2025integration')">Copy</button>
+      <button class="close-btn" data-modal-id="citation-modal-li2025integration">Close</button>
+    </div>
+  </div>
+</div>
+
+**An On-demand Routing Scheme with QoS Provisioning for QKD Networks**\
+Yuqi Yang, Zhonghui Li, Jian Li, Shaochuang Heng, Lutong Chen, Qibin Sun, Jun Lu\
+**International Conference on Quantum Communications, Networking, and Computing (QCNC 2025)**.
+
+***
 
 # 2024
 
 **Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks**\
 Zhaoying Wang, Jian Li, Kaiping Xue, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
-**IEEE Transactions on Communucations**, (Early Access).
+**IEEE Transactions on Communucations**, (Early Access).\
+**[[Online](https://ieeexplore.ieee.org/document/10794776)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10794776)]** - **[<button class="citation-btn open-modal" data-modal-id="citation-modal-wang2024fair">BibTex</button>]**
+
+<div id="citation-modal-wang2024fair" class="modal">
+  <div class="modal-content">
+    <pre id="citation-text-wang2024fair" class="citation-box">
+@article{wang2024fair,
+  title={Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks},
+  author={Wang, Zhaoying and Li, Jian and Xue, Kaiping and Li, Zhonghui and Li, Ruidong and Yu, Nenghai and Sun, Qibin and Lu, Jun},
+  journal={IEEE Transactions on Communications},
+  year={2024},
+  publisher={IEEE},
+  doi={10.1109/TCOMM.2024.3516497}
+}
+    </pre>
+    <div class="button-container">
+      <button class="copy-btn" onclick="copyCitation('citation-text-wang2024fair')">Copy</button>
+      <button class="close-btn" data-modal-id="citation-modal-wang2024fair">Close</button>
+    </div>
+  </div>
+</div>
 
 **DRM-ETP: A Dynamic Rate Matching-Based Entanglement Transport Protocol in Quantum Networks**\
 Jian Li, Zhaoying Wang, Kaiping Xue, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
