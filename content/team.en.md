@@ -121,10 +121,10 @@ draft: false
     </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/tanjiesheng.jpg" width="210px" height="280px" />
+        <img src="/images/yangyuqi.jpg" width="210px" height="280px" />
         <figcaption>
-            <h5>Jiesheng Tan</h5>
-            <p><a href="mailto:tjs11235@mail.ustc.edu.cn">E-mail</a></p>
+            <h5>Yuqi Yang</h5>
+            <p><a href="mailto:yyq2020@mail.ustc.edu.cn">E-mail</a></p>
             <p><b>Research Direction: </b></p>
             <p>Quantum Internet</p>
         </figcaption>
@@ -132,10 +132,21 @@ draft: false
     </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/yangyuqi.jpg" width="210px" height="280px" />
+        <img src="/images/hengshaochuang.jpg" width="210px" height="280px" />
         <figcaption>
-            <h5>Yuqi Yang</h5>
-            <p><a href="mailto:yyq2020@mail.ustc.edu.cn">E-mail</a></p>
+            <h5>Shaochuang Heng</h5>
+            <p><a href="mailto:hsc2021@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Research Direction: </b></p>
+            <p>Quantum Internet</p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/jianfengniu.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Jianfeng Niu</h5>
+            <p><a href="mailto:excelsior@mail.ustc.edu.cn">E-mail</a></p>
             <p><b>Research Direction: </b></p>
             <p>QKD Network</p>
         </figcaption>
@@ -152,28 +163,6 @@ draft: false
 <div class="container">
   <div class="row">
     <div class="col-sm">
-        <figure  style="width: 210px" >
-        <img src="/images/zhengpeng.jpg" width="210px" height="280px" />
-        <figcaption>
-            <h5>Peng Zheng</h5>
-            <p><a href="mailto:zhengpeng656@mail.ustc.edu.cn">E-mail</a></p>
-            <p><b>Research Direction: </b></p>
-            <p>QKD Network</p>
-        </figcaption>
-        </figure>
-    </div>
-    <div class="col-sm">
-        <figure  style="width: 210px" >
-        <img src="/images/xiaozirui.jpg" width="210px" height="280px" />
-        <figcaption>
-            <h5>Zirui Xiao</h5>
-            <p><a href="mailto:ackerman@mail.ustc.edu.cn">E-mail</a></p>
-            <p><b>Research Direction: </b></p>
-            <p>Quantum Internet</p>
-        </figcaption>
-        </figure>
-    </div>
-        <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/wujiaqi.jpg" width="210px" height="280px" />
         <figcaption>
@@ -236,18 +225,9 @@ draft: false
 
 ***
 
-<div class="container">
+<!-- <div class="container">
   <div class="row">
-    <div class="col-sm">
-        <figure  style="width: 210px" >
-        <img src="/images/hengshaochuang.jpg" width="210px" height="280px" />
-        <figcaption>
-            <h5>Shaochuang Heng</h5>
-            <p><a href="mailto:hsc2021@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
-        </figcaption>
-        </figure>
-    </div>
+
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/xiazite.jpg" width="210px" height="280px" />
@@ -258,23 +238,17 @@ draft: false
         </figcaption>
         </figure>
     </div>
-    <div class="col-sm">
-        <figure  style="width: 210px" >
-        <img src="/images/jianfengniu.jpg" width="210px" height="280px" />
-        <figcaption>
-            <h5>Jianfeng Niu</h5>
-            <p><a href="mailto:excelsior@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
-        </figcaption>
-        </figure>
-    </div>
+
   </div>
-</div>
+</div> -->
 
 # Graduate Students
 
 ***
 
+## Phd Graduates
+
+***
 <div class="container">
   <div class="row">
     <div class="col-sm">
@@ -286,6 +260,66 @@ draft: false
             <p><b>Graduation Year: </b>2024</p>
             <p><b>To: </b>BYD Company</p>
             <p><b>City: </b>Shenzhen</p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/chenlutong.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Lutong Chen</h5>
+            <p><a href="mailto:lutong98@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Graduation Year: </b>2024</p>
+            <p><b>To: </b>USTC</p>
+            <p><b>City: </b>Hefei</p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/lizhonghui.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Zhonghui Li</h5>
+            <p><a href="mailto:leestone@ustc.edu.cn">E-mail</a></p>
+            <p><b>Graduation Year: </b>2023</p>
+            <p><b>To: </b>Anhui University</p>
+            <p><b>City: </b>Hefei</p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+  </div>
+</div>
+
+## Master Graduates
+
+***
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/zhengpeng.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Peng Zheng</h5>
+            <p><a href="mailto:zhengpeng656@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Graduation Year: </b>2025</p>
+            <p><b>To: </b>Huawei</p>
+            <p><b>City: </b>Shenzhen</p>
+            <p></p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/xiaozirui.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Zirui Xiao</h5>
+            <p><a href="mailto:ackerman@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Graduation Year: </b>2025</p>
+            <p><b>To: </b>Government</p>
+            <p><b>City: </b>Jiangxi Province</p>
+            <p></p>
         </figcaption>
         </figure>
     </div>
@@ -316,3 +350,5 @@ draft: false
     </div>
   </div>
 </div>
+
+
