@@ -1,46 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Group of Quantum Network, USTC</title><link>https://qnlab-ustc.com/</link><description>Recent content on Research Group of Quantum Network, USTC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 17 Feb 2025 11:39:07 +0800</lastBuildDate><atom:link href="https://qnlab-ustc.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://qnlab-ustc.com/publication/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/publication/</guid><description>&lt;h1 id="preprints">Preprints&lt;/h1>
-&lt;p>arXiv&lt;/p>
-&lt;hr>
-&lt;h1 id="2025">2025&lt;/h1>
-&lt;p>&lt;strong>IPSeQ: A Security-Enhanced IPSec Protocol Integrated with Quantum Key Distribution&lt;/strong>&lt;br>
-Xumin Gao, Kaiping Xue, Jian Li, Zhonghui Li, Jiaqi Wu, Nenghai Yu, Qibin Sun, Jun Lu&lt;br>
-&lt;strong>IEEE Communications Magazine&lt;/strong>, (Early Access).&lt;/p>
-&lt;p>&lt;strong>Integration of Quantum Key Distribution Networks and Classical Networks: An Evolution Perspective&lt;/strong>&lt;br>
-Jian Li, Peng Zheng, Zhonghui Li, Kaiping Xue, Zhilin Xie, Nenghai Yu&lt;br>
-&lt;strong>IEEE Network&lt;/strong>, (Early Access).&lt;br>
-&lt;strong>[&lt;a href="https://ieeexplore.ieee.org/document/10886940">Online&lt;/a>]&lt;/strong> - &lt;strong>[&lt;a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=10886940">PDF&lt;/a>]&lt;/strong> - &lt;strong>[&lt;button class="citation-btn open-modal" data-modal-id="citation-modal-li2025integration">BibTex&lt;/button>]&lt;/strong>&lt;/p>
-&lt;div id="citation-modal-li2025integration" class="modal">
- &lt;div class="modal-content">
- &lt;pre id="citation-text-li2025integration" class="citation-box">
-@article{li2025integration,
- title={Integration of Quantum Key Distribution Networks and Classical Networks: An Evolution Perspective},
- author={Li, Jian and Zheng, Peng and Li, Zhonghui and Xue, Kaiping and Xie, Zhilin and Yu, Nenghai and Sun, Qibin and Lu, Jun},
- journal={IEEE Network},
- year={2025},
- publisher={IEEE},
- doi={10.1109/MNET.2025.3537691}
-}
- &lt;/pre>
- &lt;div class="button-container">
- &lt;button class="copy-btn" onclick="copyCitation('citation-text-li2025integration')">Copy&lt;/button>
- &lt;button class="close-btn" data-modal-id="citation-modal-li2025integration">Close&lt;/button>
- &lt;/div>
- &lt;/div>
-&lt;/div>
-&lt;p>&lt;strong>An On-demand Routing Scheme with QoS Provisioning for QKD Networks&lt;/strong>&lt;br>
-Yuqi Yang, Zhonghui Li, Jian Li, Shaochuang Heng, Lutong Chen, Qibin Sun, Jun Lu&lt;br>
-&lt;strong>International Conference on Quantum Communications, Networking, and Computing (QCNC 2025)&lt;/strong>.&lt;/p></description></item><item><title>News</title><link>https://qnlab-ustc.com/news/</link><pubDate>Wed, 12 Jul 2023 11:23:39 +0800</pubDate><guid>https://qnlab-ustc.com/news/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Group of Quantum Network, USTC</title><link>https://qnlab-ustc.com/</link><description>Recent content on Research Group of Quantum Network, USTC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 27 May 2025 15:33:37 +0800</lastBuildDate><atom:link href="https://qnlab-ustc.com/index.xml" rel="self" type="application/rss+xml"/><item><title>News</title><link>https://qnlab-ustc.com/news/</link><pubDate>Wed, 12 Jul 2023 11:23:39 +0800</pubDate><guid>https://qnlab-ustc.com/news/</guid><description>&lt;ul>
 &lt;li>
-&lt;p>2024.2, our paper &amp;ldquo;IPSeQ: A Security-Enhanced IPSec Protocol Integrated with Quantum Key Distribution&amp;rdquo; is accepted by IEEE Communications Magazine!&lt;/p>
+&lt;p>2025.05, congratulations to the master students Peng Zheng and Zirui Xiao for successfully passing their master&amp;rsquo;s thesis defense!&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>2024.1, our paper &amp;ldquo;Integration of Quantum Key Distribution Networks and Classical Networks: An Evolution Perspective&amp;rdquo; is accepted by IEEE Network!&lt;/p>
+&lt;p>2025.02, our paper &amp;ldquo;IPSeQ: A Security-Enhanced IPSec Protocol Integrated with Quantum Key Distribution&amp;rdquo; is accepted by IEEE Communications Magazine!&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>2024.1, our paper &amp;ldquo;An On-demand Routing Scheme with QoS Provisioning for QKD Networks&amp;rdquo; is accepted by IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC) 2025!&lt;/p>
+&lt;p>2025.01, our paper &amp;ldquo;Integration of Quantum Key Distribution Networks and Classical Networks: An Evolution Perspective&amp;rdquo; is accepted by IEEE Network!&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>2024.1, our paper &amp;ldquo;Decentralized Key Management and Service in Quantum Key Distribution Networks: An Experimental Implementation&amp;rdquo; is accepted by IEEE Journal on Selected Areas in Communications!&lt;/p></description></item><item><title>Our Team</title><link>https://qnlab-ustc.com/team/</link><pubDate>Wed, 12 Jul 2023 13:25:55 +0800</pubDate><guid>https://qnlab-ustc.com/team/</guid><description>&lt;h1 id="scientific-counselor">Scientific Counselor&lt;/h1>
+&lt;p>2025.01, our paper &amp;ldquo;An On-demand Routing Scheme with QoS Provisioning for QKD Networks&amp;rdquo; is accepted by IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC) 2025!&lt;/p></description></item><item><title>Our Team</title><link>https://qnlab-ustc.com/team/</link><pubDate>Wed, 12 Jul 2023 13:25:55 +0800</pubDate><guid>https://qnlab-ustc.com/team/</guid><description>&lt;h1 id="scientific-counselor">Scientific Counselor&lt;/h1>
 &lt;hr>
 &lt;div class="container">
  &lt;div class="row">
@@ -139,7 +108,38 @@ Yuqi Yang, Zhonghui Li, Jian Li, Shaochuang Heng, Lutong Chen, Qibin Sun, Jun Lu
  &lt;h5>Yuxin Chen&lt;/h5>
  &lt;p>&lt;a href="mailto:dhcgdb@mail.ustc.edu.cn">E-mail&lt;/a>&lt;/p>
  &lt;p>&lt;b>Research Direction: &lt;/b>&lt;/p>
- &lt;p>QKD Network&lt;/p></description></item><item><title>Patents</title><link>https://qnlab-ustc.com/patents/</link><pubDate>Wed, 15 May 2024 16:51:22 +0800</pubDate><guid>https://qnlab-ustc.com/patents/</guid><description>&lt;h2 id="申请中">申请中&lt;/h2>
+ &lt;p>QKD Network&lt;/p></description></item><item><title>Publications</title><link>https://qnlab-ustc.com/publication/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/publication/</guid><description>&lt;h1 id="preprints">Preprints&lt;/h1>
+&lt;p>arXiv&lt;/p>
+&lt;hr>
+&lt;h1 id="2025">2025&lt;/h1>
+&lt;p>&lt;strong>IPSeQ: A Security-Enhanced IPSec Protocol Integrated with Quantum Key Distribution&lt;/strong>&lt;br>
+Xumin Gao, Kaiping Xue, Jian Li, Zhonghui Li, Jiaqi Wu, Nenghai Yu, Qibin Sun, Jun Lu&lt;br>
+&lt;strong>IEEE Communications Magazine&lt;/strong>, (Early Access).&lt;/p>
+&lt;p>&lt;strong>Integration of Quantum Key Distribution Networks and Classical Networks: An Evolution Perspective&lt;/strong>&lt;br>
+Jian Li, Peng Zheng, Zhonghui Li, Kaiping Xue, Zhilin Xie, Nenghai Yu&lt;br>
+&lt;strong>IEEE Network&lt;/strong>, (Early Access).&lt;br>
+&lt;strong>[&lt;a href="https://ieeexplore.ieee.org/document/10886940">Online&lt;/a>]&lt;/strong> - &lt;strong>[&lt;a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=10886940">PDF&lt;/a>]&lt;/strong> - &lt;strong>[&lt;button class="citation-btn open-modal" data-modal-id="citation-modal-li2025integration">BibTex&lt;/button>]&lt;/strong>&lt;/p>
+&lt;div id="citation-modal-li2025integration" class="modal">
+ &lt;div class="modal-content">
+ &lt;pre id="citation-text-li2025integration" class="citation-box">
+@article{li2025integration,
+ title={Integration of Quantum Key Distribution Networks and Classical Networks: An Evolution Perspective},
+ author={Li, Jian and Zheng, Peng and Li, Zhonghui and Xue, Kaiping and Xie, Zhilin and Yu, Nenghai and Sun, Qibin and Lu, Jun},
+ journal={IEEE Network},
+ year={2025},
+ publisher={IEEE},
+ doi={10.1109/MNET.2025.3537691}
+}
+ &lt;/pre>
+ &lt;div class="button-container">
+ &lt;button class="copy-btn" onclick="copyCitation('citation-text-li2025integration')">Copy&lt;/button>
+ &lt;button class="close-btn" data-modal-id="citation-modal-li2025integration">Close&lt;/button>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+&lt;p>&lt;strong>An On-demand Routing Scheme with QoS Provisioning for QKD Networks&lt;/strong>&lt;br>
+Yuqi Yang, Zhonghui Li, Jian Li, Shaochuang Heng, Lutong Chen, Qibin Sun, Jun Lu&lt;br>
+&lt;strong>International Conference on Quantum Communications, Networking, and Computing (QCNC 2025)&lt;/strong>.&lt;/p></description></item><item><title>Patents</title><link>https://qnlab-ustc.com/patents/</link><pubDate>Wed, 15 May 2024 16:51:22 +0800</pubDate><guid>https://qnlab-ustc.com/patents/</guid><description>&lt;h2 id="申请中">申请中&lt;/h2>
 &lt;p>&lt;strong>一种针对混合中继QKD网络的分段密钥分发方法及系统&lt;/strong>&lt;br>
 发明人：李健,王明君,薛开平,陈鲁同,俞能海,孙启彬,陆军&lt;br>
 申请号：&lt;strong>202310171705.9&lt;/strong>（实质审查）&lt;/p>
