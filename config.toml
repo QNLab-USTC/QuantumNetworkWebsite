@@ -5,7 +5,7 @@ title = 'Research Group of Quantum Network, USTC'
 theme = 'timer-hugo'
 enableEmoji = true
 enableGitInfo = true
-paginate = "8"
+pagerSize = 8
 
 [params]
 home = "Home"
