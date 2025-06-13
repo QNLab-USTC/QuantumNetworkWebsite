@@ -42,6 +42,10 @@ Peng Zheng, Jian Li, Zhonghui Li, Kaiping Xue, Nenghai Yu, Ruidong Li\
   </div>
 </div>
 
+**SwappingBoost: Optimizing Entanglement Routing by Mitigating Bottlenecks in Quantum Networks**\
+Bing Yang,Zhonghui Li,Kaiping Xue,Lutong Chen,Qibin Sun,Jun Lu\
+**International Wireless Communications and Mobile Computing (IWCMC 2025)**, May 12-16, 2025.
+
 **IPSeQ: A Security-Enhanced IPSec Protocol Integrated with Quantum Key Distribution**\
 Xumin Gao, Kaiping Xue, Jian Li, Zhonghui Li, Jiaqi Wu, Nenghai Yu, Qibin Sun, Jun Lu\
 **IEEE Communications Magazine**, (Early Access).\
@@ -68,10 +72,6 @@ Xumin Gao, Kaiping Xue, Jian Li, Zhonghui Li, Jiaqi Wu, Nenghai Yu, Qibin Sun, J
     </div>
   </div>
 </div>
-
-**SwappingBoost: Optimizing Entanglement Routing by Mitigating Bottlenecks in Quantum Networks**\
-Bing Yang,Zhonghui Li,Kaiping Xue,Lutong Chen,Qibin Sun,Jun Lu\
-**International Wireless Communications and Mobile Computing (IWCMC 2025)**, May 12-16, 2025.
 
 **Integration of Quantum Key Distribution Networks and Classical Networks: An Evolution Perspective**\
 Jian Li, Peng Zheng, Zhonghui Li, Kaiping Xue, Zhilin Xie, Nenghai Yu\

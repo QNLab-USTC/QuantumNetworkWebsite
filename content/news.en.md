@@ -3,7 +3,13 @@ title: "News"
 date: 2023-07-12T11:23:39+08:00
 draft: false
 ---
+ * 2025.06 , our paper "An Asynchronous Key Relay Protocol Design for Large-scale Quantum Key Distribution Networks" is accepted by IEEE Transactions on Networking!
+
+ * 2025.05, our paper "An Efficient and Robust Resource Allocation Method for Quantum Key Distribution Networks" is accepted by IEEE Transactions on Network and Service Management!
+
  * 2025.05, congratulations to the master students Peng Zheng and Zirui Xiao for successfully passing their master's thesis defense!
+
+ * 2025.03, our paper "SwappingBoost: Optimizing Entanglement Routing by Mitigating Bottlenecks in Quantum Networks" is accepted by IEEE International Wireless Communications and Mobile Computing (IWCMC 2025)!
 
  * 2025.02, our paper "IPSeQ: A Security-Enhanced IPSec Protocol Integrated with Quantum Key Distribution" is accepted by IEEE Communications Magazine!
 
