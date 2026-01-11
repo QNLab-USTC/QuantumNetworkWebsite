@@ -1,158 +1,155 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Group of Quantum Network, USTC</title><link>https://qnlab-ustc.com/</link><description>Recent content on Research Group of Quantum Network, USTC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 13 Jun 2025 21:10:26 +0800</lastBuildDate><atom:link href="https://qnlab-ustc.com/index.xml" rel="self" type="application/rss+xml"/><item><title>News</title><link>https://qnlab-ustc.com/news/</link><pubDate>Wed, 12 Jul 2023 11:23:39 +0800</pubDate><guid>https://qnlab-ustc.com/news/</guid><description>&lt;ul>
-&lt;li>
-&lt;p>2025.06 , our paper &amp;ldquo;An Asynchronous Key Relay Protocol Design for Large-scale Quantum Key Distribution Networks&amp;rdquo; is accepted by IEEE Transactions on Networking!&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>2025.05, our paper &amp;ldquo;An Efficient and Robust Resource Allocation Method for Quantum Key Distribution Networks&amp;rdquo; is accepted by IEEE Transactions on Network and Service Management!&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>2025.05, congratulations to the master students Peng Zheng and Zirui Xiao for successfully passing their master&amp;rsquo;s thesis defense!&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>2025.03, our paper &amp;ldquo;SwappingBoost: Optimizing Entanglement Routing by Mitigating Bottlenecks in Quantum Networks&amp;rdquo; is accepted by IEEE International Wireless Communications and Mobile Computing (IWCMC 2025)!&lt;/p></description></item><item><title>Publications</title><link>https://qnlab-ustc.com/publication/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/publication/</guid><description>&lt;h1 id="preprints">Preprints&lt;/h1>
-&lt;p>arXiv&lt;/p>
-&lt;hr>
-&lt;h1 id="2025">2025&lt;/h1>
-&lt;p>&lt;strong>An Asynchronous Key Relay Protocol Design for Large-scale Quantum Key Distribution Networks&lt;/strong>&lt;br>
-Yuxin Chen, Jian Li, Zhonghui Li, Kaiping Xue, Nenghai Yu, Qibin Sun, and Jun Lu&lt;br>
-&lt;strong>IEEE Transactions on Networking&lt;/strong>, (Early Access).&lt;/p>
-&lt;p>&lt;strong>An Efficient and Robust Resource Allocation Method for Quantum Key Distribution Networks&lt;/strong>&lt;br>
-Peng Zheng, Jian Li, Zhonghui Li, Kaiping Xue, Nenghai Yu, Ruidong Li&lt;br>
-&lt;strong>IEEE Transactions on Network and Service Management&lt;/strong>, (Early Access).&lt;br>
-&lt;strong>[&lt;a href="https://ieeexplore.ieee.org/abstract/document/11027590">Online&lt;/a>]&lt;/strong> - &lt;strong>[&lt;a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=11027590">PDF&lt;/a>]&lt;/strong> - &lt;strong>[&lt;button class="citation-btn open-modal" data-modal-id="citation-modal-zheng2025integration">BibTex&lt;/button>]&lt;/strong>&lt;/p></description></item><item><title>Our Team</title><link>https://qnlab-ustc.com/team/</link><pubDate>Wed, 12 Jul 2023 13:25:55 +0800</pubDate><guid>https://qnlab-ustc.com/team/</guid><description>&lt;h1 id="scientific-counselor">Scientific Counselor&lt;/h1>
-&lt;hr>
-&lt;div class="container">
- &lt;div class="row">
- &lt;div class="col-sm">
- &lt;figure style="width: 210px" >
- &lt;img src="https://qnlab-ustc.com/images/lujun.png" width="210px" height="280px" />
- &lt;figcaption>
- &lt;h5>Jun Lu&lt;/h5>
- &lt;p>Professor&lt;/p>
- &lt;p>Academician of Chinese Academy of Engineering&lt;/p>
- &lt;p>&lt;/p>
- &lt;/figcaption>
- &lt;/figure>
- &lt;/div>
- &lt;div class="col-sm">
- &lt;figure style="width: 210px" >
- &lt;img src="https://qnlab-ustc.com/images/Photo-QibinSun.jpg" width="210px" height="280px" />
- &lt;figcaption>
- &lt;h5>Qibin Sun&lt;/h5>
- &lt;p>Professor&lt;/p>
- &lt;p>IEEE Fellow&lt;/p>
- &lt;/figcaption>
- &lt;/figure>
- &lt;/div>
- &lt;div class="col-sm">
- &lt;figure style="width: 210px" >
- &lt;img src="https://qnlab-ustc.com/images/Photo-yunenghai.png" width="210px" height="280px" />
- &lt;figcaption>
- &lt;h5>Nenghai Yu&lt;/h5>
- &lt;p>Professor&lt;/p>
- &lt;p>Executive Dean of the School of Cyber Security, USTC&lt;/p>
- &lt;p>&lt;/p>
- &lt;/figcaption>
- &lt;/figure>
- &lt;/div>
- &lt;/div>
-&lt;/div>
-&lt;h1 id="faculty">Faculty&lt;/h1>
-&lt;hr>
-&lt;div class="container">
- &lt;div class="row">
- &lt;div class="col-sm">
- &lt;figure style="width: 210px" >
- &lt;img src="https://qnlab-ustc.com/images/Photo-kaiping.png" width="210px" height="280px" />
- &lt;figcaption>
- &lt;h5>Kaiping Xue&lt;/h5>
- &lt;p>Professor&lt;/p>
- &lt;p>&lt;a href="mailto:kpxue@ustc.edu.cn">E-mail&lt;/a>&lt;/p>
- &lt;a href="http://staff.ustc.edu.cn/~kpxue/">Homepage&lt;/a>
- &lt;/figcaption>
- &lt;/figure>
- &lt;/div>
- &lt;div class="col-sm">
- &lt;figure style="width: 210px" >
- &lt;img src="https://qnlab-ustc.com/images/Photo-lijian.JPG" width="210px" height="280px" />
- &lt;figcaption>
- &lt;h5>Jian Li&lt;/h5>
- &lt;p>Associate Researcher&lt;/p>
- &lt;p>&lt;a href="mailto:lijian9@ustc.edu.cn">E-mail&lt;/a>&lt;/p>
- &lt;a href="https://infonetlijian.github.io/homepage/">Homepage&lt;/a>
- &lt;/figcaption>
- &lt;/figure>
- &lt;/div>
- &lt;div class="col-sm">
- &lt;figure style="width: 210px" >
- &lt;img src="https://qnlab-ustc.com/images/lizhonghui.jpg" width="210px" height="280px" />
- &lt;figcaption>
- &lt;h5>Zhonghui Li&lt;/h5>
- &lt;p>Post-Doc&lt;/p>
- &lt;p>&lt;a href="mailto:leestone@ustc.edu.cn">E-mail&lt;/a>&lt;/p>
- &lt;a href="https://lzhstone95.github.io/Homepage/">Homepage&lt;/a>
- &lt;/figcaption>
- &lt;/figure>
- &lt;/div>
- &lt;div class="col-sm">
- &lt;figure style="width: 210px" >
- &lt;img src="https://qnlab-ustc.com/images/chenlutong.jpg" width="210px" height="280px" />
- &lt;figcaption>
- &lt;h5>Lutong Chen&lt;/h5>
- &lt;p>Post-Doc&lt;/p>
- &lt;p>&lt;a href="mailto:lutong98@mail.ustc.edu.cn">E-mail&lt;/a>&lt;/p>
- &lt;a href="https://www.elliot98.top/">Homepage&lt;/a>
- &lt;/figcaption>
- &lt;/figure>
- &lt;/div>
- &lt;/div>
-&lt;/div>
-&lt;h1 id="phd-students">Ph.D Students&lt;/h1>
-&lt;hr>
-&lt;div class="container">
- &lt;div class="row">
- &lt;div class="col-sm">
- &lt;figure style="width: 210px" >
- &lt;img src="https://qnlab-ustc.com/images/chenyuxin.jpg" width="210px" height="280px" />
- &lt;figcaption>
- &lt;h5>Yuxin Chen&lt;/h5>
- &lt;p>&lt;a href="mailto:dhcgdb@mail.ustc.edu.cn">E-mail&lt;/a>&lt;/p>
- &lt;p>&lt;b>Research Direction: &lt;/b>&lt;/p>
- &lt;p>QKD Network&lt;/p></description></item><item><title>Patents</title><link>https://qnlab-ustc.com/patents/</link><pubDate>Wed, 15 May 2024 16:51:22 +0800</pubDate><guid>https://qnlab-ustc.com/patents/</guid><description>&lt;h2 id="申请中">申请中&lt;/h2>
-&lt;p>&lt;strong>一种针对混合中继QKD网络的分段密钥分发方法及系统&lt;/strong>&lt;br>
-发明人：李健,王明君,薛开平,陈鲁同,俞能海,孙启彬,陆军&lt;br>
-申请号：&lt;strong>202310171705.9&lt;/strong>（实质审查）&lt;/p>
-&lt;hr>
-&lt;h2 id="2024">2024&lt;/h2>
-&lt;p>&lt;strong>一种基于优先级感知进行密钥资源预分配的分布式路由方法&lt;/strong>&lt;br>
-发明人：薛开平; 吴佳琦; 李健; 李忠辉;俞能海; 孙启彬; 陆军&lt;br>
-专利号：&lt;strong>ZL202410515822.7&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>一种在 IPSec 中融合量子密钥的自适应一次一密数据保护方法&lt;/strong>&lt;br>
-发明人：薛开平;高旭民;刘斌;李健;陈鲁同;俞能海&lt;br>
-专利号：&lt;strong>ZL202410207077.X&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>动态调整量子密钥分组尺寸和量子密钥窗口尺寸的方法及系统&lt;/strong>&lt;br>
-发明人：薛开平;高旭民;刘斌;李健;陈鲁同;俞能海&lt;br>
-专利号：&lt;strong>ZL202410195584.6&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>一种基于动态密钥采样的连续安全密钥派生方法和系统&lt;/strong>&lt;br>
-发明人：薛开平;陈鲁同;李健;李忠辉;俞能海&lt;br>
-专利号：&lt;strong>ZL202410123926.3&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>一种量子密钥分发网络节点间的密钥同步方法&lt;/strong>&lt;br>
-发明人：李健;郑鹏;薛开平;李忠辉;俞能海&lt;br>
-专利号：&lt;strong>ZL202311589216.1&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>一种量子密钥分发网络中负载均衡的分布式路由方法及系统&lt;/strong>&lt;br>
-发明人：李健;郑鹏;薛开平;李忠辉;俞能海;孙启彬;陆军&lt;br>
-专利号：&lt;strong>ZL202410023271.2&lt;/strong>&lt;/p>
-&lt;hr>
-&lt;h2 id="2023">2023&lt;/h2>
-&lt;p>&lt;strong>一种在IPSec协议中动态融合量子密钥的数据保护方法&lt;/strong>&lt;br>
-发明人：李健,王明君,陈鲁同,薛开平,俞能海,孙启彬,陆军&lt;br>
-专利号：&lt;strong>ZL202310399867.8&lt;/strong>&lt;/p></description></item><item><title>SimQN: a Network-layer Simulator for the Quantum Network Investigation</title><link>https://qnlab-ustc.com/projects/simqn/</link><pubDate>Fri, 16 Dec 2022 13:40:06 +0800</pubDate><guid>https://qnlab-ustc.com/projects/simqn/</guid><description>&lt;p>Welcome to SimQN&amp;rsquo;s documentation. SimQN is a discrete-event based network simulation platform for quantum networks.
-SimQN enables large-scale investigations, including QKD protocols, entanglement distributions protocols, and routing algorithms, resource allocation schemas in quantum networks. For example, users can use SimQN to design routing algorithms for better QKD performance. For more information, please refer to the &lt;a href="https://qnlab-ustc.github.io/SimQN/">Documents&lt;/a>.&lt;/p>
-&lt;p>SimQN is a Python3 library for quantum networking simulation. It is designed to be general propose. It means that SimQN can be used for both QKD network, entanglement distribution network and other kinds of quantum networks&amp;rsquo; evaluation. The core idea is that SimQN makes no architecture assumption. Since there is currently no recognized network architecture in quantum networks investigations, SimQN stays flexible in this aspect.&lt;/p></description></item><item><title>2024 National College Student Information Security Contest</title><link>https://qnlab-ustc.com/highlights/ciscn_2024/</link><pubDate>Mon, 02 Sep 2024 19:30:18 +0800</pubDate><guid>https://qnlab-ustc.com/highlights/ciscn_2024/</guid><description>&lt;p>On August 14, 2024, the 17th National College Student Information Security Contest Finals successfully concluded at the Taicang Smart Port Campus of Northwestern Polytechnical University. The team of undergraduate students from our laboratory won the second prize with their project &amp;ldquo;IPSec VPN Data Security Transmission Platform Integrated with Quantum Key&amp;rdquo;, supervised by Associate Researcher Jian Li.&lt;/p>
-&lt;div align="center">
- &lt;img src="https://qnlab-ustc.com/images/ciscn_2024_2.png" width="800px" />
-&lt;/div>
-&lt;p>The project aims to integrate quantum key into the traditional IPSec protocol, achieving quantum-resistant security features while maintaining compatibility. To address high-security demands from users, the team introducs the One-Time Pad algorithm. To solve the efficiency issue caused by the low key supply rate in the One-Time Pad mode, the team designs a dynamic key update algorithm to balance security and transmission efficiency. Additionally, to tackle the problems of decreased long-term storage security and difficult key synchronization, the team incorporats a key management mechanism to securely store and synchronize keys generated by QKD (Quantum Key Distribution). Through these designs, the team builds an IPSec VPN data security transmission platform integrated with quantum keys, based on actual QKD devices, and developed a GUI for user convenience.&lt;/p></description></item><item><title>Building a Large-Scale and Wide-Area Quantum Internet Based on an OSI-Alike Model</title><link>https://qnlab-ustc.com/highlights/china-communication/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/highlights/china-communication/</guid><description>&lt;p>The theory and experiment of quantum information have been studied extensively in recent years, and the feasibility of quantum communication has been proved. Although the fundamental technology is not yet mature, research on quantum internet should be conducted. To implement quantum internet, an architecture that describes how quantum nodes are linked to form networks and how protocol functions are vertically composed need to be developed urgently. In this paper, we present a novel design of a cluster-based structure to describe how quantum nodes are interconnected, and how the structure can improve the performance of qubit transmission and reduce the network complexity. The idea of the quantum local area network (QLAN) is proposed as an essential component of the quantum internet. Besides, each quantum repeater links to neighboring repeaters to form a core network, and multiple QLANs are connected through the core network. The core network can be grouped into different hierarchical quantum repeater networks according to needed service requirements. For the sake of interoperability and fast prototyping, we adopt the idea of OSI layering model of the current Internet in the design of quantum internet. Finally, we elaborate on the composition of quantum nodes and the realization of end-to-end communication.&lt;/p></description></item><item><title>Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions</title><link>https://qnlab-ustc.com/highlights/ieee_commu_sur_tur/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/highlights/ieee_commu_sur_tur/</guid><description>&lt;p>Quantum applications offer significant advantages over their classical counterparts primarily due to the fundamental principles of quantum mechanics, especially quantum entanglement. To harness the full potential and broaden the scope of quantum applications, it becomes imperative to establish entanglement-assisted quantum networks by connecting multiple quantum nodes through physical channels. Quantum networks have shown promise in terms of improving the overall functional benefits of the Internet and enabling applications with no counterpart in the classical world, which is a breakthrough technology towards the unimaginable future. However, entanglement-assisted quantum networks differ fundamentally from classical networks, encompassing various aspects including physical resources and top-level applications. Therefore, it is crucial to undertake fundamental yet essential endeavors in order to pave the way for building entanglement-assisted quantum networks.&lt;/p></description></item><item><title>REDP: Reliable Entanglement Distribution Protocol Design for Large-scale Quantum Networks</title><link>https://qnlab-ustc.com/highlights/redp-jsac/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/highlights/redp-jsac/</guid><description>&lt;p>Remote entanglement distribution in an efficient and reliable manner, especially in the context of a largescale quantum network with multiple requests, remains an unsolved challenge. The key difficulties lie in achieving spontaneous and precise control over the entanglement distribution procedure, as multiple nodes need to reach a consensus on how to perform it. From the network aspect, allocating link-layer entangled pairs as resources to achieve high efficiency is also challenging. To address these issues, we propose a decentralized Reliable Entanglement Distribution Protocol (REDP) for large-scale networks. The protocol operates in a Forward-Backward Propagation (FBP) manner, where consensus is reached hop-by-hop and disseminated to all nodes on the path. We further use probabilistic analysis and quasi-static modeling to seek the fairness and efficiency of the network based on the above transmission model. Accordingly, we introduce a Source Window Strategy (SWS) and an Entanglement Allocation Strategy (EAS) to assign sending windows and allocate resources for multiple requests, ensuring a high level of fairness and efficiency from a network perspective. Through systematic simulations involving both classical and quantum communication protocols, we demonstrate that REDP outperforms existing approaches in terms of fairness, throughput, and fidelity performance.&lt;/p></description></item><item><title>About Us</title><link>https://qnlab-ustc.com/about/</link><pubDate>Fri, 16 Dec 2022 13:27:40 +0800</pubDate><guid>https://qnlab-ustc.com/about/</guid><description>&lt;h1 id="to-the-future-of-quantum-era">To the future of quantum era&lt;/h1>
-&lt;p>Nowadays, we are on the cusp of a new age of technology that promises to revolutionize the way we compute, communicate, and secure information. Quantum mechanics, which describes the behavior of particles at the subatomic level, has long been recognized as a powerful tool for information processing. The advancements of quantum mechanics have the potential to solve problems that were previously impossible to solve with classical networks and computers, to provide unprecedented levels of security for our communications, and to create entirely new industries and fields of study. As we look towards the future of quantum technology, we are excited by the possibilities and the potential for future innovations in quantum era.&lt;/p></description></item><item><title>SimQN: a Network-layer Simulator for the Quantum Network Investigation</title><link>https://qnlab-ustc.com/highlights/simqn/</link><pubDate>Mon, 19 Dec 2022 11:39:58 +0800</pubDate><guid>https://qnlab-ustc.com/highlights/simqn/</guid><description>&lt;script>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Group of Quantum Network, USTC</title><link>https://qnlab-ustc.com/</link><description>Recent content on Research Group of Quantum Network, USTC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 12 Jan 2026 00:42:10 +0800</lastBuildDate><atom:link href="https://qnlab-ustc.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://qnlab-ustc.com/publication/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/publication/</guid><description>&lt;h1 id="preprints"&gt;Preprints&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Adaptive Quantum Memory Allocation for Memory-assisted MDI-QKD: A Theoretical Framework for Scalable Multi-User Key Generation&lt;/strong&gt;&lt;br&gt;
+Jiaqi Wu, KunJie Shang, Jian Li, Zhonghui Li, Fengyu Lu, Yuqi Yang, Jiaju Deng, Shuang Wang, Kaiping Xue&lt;br&gt;
+&lt;strong&gt;Nature Communications&lt;/strong&gt;, Under Review, 2025.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Towards an Adaptive Multi-user Quantum Key Distribution Network&lt;/strong&gt;&lt;br&gt;
+Peng Zheng, Wei-Xin Xie, Zhonghui Li, Jian Li, Kaiping Xue, Guan-Jie Fan-Yuan, Shuang Wang, &lt;br&gt;
+Wei Chen, Nenghai Yu, Guang-Can Guo, Zheng-Fu Han&lt;br&gt;
+&lt;strong&gt;Physical Review A&lt;/strong&gt;, Under Review, 2025.&lt;/p&gt;</description></item><item><title>News</title><link>https://qnlab-ustc.com/news/</link><pubDate>Wed, 12 Jul 2023 11:23:39 +0800</pubDate><guid>https://qnlab-ustc.com/news/</guid><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2025.06 , our paper &amp;ldquo;An Asynchronous Key Relay Protocol Design for Large-scale Quantum Key Distribution Networks&amp;rdquo; is accepted by IEEE Transactions on Networking!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2025.05, our paper &amp;ldquo;An Efficient and Robust Resource Allocation Method for Quantum Key Distribution Networks&amp;rdquo; is accepted by IEEE Transactions on Network and Service Management!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2025.05, congratulations to the master students Peng Zheng and Zirui Xiao for successfully passing their master&amp;rsquo;s thesis defense!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2025.03, our paper &amp;ldquo;SwappingBoost: Optimizing Entanglement Routing by Mitigating Bottlenecks in Quantum Networks&amp;rdquo; is accepted by IEEE International Wireless Communications and Mobile Computing (IWCMC 2025)!&lt;/p&gt;</description></item><item><title>Our Team</title><link>https://qnlab-ustc.com/team/</link><pubDate>Wed, 12 Jul 2023 13:25:55 +0800</pubDate><guid>https://qnlab-ustc.com/team/</guid><description>&lt;h1 id="scientific-counselor"&gt;Scientific Counselor&lt;/h1&gt;
+&lt;hr&gt;
+&lt;div class="container"&gt;
+ &lt;div class="row"&gt;
+ &lt;div class="col-sm"&gt;
+ &lt;figure style="width: 210px" &gt;
+ &lt;img src="https://qnlab-ustc.com/images/lujun.png" width="210px" height="280px" /&gt;
+ &lt;figcaption&gt;
+ &lt;h5&gt;Jun Lu&lt;/h5&gt;
+ &lt;p&gt;Professor&lt;/p&gt;
+ &lt;p&gt;Academician of Chinese Academy of Engineering&lt;/p&gt;
+ &lt;p&gt;&lt;/p&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+ &lt;div class="col-sm"&gt;
+ &lt;figure style="width: 210px" &gt;
+ &lt;img src="https://qnlab-ustc.com/images/Photo-QibinSun.jpg" width="210px" height="280px" /&gt;
+ &lt;figcaption&gt;
+ &lt;h5&gt;Qibin Sun&lt;/h5&gt;
+ &lt;p&gt;Professor&lt;/p&gt;
+ &lt;p&gt;IEEE Fellow&lt;/p&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+ &lt;div class="col-sm"&gt;
+ &lt;figure style="width: 210px" &gt;
+ &lt;img src="https://qnlab-ustc.com/images/Photo-yunenghai.png" width="210px" height="280px" /&gt;
+ &lt;figcaption&gt;
+ &lt;h5&gt;Nenghai Yu&lt;/h5&gt;
+ &lt;p&gt;Professor&lt;/p&gt;
+ &lt;p&gt;Executive Dean of the School of Cyber Security, USTC&lt;/p&gt;
+ &lt;p&gt;&lt;/p&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id="faculty"&gt;Faculty&lt;/h1&gt;
+&lt;hr&gt;
+&lt;div class="container"&gt;
+ &lt;div class="row"&gt;
+ &lt;div class="col-sm"&gt;
+ &lt;figure style="width: 210px" &gt;
+ &lt;img src="https://qnlab-ustc.com/images/Photo-kaiping.png" width="210px" height="280px" /&gt;
+ &lt;figcaption&gt;
+ &lt;h5&gt;Kaiping Xue&lt;/h5&gt;
+ &lt;p&gt;Professor&lt;/p&gt;
+ &lt;p&gt;&lt;a href="mailto:kpxue@ustc.edu.cn"&gt;E-mail&lt;/a&gt;&lt;/p&gt;
+ &lt;a href="http://staff.ustc.edu.cn/~kpxue/"&gt;Homepage&lt;/a&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+ &lt;div class="col-sm"&gt;
+ &lt;figure style="width: 210px" &gt;
+ &lt;img src="https://qnlab-ustc.com/images/Photo-lijian.JPG" width="210px" height="280px" /&gt;
+ &lt;figcaption&gt;
+ &lt;h5&gt;Jian Li&lt;/h5&gt;
+ &lt;p&gt;Associate Researcher&lt;/p&gt;
+ &lt;p&gt;&lt;a href="mailto:lijian9@ustc.edu.cn"&gt;E-mail&lt;/a&gt;&lt;/p&gt;
+ &lt;a href="https://infonetlijian.github.io/homepage/"&gt;Homepage&lt;/a&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+ &lt;div class="col-sm"&gt;
+ &lt;figure style="width: 210px" &gt;
+ &lt;img src="https://qnlab-ustc.com/images/lizhonghui.jpg" width="210px" height="280px" /&gt;
+ &lt;figcaption&gt;
+ &lt;h5&gt;Zhonghui Li&lt;/h5&gt;
+ &lt;p&gt;Post-Doc&lt;/p&gt;
+ &lt;p&gt;&lt;a href="mailto:leestone@ustc.edu.cn"&gt;E-mail&lt;/a&gt;&lt;/p&gt;
+ &lt;a href="https://lzhstone95.github.io/Homepage/"&gt;Homepage&lt;/a&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+ &lt;div class="col-sm"&gt;
+ &lt;figure style="width: 210px" &gt;
+ &lt;img src="https://qnlab-ustc.com/images/chenlutong.jpg" width="210px" height="280px" /&gt;
+ &lt;figcaption&gt;
+ &lt;h5&gt;Lutong Chen&lt;/h5&gt;
+ &lt;p&gt;Post-Doc&lt;/p&gt;
+ &lt;p&gt;&lt;a href="mailto:lutong98@mail.ustc.edu.cn"&gt;E-mail&lt;/a&gt;&lt;/p&gt;
+ &lt;a href="https://www.elliot98.top/"&gt;Homepage&lt;/a&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id="phd-students"&gt;Ph.D Students&lt;/h1&gt;
+&lt;hr&gt;
+&lt;div class="container"&gt;
+ &lt;div class="row"&gt;
+ &lt;div class="col-sm"&gt;
+ &lt;figure style="width: 210px" &gt;
+ &lt;img src="https://qnlab-ustc.com/images/chenyuxin.jpg" width="210px" height="280px" /&gt;
+ &lt;figcaption&gt;
+ &lt;h5&gt;Yuxin Chen&lt;/h5&gt;
+ &lt;p&gt;&lt;a href="mailto:dhcgdb@mail.ustc.edu.cn"&gt;E-mail&lt;/a&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;b&gt;Research Direction: &lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;QKD Network&lt;/p&gt;</description></item><item><title>Patents</title><link>https://qnlab-ustc.com/patents/</link><pubDate>Wed, 15 May 2024 16:51:22 +0800</pubDate><guid>https://qnlab-ustc.com/patents/</guid><description>&lt;h2 id="申请中"&gt;申请中&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;一种针对混合中继QKD网络的分段密钥分发方法及系统&lt;/strong&gt;&lt;br&gt;
+发明人：李健,王明君,薛开平,陈鲁同,俞能海,孙启彬,陆军&lt;br&gt;
+申请号：&lt;strong&gt;202310171705.9&lt;/strong&gt;（实质审查）&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="2024"&gt;2024&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;一种基于优先级感知进行密钥资源预分配的分布式路由方法&lt;/strong&gt;&lt;br&gt;
+发明人：薛开平; 吴佳琦; 李健; 李忠辉;俞能海; 孙启彬; 陆军&lt;br&gt;
+专利号：&lt;strong&gt;ZL202410515822.7&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一种在 IPSec 中融合量子密钥的自适应一次一密数据保护方法&lt;/strong&gt;&lt;br&gt;
+发明人：薛开平;高旭民;刘斌;李健;陈鲁同;俞能海&lt;br&gt;
+专利号：&lt;strong&gt;ZL202410207077.X&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;动态调整量子密钥分组尺寸和量子密钥窗口尺寸的方法及系统&lt;/strong&gt;&lt;br&gt;
+发明人：薛开平;高旭民;刘斌;李健;陈鲁同;俞能海&lt;br&gt;
+专利号：&lt;strong&gt;ZL202410195584.6&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一种基于动态密钥采样的连续安全密钥派生方法和系统&lt;/strong&gt;&lt;br&gt;
+发明人：薛开平;陈鲁同;李健;李忠辉;俞能海&lt;br&gt;
+专利号：&lt;strong&gt;ZL202410123926.3&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一种量子密钥分发网络节点间的密钥同步方法&lt;/strong&gt;&lt;br&gt;
+发明人：李健;郑鹏;薛开平;李忠辉;俞能海&lt;br&gt;
+专利号：&lt;strong&gt;ZL202311589216.1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一种量子密钥分发网络中负载均衡的分布式路由方法及系统&lt;/strong&gt;&lt;br&gt;
+发明人：李健;郑鹏;薛开平;李忠辉;俞能海;孙启彬;陆军&lt;br&gt;
+专利号：&lt;strong&gt;ZL202410023271.2&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="2023"&gt;2023&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;一种在IPSec协议中动态融合量子密钥的数据保护方法&lt;/strong&gt;&lt;br&gt;
+发明人：李健,王明君,陈鲁同,薛开平,俞能海,孙启彬,陆军&lt;br&gt;
+专利号：&lt;strong&gt;ZL202310399867.8&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>SimQN: a Network-layer Simulator for the Quantum Network Investigation</title><link>https://qnlab-ustc.com/projects/simqn/</link><pubDate>Fri, 16 Dec 2022 13:40:06 +0800</pubDate><guid>https://qnlab-ustc.com/projects/simqn/</guid><description>&lt;p&gt;Welcome to SimQN&amp;rsquo;s documentation. SimQN is a discrete-event based network simulation platform for quantum networks.
+SimQN enables large-scale investigations, including QKD protocols, entanglement distributions protocols, and routing algorithms, resource allocation schemas in quantum networks. For example, users can use SimQN to design routing algorithms for better QKD performance. For more information, please refer to the &lt;a href="https://qnlab-ustc.github.io/SimQN/"&gt;Documents&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;SimQN is a Python3 library for quantum networking simulation. It is designed to be general propose. It means that SimQN can be used for both QKD network, entanglement distribution network and other kinds of quantum networks&amp;rsquo; evaluation. The core idea is that SimQN makes no architecture assumption. Since there is currently no recognized network architecture in quantum networks investigations, SimQN stays flexible in this aspect.&lt;/p&gt;</description></item><item><title>2024 National College Student Information Security Contest</title><link>https://qnlab-ustc.com/highlights/ciscn_2024/</link><pubDate>Mon, 02 Sep 2024 19:30:18 +0800</pubDate><guid>https://qnlab-ustc.com/highlights/ciscn_2024/</guid><description>&lt;p&gt;On August 14, 2024, the 17th National College Student Information Security Contest Finals successfully concluded at the Taicang Smart Port Campus of Northwestern Polytechnical University. The team of undergraduate students from our laboratory won the second prize with their project &amp;ldquo;IPSec VPN Data Security Transmission Platform Integrated with Quantum Key&amp;rdquo;, supervised by Associate Researcher Jian Li.&lt;/p&gt;
+&lt;div align="center"&gt;
+ &lt;img src="https://qnlab-ustc.com/images/ciscn_2024_2.png" width="800px" /&gt;
+&lt;/div&gt;
+&lt;p&gt;The project aims to integrate quantum key into the traditional IPSec protocol, achieving quantum-resistant security features while maintaining compatibility. To address high-security demands from users, the team introducs the One-Time Pad algorithm. To solve the efficiency issue caused by the low key supply rate in the One-Time Pad mode, the team designs a dynamic key update algorithm to balance security and transmission efficiency. Additionally, to tackle the problems of decreased long-term storage security and difficult key synchronization, the team incorporats a key management mechanism to securely store and synchronize keys generated by QKD (Quantum Key Distribution). Through these designs, the team builds an IPSec VPN data security transmission platform integrated with quantum keys, based on actual QKD devices, and developed a GUI for user convenience.&lt;/p&gt;</description></item><item><title>Building a Large-Scale and Wide-Area Quantum Internet Based on an OSI-Alike Model</title><link>https://qnlab-ustc.com/highlights/china-communication/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/highlights/china-communication/</guid><description>&lt;p&gt;The theory and experiment of quantum information have been studied extensively in recent years, and the feasibility of quantum communication has been proved. Although the fundamental technology is not yet mature, research on quantum internet should be conducted. To implement quantum internet, an architecture that describes how quantum nodes are linked to form networks and how protocol functions are vertically composed need to be developed urgently. In this paper, we present a novel design of a cluster-based structure to describe how quantum nodes are interconnected, and how the structure can improve the performance of qubit transmission and reduce the network complexity. The idea of the quantum local area network (QLAN) is proposed as an essential component of the quantum internet. Besides, each quantum repeater links to neighboring repeaters to form a core network, and multiple QLANs are connected through the core network. The core network can be grouped into different hierarchical quantum repeater networks according to needed service requirements. For the sake of interoperability and fast prototyping, we adopt the idea of OSI layering model of the current Internet in the design of quantum internet. Finally, we elaborate on the composition of quantum nodes and the realization of end-to-end communication.&lt;/p&gt;</description></item><item><title>Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions</title><link>https://qnlab-ustc.com/highlights/ieee_commu_sur_tur/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/highlights/ieee_commu_sur_tur/</guid><description>&lt;p&gt;Quantum applications offer significant advantages over their classical counterparts primarily due to the fundamental principles of quantum mechanics, especially quantum entanglement. To harness the full potential and broaden the scope of quantum applications, it becomes imperative to establish entanglement-assisted quantum networks by connecting multiple quantum nodes through physical channels. Quantum networks have shown promise in terms of improving the overall functional benefits of the Internet and enabling applications with no counterpart in the classical world, which is a breakthrough technology towards the unimaginable future. However, entanglement-assisted quantum networks differ fundamentally from classical networks, encompassing various aspects including physical resources and top-level applications. Therefore, it is crucial to undertake fundamental yet essential endeavors in order to pave the way for building entanglement-assisted quantum networks.&lt;/p&gt;</description></item><item><title>REDP: Reliable Entanglement Distribution Protocol Design for Large-scale Quantum Networks</title><link>https://qnlab-ustc.com/highlights/redp-jsac/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/highlights/redp-jsac/</guid><description>&lt;p&gt;Remote entanglement distribution in an efficient and reliable manner, especially in the context of a largescale quantum network with multiple requests, remains an unsolved challenge. The key difficulties lie in achieving spontaneous and precise control over the entanglement distribution procedure, as multiple nodes need to reach a consensus on how to perform it. From the network aspect, allocating link-layer entangled pairs as resources to achieve high efficiency is also challenging. To address these issues, we propose a decentralized Reliable Entanglement Distribution Protocol (REDP) for large-scale networks. The protocol operates in a Forward-Backward Propagation (FBP) manner, where consensus is reached hop-by-hop and disseminated to all nodes on the path. We further use probabilistic analysis and quasi-static modeling to seek the fairness and efficiency of the network based on the above transmission model. Accordingly, we introduce a Source Window Strategy (SWS) and an Entanglement Allocation Strategy (EAS) to assign sending windows and allocate resources for multiple requests, ensuring a high level of fairness and efficiency from a network perspective. Through systematic simulations involving both classical and quantum communication protocols, we demonstrate that REDP outperforms existing approaches in terms of fairness, throughput, and fidelity performance.&lt;/p&gt;</description></item><item><title>About Us</title><link>https://qnlab-ustc.com/about/</link><pubDate>Fri, 16 Dec 2022 13:27:40 +0800</pubDate><guid>https://qnlab-ustc.com/about/</guid><description>&lt;h1 id="to-the-future-of-quantum-era"&gt;To the future of quantum era&lt;/h1&gt;
+&lt;p&gt;Nowadays, we are on the cusp of a new age of technology that promises to revolutionize the way we compute, communicate, and secure information. Quantum mechanics, which describes the behavior of particles at the subatomic level, has long been recognized as a powerful tool for information processing. The advancements of quantum mechanics have the potential to solve problems that were previously impossible to solve with classical networks and computers, to provide unprecedented levels of security for our communications, and to create entirely new industries and fields of study. As we look towards the future of quantum technology, we are excited by the possibilities and the potential for future innovations in quantum era.&lt;/p&gt;</description></item><item><title>SimQN: a Network-layer Simulator for the Quantum Network Investigation</title><link>https://qnlab-ustc.com/highlights/simqn/</link><pubDate>Mon, 19 Dec 2022 11:39:58 +0800</pubDate><guid>https://qnlab-ustc.com/highlights/simqn/</guid><description>&lt;script&gt;
 window.location.href = "/projects/simqn";
-&lt;/script></description></item></channel></rss>
+&lt;/script&gt;</description></item></channel></rss>
