@@ -6,18 +6,79 @@ draft: false
 
 # Preprints
 
-arXiv
+**Adaptive Quantum Memory Allocation for Memory-assisted MDI-QKD: A Theoretical Framework for Scalable Multi-User Key Generation**\
+Jiaqi Wu, KunJie Shang, Jian Li, Zhonghui Li, Fengyu Lu, Yuqi Yang, Jiaju Deng, Shuang Wang, Kaiping Xue\
+**Nature Communications**, Under Review, 2025.
+
+**Towards an Adaptive Multi-user Quantum Key Distribution Network**\
+Peng Zheng, Wei-Xin Xie, Zhonghui Li, Jian Li, Kaiping Xue, Guan-Jie Fan-Yuan, Shuang Wang, \
+Wei Chen, Nenghai Yu, Guang-Can Guo, Zheng-Fu Han\
+**Physical Review A**, Under Review, 2025.
 
 ***
 # 2025
 
+**QuIKS: Near-Zero Latency Key Supply with Adaptive Buffering for Resource-Efficient Quantum Key Distribution Networks**\
+Yuxin Chen, Zite Xia, Jian Li, Kaiping Xue, Zhonghui Li, Ruidong Li\
+**IEEE Conference on Computer Communications 2026(INFOCOM 2026)**, May 18-21, 2026.
+
+**Fully Heterogeneous Prepare-and-measure Quantum Network for the Next Stage of Quantum Internet**\
+Fengyu Lu, Zehao Wang, Yao Zhou, Yuxuan Fan, Shuang Wang, Zhenqiang Ying, Jian Li, Deyong He, \
+FangXiang Wang, Wei Chen, Kaiping Xue, Guangcan Guo, and Zhengfu Han\
+**Nature Communications**, Volume: 16, Number: 11487.\
+**[[Online](https://www.nature.com/articles/s41467-025-66333-3)]** - **[[PDF](https://www.nature.com/articles/s41467-025-66333-3.pdf)]** - **[<button class="citation-btn open-modal" data-modal-id="citation-modal-lu2025fully">BibTex</button>]**
+
+<div id="citation-modal-lu2025fully" class="modal">
+  <div class="modal-content">
+    <pre id="citation-text-lu2025fully" class="citation-box">
+@article{lu2025fully,
+  title={Fully heterogeneous prepare-and-measure quantum network for the next stage of quantum internet},
+  author={Lu, FengYu and Wang, ZeHao and Zhou, Yao and Fan, YuXuan and Wang, Shuang and Yin, ZhenQiang and Li, Jian and He, DeYong and Wang, FangXiang and Chen, Wei and others},
+  journal={Nature Communications},
+  volume={16},
+  number={11487},
+  pages={},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+    </pre>
+    <div class="button-container">
+      <button class="copy-btn" onclick="copyCitation('citation-text-lu2025fully')">Copy</button>
+      <button class="close-btn" data-modal-id="citation-modal-lu2025fully">Close</button>
+    </div>
+  </div>
+</div>
+
 **An Asynchronous Key Relay Protocol Design for Large-scale Quantum Key Distribution Networks**\
 Yuxin Chen, Jian Li, Zhonghui Li, Kaiping Xue, Nenghai Yu, Qibin Sun, and Jun Lu\
-**IEEE Transactions on Networking**, (Early Access).
+**IEEE Transactions on Networking**, Volume: 33, Issue: 6.\
+**[[Online](https://ieeexplore.ieee.org/abstract/document/11048413)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11048413)]** - **[<button class="citation-btn open-modal" data-modal-id="citation-modal-chen2025asynchronous">BibTex</button>]**
+
+<div id="citation-modal-chen2025asynchronous" class="modal">
+  <div class="modal-content">
+    <pre id="citation-text-chen2025asynchronous" class="citation-box">
+@article{chen2025asynchronous,
+  author={Chen, Yuxin and Li, Jian and Li, Zhonghui and Xue, Kaiping and Yu, Nenghai and Sun, Qibin and Lu, Jun},
+  journal={IEEE Transactions on Networking},
+  title={An Asynchronous Key Relay Protocol Design for Large-Scale Quantum Key Distribution Networks},
+  year={2025},
+  volume={33},
+  number={6},
+  pages={3024-3039},
+  publisher={IEEE},
+  doi={10.1109/TON.2025.3579932}
+}
+    </pre>
+    <div class="button-container">
+      <button class="copy-btn" onclick="copyCitation('citation-text-chen2025asynchronous')">Copy</button>
+      <button class="close-btn" data-modal-id="citation-modal-chen2025asynchronous">Close</button>
+    </div>
+  </div>
+</div>
 
 **An Efficient and Robust Resource Allocation Method for Quantum Key Distribution Networks**\
 Peng Zheng, Jian Li, Zhonghui Li, Kaiping Xue, Nenghai Yu, Ruidong Li\
-**IEEE Transactions on Network and Service Management**, (Early Access).\
+**IEEE Transactions on Network and Service Management**, Volume: 22, Issue: 5.\
 **[[Online](https://ieeexplore.ieee.org/abstract/document/11027590)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11027590)]** - **[<button class="citation-btn open-modal" data-modal-id="citation-modal-zheng2025integration">BibTex</button>]**
 
 <div id="citation-modal-zheng2025integration" class="modal">
@@ -28,9 +89,9 @@ Peng Zheng, Jian Li, Zhonghui Li, Kaiping Xue, Nenghai Yu, Ruidong Li\
   author={Zheng, Peng and Li, Jian and Li, Zhonghui and Xue, Kaiping and Yu, Nenghai and Li, Ruidong and Sun, Qibin and Lu, Jun},
   journal={IEEE Transactions on Network and Service Management},
   year={2025},
-  volume={},
-  number={},
-  pages={},
+  volume={22},
+  number={5},
+  pages={4083-4095},
   publisher={IEEE},
   doi={10.1109/TNSM.2025.3577285}
 }
@@ -44,11 +105,34 @@ Peng Zheng, Jian Li, Zhonghui Li, Kaiping Xue, Nenghai Yu, Ruidong Li\
 
 **SwappingBoost: Optimizing Entanglement Routing by Mitigating Bottlenecks in Quantum Networks**\
 Bing Yang,Zhonghui Li,Kaiping Xue,Lutong Chen,Qibin Sun,Jun Lu\
-**International Wireless Communications and Mobile Computing (IWCMC 2025)**, May 12-16, 2025.
+**International Wireless Communications and Mobile Computing (IWCMC 2025)**, May 12-16, 2025.\
+**[[Online](https://ieeexplore.ieee.org/document/11059641)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11059641)]** - **[<button class="citation-btn open-modal" data-modal-id="citation-modal-yang2025swappingboost">BibTex</button>]**
+
+<div id="citation-modal-yang2025swappingboost" class="modal">
+  <div class="modal-content">
+    <pre id="citation-text-yang2025swappingboost" class="citation-box">
+@inproceedings{yang2025swappingboost,
+  author={Yang, Bing and Li, Zhonghui and Xue, Kaiping and Chen, Lutong and Sun, Qibin and Lu, Jun},
+  booktitle={2025 International Wireless Communications and Mobile Computing (IWCMC)},
+  title={SwappingBoost: Optimizing Entanglement Routing by Mitigating Bottlenecks in Quantum Networks},
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  organization={IEEE},
+  doi={10.1109/IWCMC65282.2025.11059641}
+}
+    </pre>
+    <div class="button-container">
+      <button class="copy-btn" onclick="copyCitation('citation-text-yang2025swappingboost')">Copy</button>
+      <button class="close-btn" data-modal-id="citation-modal-yang2025swappingboost">Close</button>
+    </div>
+  </div>
+</div>
 
 **IPSeQ: A Security-Enhanced IPSec Protocol Integrated with Quantum Key Distribution**\
 Xumin Gao, Kaiping Xue, Jian Li, Zhonghui Li, Jiaqi Wu, Nenghai Yu, Qibin Sun, Jun Lu\
-**IEEE Communications Magazine**, (Early Access).\
+**IEEE Communications Magazine**, Volume: 63, Issue: 9.\
 **[[Online](https://ieeexplore.ieee.org/abstract/document/10924694)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10924694)]** - **[<button class="citation-btn open-modal" data-modal-id="citation-modal-gao2025ipseq">BibTex</button>]**
 
 <div id="citation-modal-gao2025ipseq" class="modal">
@@ -59,9 +143,9 @@ Xumin Gao, Kaiping Xue, Jian Li, Zhonghui Li, Jiaqi Wu, Nenghai Yu, Qibin Sun, J
   author={Gao, Xumin and Xue, Kaiping and Li, Jian and Li, Zhonghui and Wu, Jiaqi and Yu, Nenghai and Sun, Qibin and Lu, Jun},
   journal={IEEE Communications Magazine},
   year={2025},
-  volume={},
-  number={},
-  pages={},
+  volume={63},
+  number={9},
+  pages={148-155},
   publisher={IEEE},
   doi={10.1109/MCOM.004.2400475}
 }
@@ -128,7 +212,7 @@ Yuqi Yang, Zhonghui Li, Jian Li, Shaochuang Heng, Lutong Chen, Qibin Sun, Jun Lu
 
 **Decentralized Key Management and Service in Quantum Key Distribution Networks: An Experimental Implementation**\
 Jian Li, Peng Zheng, Zhonghui Li*, Yuqi Yang, Nenghai Yu, Qibin Sun, Jun Lu\
-**IEEE Journal on Selected Areas in Communications**, (Early Access).\
+**IEEE Journal on Selected Areas in Communications**, Volume: 43, Issue:8.\
 **[[Online](https://ieeexplore.ieee.org/abstract/document/11003481)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11003481)]** - **[<button class="citation-btn open-modal" data-modal-id="citation-modal-li2025decentralized">BibTex</button>]**
 
 <div id="citation-modal-li2025decentralized" class="modal">
@@ -139,9 +223,9 @@ Jian Li, Peng Zheng, Zhonghui Li*, Yuqi Yang, Nenghai Yu, Qibin Sun, Jun Lu\
   author={Li, Jian and Zheng, Peng and Li, Zhonghui and Yang, Yuqi and Yu, Nenghai and Sun, Qibin and Lu, Jun},
   journal={IEEE Journal on Selected Areas in Communications},
   year={2025},
-  volume={},
-  number={},
-  pages={},
+  volume={43},
+  number={8},
+  pages={2782-2797},
   publisher={IEEE},
   doi={10.1109/JSAC.2025.3568040}
 }
@@ -159,7 +243,7 @@ Jian Li, Peng Zheng, Zhonghui Li*, Yuqi Yang, Nenghai Yu, Qibin Sun, Jun Lu\
 
 **Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks**\
 Zhaoying Wang, Jian Li, Kaiping Xue, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu\
-**IEEE Transactions on Communucations**, (Early Access).\
+**IEEE Transactions on Communucations**, Volume: 73, Issue: 7.\
 **[[Online](https://ieeexplore.ieee.org/document/10794776)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10794776)]** - **[<button class="citation-btn open-modal" data-modal-id="citation-modal-wang2024fair">BibTex</button>]**
 
 <div id="citation-modal-wang2024fair" class="modal">
@@ -170,6 +254,9 @@ Zhaoying Wang, Jian Li, Kaiping Xue, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin 
   author={Wang, Zhaoying and Li, Jian and Xue, Kaiping and Li, Zhonghui and Li, Ruidong and Yu, Nenghai and Sun, Qibin and Lu, Jun},
   journal={IEEE Transactions on Communications},
   year={2024},
+  volume={73},
+  number={7},
+  pages={4841-4854},
   publisher={IEEE},
   doi={10.1109/TCOMM.2024.3516497}
 }
