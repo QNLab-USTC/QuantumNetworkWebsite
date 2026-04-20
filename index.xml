@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Group of Quantum Network, USTC</title><link>https://qnlab-ustc.com/</link><description>Recent content on Research Group of Quantum Network, USTC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 20 Apr 2026 11:53:01 +0800</lastBuildDate><atom:link href="https://qnlab-ustc.com/index.xml" rel="self" type="application/rss+xml"/><item><title>News</title><link>https://qnlab-ustc.com/news/</link><pubDate>Wed, 12 Jul 2023 11:23:39 +0800</pubDate><guid>https://qnlab-ustc.com/news/</guid><description>&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Group of Quantum Network, USTC</title><link>https://qnlab-ustc.com/</link><description>Recent content on Research Group of Quantum Network, USTC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 20 Apr 2026 15:45:57 +0800</lastBuildDate><atom:link href="https://qnlab-ustc.com/index.xml" rel="self" type="application/rss+xml"/><item><title>News</title><link>https://qnlab-ustc.com/news/</link><pubDate>Wed, 12 Jul 2023 11:23:39 +0800</pubDate><guid>https://qnlab-ustc.com/news/</guid><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2025.12, congratulations to the associate researcher Li Jian on being invited to serve as TPC Co-Chair in IEEE IWCMC 2026 QNC!&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;2025.12, our paper &amp;ldquo;QuIKS: Near-Zero Latency Key Supply with Adaptive Buffering for Resource-Efficient Quantum Key Distribution Networks&amp;rdquo; is accepted by IEEE Conference on Computer Communications (INFOCOM) 2026!&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;2025.10, our paper &amp;ldquo;Distributed Entanglement Routing Scheme with Fidelity Guarantee in Quantum Networks&amp;rdquo; is accepted by IEEE Transactions on Network Science and Engineering!&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2025.10, our paper &amp;ldquo;Fully Heterogeneous Prepare-and-measure Quantum Network for the Next Stage of Quantum Internet&amp;rdquo; is accepted by Nature Communications!&lt;/p&gt;</description></item><item><title>Publications</title><link>https://qnlab-ustc.com/publication/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/publication/</guid><description>&lt;h1 id="preprints"&gt;Preprints&lt;/h1&gt;
+&lt;p&gt;2025.10, our paper &amp;ldquo;Distributed Entanglement Routing Scheme with Fidelity Guarantee in Quantum Networks&amp;rdquo; is accepted by IEEE Transactions on Network Science and Engineering!&lt;/p&gt;</description></item><item><title>Publications</title><link>https://qnlab-ustc.com/publication/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/publication/</guid><description>&lt;h1 id="preprints"&gt;Preprints&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Hybrid Error Correction Design for High-fidelity Entanglement Distribution in Quantum Communication Networks&lt;/strong&gt;&lt;br&gt;
 Zirui Xiao, Kaiping Xue, Zhonghui Li, Jian Li, Lutong Chen, Ruidong Li&lt;br&gt;
 &lt;strong&gt;IEEE Transactions on Communications&lt;/strong&gt;, Under Review, 2025.&lt;/p&gt;
