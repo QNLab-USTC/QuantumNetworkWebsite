@@ -70,7 +70,7 @@ draft: false
         <img src="/images/Photo-lijian.JPG" width="210px" height="280px" />
         <figcaption>
             <h5>Jian Li</h5>
-            <p>Associate Researcher</p>
+            <p>Associate Professor</p>
             <p><a href="mailto:lijian9@ustc.edu.cn">E-mail</a></p>
             <a href="https://infonetlijian.github.io/homepage/">Homepage</a>
         </figcaption>
