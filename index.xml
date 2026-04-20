@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Group of Quantum Network, USTC</title><link>https://qnlab-ustc.com/</link><description>Recent content on Research Group of Quantum Network, USTC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 20 Apr 2026 11:48:12 +0800</lastBuildDate><atom:link href="https://qnlab-ustc.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://qnlab-ustc.com/publication/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/publication/</guid><description>&lt;h1 id="preprints"&gt;Preprints&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Group of Quantum Network, USTC</title><link>https://qnlab-ustc.com/</link><description>Recent content on Research Group of Quantum Network, USTC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 20 Apr 2026 11:53:01 +0800</lastBuildDate><atom:link href="https://qnlab-ustc.com/index.xml" rel="self" type="application/rss+xml"/><item><title>News</title><link>https://qnlab-ustc.com/news/</link><pubDate>Wed, 12 Jul 2023 11:23:39 +0800</pubDate><guid>https://qnlab-ustc.com/news/</guid><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2025.12, our paper &amp;ldquo;QuIKS: Near-Zero Latency Key Supply with Adaptive Buffering for Resource-Efficient Quantum Key Distribution Networks&amp;rdquo; is accepted by IEEE Conference on Computer Communications (INFOCOM) 2026!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2025.10, our paper &amp;ldquo;Distributed Entanglement Routing Scheme with Fidelity Guarantee in Quantum Networks&amp;rdquo; is accepted by IEEE Transactions on Network Science and Engineering!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2025.10, our paper &amp;ldquo;Fully Heterogeneous Prepare-and-measure Quantum Network for the Next Stage of Quantum Internet&amp;rdquo; is accepted by Nature Communications!&lt;/p&gt;</description></item><item><title>Publications</title><link>https://qnlab-ustc.com/publication/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate><guid>https://qnlab-ustc.com/publication/</guid><description>&lt;h1 id="preprints"&gt;Preprints&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Hybrid Error Correction Design for High-fidelity Entanglement Distribution in Quantum Communication Networks&lt;/strong&gt;&lt;br&gt;
 Zirui Xiao, Kaiping Xue, Zhonghui Li, Jian Li, Lutong Chen, Ruidong Li&lt;br&gt;
 &lt;strong&gt;IEEE Transactions on Communications&lt;/strong&gt;, Under Review, 2025.&lt;/p&gt;
@@ -140,18 +148,7 @@ Zhonghui Li, Jian Li, Kaiping Xue, Hyundong Shin&lt;br&gt;
 &lt;h2 id="2023"&gt;2023&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;一种在IPSec协议中动态融合量子密钥的数据保护方法&lt;/strong&gt;&lt;br&gt;
 发明人：李健,王明君,陈鲁同,薛开平,俞能海,孙启彬,陆军&lt;br&gt;
-专利号：&lt;strong&gt;ZL202310399867.8&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>News</title><link>https://qnlab-ustc.com/news/</link><pubDate>Wed, 12 Jul 2023 11:23:39 +0800</pubDate><guid>https://qnlab-ustc.com/news/</guid><description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;2025.06 , our paper &amp;ldquo;An Asynchronous Key Relay Protocol Design for Large-scale Quantum Key Distribution Networks&amp;rdquo; is accepted by IEEE Transactions on Networking!&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2025.05, our paper &amp;ldquo;An Efficient and Robust Resource Allocation Method for Quantum Key Distribution Networks&amp;rdquo; is accepted by IEEE Transactions on Network and Service Management!&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2025.05, congratulations to the master students Peng Zheng and Zirui Xiao for successfully passing their master&amp;rsquo;s thesis defense!&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2025.03, our paper &amp;ldquo;SwappingBoost: Optimizing Entanglement Routing by Mitigating Bottlenecks in Quantum Networks&amp;rdquo; is accepted by IEEE International Wireless Communications and Mobile Computing (IWCMC 2025)!&lt;/p&gt;</description></item><item><title>SimQN: a Network-layer Simulator for the Quantum Network Investigation</title><link>https://qnlab-ustc.com/projects/simqn/</link><pubDate>Fri, 16 Dec 2022 13:40:06 +0800</pubDate><guid>https://qnlab-ustc.com/projects/simqn/</guid><description>&lt;p&gt;Welcome to SimQN&amp;rsquo;s documentation. SimQN is a discrete-event based network simulation platform for quantum networks.
+专利号：&lt;strong&gt;ZL202310399867.8&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>SimQN: a Network-layer Simulator for the Quantum Network Investigation</title><link>https://qnlab-ustc.com/projects/simqn/</link><pubDate>Fri, 16 Dec 2022 13:40:06 +0800</pubDate><guid>https://qnlab-ustc.com/projects/simqn/</guid><description>&lt;p&gt;Welcome to SimQN&amp;rsquo;s documentation. SimQN is a discrete-event based network simulation platform for quantum networks.
 SimQN enables large-scale investigations, including QKD protocols, entanglement distributions protocols, and routing algorithms, resource allocation schemas in quantum networks. For example, users can use SimQN to design routing algorithms for better QKD performance. For more information, please refer to the &lt;a href="https://qnlab-ustc.github.io/SimQN/"&gt;Documents&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;SimQN is a Python3 library for quantum networking simulation. It is designed to be general propose. It means that SimQN can be used for both QKD network, entanglement distribution network and other kinds of quantum networks&amp;rsquo; evaluation. The core idea is that SimQN makes no architecture assumption. Since there is currently no recognized network architecture in quantum networks investigations, SimQN stays flexible in this aspect.&lt;/p&gt;</description></item><item><title>2024 National College Student Information Security Contest</title><link>https://qnlab-ustc.com/highlights/ciscn_2024/</link><pubDate>Mon, 02 Sep 2024 19:30:18 +0800</pubDate><guid>https://qnlab-ustc.com/highlights/ciscn_2024/</guid><description>&lt;p&gt;On August 14, 2024, the 17th National College Student Information Security Contest Finals successfully concluded at the Taicang Smart Port Campus of Northwestern Polytechnical University. The team of undergraduate students from our laboratory won the second prize with their project &amp;ldquo;IPSec VPN Data Security Transmission Platform Integrated with Quantum Key&amp;rdquo;, supervised by Associate Researcher Jian Li.&lt;/p&gt;
 &lt;div align="center"&gt;
