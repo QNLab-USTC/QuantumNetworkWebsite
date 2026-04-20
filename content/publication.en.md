@@ -6,9 +6,21 @@ draft: false
 
 # Preprints
 
+**Hybrid Error Correction Design for High-fidelity Entanglement Distribution in Quantum Communication Networks**\
+Zirui Xiao, Kaiping Xue, Zhonghui Li, Jian Li, Lutong Chen, Ruidong Li\
+**IEEE Transactions on Communications**, Under Review, 2025.
+
+**Tree-based Networking Scheme: Towards Future Large-scale Quantum Local Area Networks with High Entanglement Connectivity**\
+Zhonghui Li, Yang Yang, Jian Li, Kaiping Xue\
+**IEEE Journal on Selected Areas in Communications**, Under Review, 2025.
+
+**HybridED: A Hybrid Entanglement Distribution Design for Efficient Quantum Teleportation in Quantum Communication Networks**\
+Zhonghui Li, Jian Li, Kaiping Xue, Hyundong Shin\
+**IEEE Transactions on Communications**, Under Review, 2025.
+
 **Adaptive Quantum Memory Allocation for Memory-assisted MDI-QKD: A Theoretical Framework for Scalable Multi-User Key Generation**\
 Jiaqi Wu, KunJie Shang, Jian Li, Zhonghui Li, Fengyu Lu, Yuqi Yang, Jiaju Deng, Shuang Wang, Kaiping Xue\
-**Nature Communications**, Under Review, 2025.
+**Physical Review Applied**, Under Review, 2025.
 
 **Towards an Adaptive Multi-user Quantum Key Distribution Network**\
 Peng Zheng, Wei-Xin Xie, Zhonghui Li, Jian Li, Kaiping Xue, Guan-Jie Fan-Yuan, Shuang Wang, \
