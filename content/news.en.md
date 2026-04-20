@@ -3,11 +3,19 @@ title: "News"
 date: 2023-07-12T11:23:39+08:00
 draft: false
 ---
+ * 2025.12, congratulations to the associate researcher Li Jian on being invited to serve as TPC Co-Chair in IEEE IWCMC 2026 QNC!
+
  * 2025.12, our paper "QuIKS: Near-Zero Latency Key Supply with Adaptive Buffering for Resource-Efficient Quantum Key Distribution Networks" is accepted by IEEE Conference on Computer Communications (INFOCOM) 2026!
 
  * 2025.10, our paper "Distributed Entanglement Routing Scheme with Fidelity Guarantee in Quantum Networks" is accepted by IEEE Transactions on Network Science and Engineering!
 
  * 2025.10, our paper "Fully Heterogeneous Prepare-and-measure Quantum Network for the Next Stage of Quantum Internet" is accepted by Nature Communications!
+
+ * 2025.07, associate researcher Li Jian is invited to deliver a special report at the Frontiers in Quantum Communication Security Forum during the CCF CFTC.
+
+ * 2025.07, congratulations to the associate researcher Li Jian on being invited to serve as an Editor for the IEEE Transactions on Communications (Optical & Quantum Communications area)!
+
+ * 2025.07, congratulations to the associate researcher Li Jian for being awarded the prestigious 2025 Internet Technical Committee (ITC) Early Career Award by the IEEE Communications Society!
 
  * 2025.06, our paper "An Asynchronous Key Relay Protocol Design for Large-scale Quantum Key Distribution Networks" is accepted by IEEE Transactions on Networking!
 
