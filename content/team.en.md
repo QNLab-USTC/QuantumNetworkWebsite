@@ -236,22 +236,32 @@ draft: false
 
 ***
 
-<!-- <div class="container">
+<div class="container">
   <div class="row">
-
     <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/xiazite.jpg" width="210px" height="280px" />
+        <img src="/images/yuzhongchen.jpg" width="210px" height="280px" />
         <figcaption>
-            <h5>Zite Xia</h5>
-            <p><a href="mailto:xzt2004@mail.ustc.edu.cn">E-mail</a></p>
-            <p></p>
+            <h5>Zhongchen Yu</h5>
+            <p><a href="mailto:yzc@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Research Direction: </b></p>
+            <p>Quantum Internet</p>
         </figcaption>
         </figure>
     </div>
-
+        <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/wangzhaoshun.png" width="210px" height="280px" />
+        <figcaption>
+            <h5>Zhaoshun Wang</h5>
+            <p><a href="mailto:wzs2550615000@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Research Direction: </b></p>
+            <p>Quantum Internet</p>
+        </figcaption>
+        </figure>
+    </div>
   </div>
-</div> -->
+</div>
 
 # Graduate Students
 
