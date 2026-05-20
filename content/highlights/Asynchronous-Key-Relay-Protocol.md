@@ -1,0 +1,10 @@
+---
+title: "An Asynchronous Key Relay Protocol Design for Large-scale Quantum Key Distribution Networks"
+date: 2025-06-21T00:00:00+08:00
+draft: false
+image: "/images/TON_2025_yuxinchen.png"
+---
+
+In large-scale quantum key distribution (QKD) networks, achieving reliable and efficient end-to-end key relay—particularly in multi-request scenarios—remains a challenge that has yet to be fully resolved. The core difficulty lies in the lack of an asynchronous and precise control mechanism for managing the key relay process, while the "contend-and-relay" paradigm in existing synchronous protocols overlooks the storability of quantum keys, resulting in an irreconcilable conflict among reliability, key utilization, and relay latency.
+
+To address these issues, this paper proposes the Asynchronous Key Relay Protocol (AKRP) for large-scale networks. The protocol introduces an innovative "reserve-then-relay" asynchronous operational paradigm, which decouples key contention and consumption into two independent phases through fine-grained tracking of quantum key and request states, thereby enabling lossless key relay without queuing or packet loss. Building on this foundation, to further enhance throughput and network adaptability, we design a Conflict Detection and Resolution (CD&R) mechanism and a multipath routing extension. The former allows multiple requests to dynamically compete for link resources and achieves fine-grained, efficient utilization of quantum keys on a link by detecting and intelligently resolving key reservation conflicts; the latter supports searching across multiple available paths for requests and automatically releases redundant reservations, effectively mitigating the bottleneck of key exhaustion on a single path. Systematic experiments conducted on a semi-physical platform integrating real QKD devices and a large-scale network simulator demonstrate that AKRP significantly outperforms existing schemes in key performance metrics such as end-to-end key throughput, quantum key consumption, and relay latency.

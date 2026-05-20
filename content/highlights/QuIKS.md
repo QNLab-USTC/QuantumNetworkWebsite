@@ -1,0 +1,8 @@
+---
+title: "QuIKS: Near-Zero Latency Key Supply with Adaptive Buffering for Resource-Efficient Quantum Key Distribution Networks"
+date: 2025-12-21T00:00:00+08:00
+draft: false
+image: "/images/INFOCOM2026_yuxinchen.png"
+---
+
+Providing an on-demand, instant key supply service in Quantum Key Distribution (QKD) networks remains a critical challenge for their practical deployment. The key difficulty lies in the fundamental conflict between achieving near-zero key supply latency and minimizing the prohibitive quantum key resource consumption required by existing solutions. From a system perspective, existing buffer-based schemes rely on heuristic strategies that necessitate oversized key buffers to smooth out volatile network performance, leading to severe key resource wastage. To address this, we propose QuIKS, an instant key supply scheme based on adaptive buffering. The scheme is built upon a novel analytical model that, for the first time, quantifies the mathematical relationship between buffer size and key supply performance, escaping the guesswork of heuristic methods. Guided by this model, we introduce a lightweight two-phase control algorithm that dynamically determines key relaying requests and adjusts buffer size by probing real-time application patterns and network conditions to achieve optimal performance with minimal resources. Through extensive experiments on a real 14-node QKD network testbed, we demonstrate that QuIKS achieves a near-zero key supply latency while providing a more than 90% reduction in buffer size compared to state-of-the-art schemes, demonstrating an excellent trade-off between performance and resource efficiency.
