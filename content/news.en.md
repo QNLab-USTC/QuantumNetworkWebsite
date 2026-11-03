@@ -3,6 +3,12 @@ title: "News"
 date: 2023-07-12T11:23:39+08:00
 draft: false
 ---
+ * 2026.10, our paper "A Probabilistic Demand-Aware Routing Scheme for Real-Time Services in QKD Networks" is accepted by 2026 International Conference on Wireless Communications and Signal Processing (WCSP)!
+
+ * 2026.09, Welcome two master students Zhaoshun Wang and Zhongchen Yu to join our group!
+
+ * 2026.05, our paper "MixED: A Mixed Entanglement Distribution Design for Efficient Quantum Teleportation in Quantum Communication Networks" is accepted by IEEE Transactions on Communications!
+
  * 2025.12, congratulations to the associate researcher Li Jian on being invited to serve as TPC Co-Chair in IEEE IWCMC 2026 QNC!
 
  * 2025.12, our paper "QuIKS: Near-Zero Latency Key Supply with Adaptive Buffering for Resource-Efficient Quantum Key Distribution Networks" is accepted by IEEE Conference on Computer Communications (INFOCOM) 2026!

@@ -6,21 +6,26 @@ draft: false
 
 # Preprints
 
+**Tackling Fidelity Uncertainty: A Probability Distribution-aware Purification Scheme in Quantum Networks**\
+Shaochuang Heng, Jianfeng Niu, Yugi Yang, Zhonghui Li, Lutong Chen, Jian Li, Kaiping Xue\
+**IEEE Journal on Selected Areas in Communications**, Under Review, 2026.
+
+**Effective Bell-state Entanglement Distribution using GHZ States in Quantum Networks**\
+Lutong Chen, Jianfeng Niu, Xuebi An, Zhonghui Li, Yizhi Huang, Jian Li, Kaiping Xue, Nenghai Yu\
+**IEEE Transactions on Networking**, Under Review, 2026.
+
+**CloudQNS: A Cloud-Native, Full-Stack Simulator for Scalable
+Quantum Key Distribution Networks**\
+Yuqi Yang, Xuebi An, Lutong Chen, Bing Yang, Yizhi Huang, Jian Li, Kaiping Xue\
+**IEEE Network**, Under Review, 2026.
+
 **Hybrid Error Correction Design for High-fidelity Entanglement Distribution in Quantum Communication Networks**\
 Zirui Xiao, Kaiping Xue, Zhonghui Li, Jian Li, Lutong Chen, Ruidong Li\
 **IEEE Transactions on Communications**, Under Review, 2025.
 
-**Tree-based Networking Scheme: Towards Future Large-scale Quantum Local Area Networks with High Entanglement Connectivity**\
-Zhonghui Li, Yang Yang, Jian Li, Kaiping Xue\
-**IEEE Journal on Selected Areas in Communications**, Under Review, 2025.
-
-**HybridED: A Hybrid Entanglement Distribution Design for Efficient Quantum Teleportation in Quantum Communication Networks**\
-Zhonghui Li, Jian Li, Kaiping Xue, Hyundong Shin\
-**IEEE Transactions on Communications**, Under Review, 2025.
-
 **Adaptive Quantum Memory Allocation for Memory-assisted MDI-QKD: A Theoretical Framework for Scalable Multi-User Key Generation**\
 Jiaqi Wu, KunJie Shang, Jian Li, Zhonghui Li, Fengyu Lu, Yuqi Yang, Jiaju Deng, Shuang Wang, Kaiping Xue\
-**Physical Review Applied**, Under Review, 2025.
+**Optica**, Under Review, 2026.
 
 **Towards an Adaptive Multi-user Quantum Key Distribution Network**\
 Peng Zheng, Wei-Xin Xie, Zhonghui Li, Jian Li, Kaiping Xue, Guan-Jie Fan-Yuan, Shuang Wang, \
@@ -28,11 +33,90 @@ Wei Chen, Nenghai Yu, Guang-Can Guo, Zheng-Fu Han\
 **Physical Review A**, Under Review, 2025.
 
 ***
-# 2025
+# 2026
+
+**Tree-based Networking Scheme: Towards Future Large-scale Quantum Local Area Networks with High Entanglement Connectivity**\
+Zhonghui Li, Yang Yang, Jian Li, Kaiping Xue\
+**IEEE Journal on Selected Areas in Communications**, Volume: , Number: .\
+**[[Online](https://ieeexplore.ieee.org/abstract/document/11743798)]** - **[[PDF]()]** - **[<button class="citation-btn open-modal" data-modal-id="citation-modal-li2026tree">BibTex</button>]**
+
+<div id="citation-modal-li2026tree" class="modal">
+  <div class="modal-content">
+    <pre id="citation-text-li2026tree" class="citation-box">
+@article{li2026tree,
+  title={Tree-based Networking Scheme: Towards Future Large-scale Quantum Local Area Networks with High Entanglement Connectivity},
+  author={Li, Zhonghui and Yang, Yang and Li, Jian and Xue, Kaiping},
+  journal={IEEE Journal on Selected Areas in Communications},
+  volume={},
+  number={},
+  pages={1-1},
+  year={2026},
+  publisher={IEEE}
+}
+    </pre>
+    <div class="button-container">
+      <button class="copy-btn" onclick="copyCitation('citation-text-li2026tree')">Copy</button>
+      <button class="close-btn" data-modal-id="citation-modal-li2026tree">Close</button>
+    </div>
+  </div>
+</div>
+
+**A Probabilistic Demand-Aware Routing Scheme for Real-Time Services in QKD Networks**\
+Haijun Zheng, Yuxin Chen, Zhongxiang Cai, Jian Li\
+**International Conference on Wireless Communications and Signal Processing 2026(WCSP 2026)**, November 12-14, 2026.
+
+**MixED: A Mixed Entanglement Distribution Design for Efficient Quantum Teleportation in Quantum Communication Networks**\
+Zhonghui Li, Jian Li, Kaiping Xue, Hyundong Shin\
+**IEEE Transactions on Communications**, Volume: 74.\
+**[[Online](https://ieeexplore.ieee.org/abstract/document/11543377)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11543377)]** - **[<button class="citation-btn open-modal" data-modal-id="citation-modal-li2026mixed">BibTex</button>]**
+
+<div id="citation-modal-li2026mixed" class="modal">
+  <div class="modal-content">
+    <pre id="citation-text-li2026mixed" class="citation-box">
+@article{li2026mixed,
+  title={MixED: A Mixed Entanglement Distribution Design for Efficient Quantum Teleportation in Quantum Communication Networks},
+  author={Li, Zhonghui and Li, Jian and Xue, Kaiping and Shin, Hyundong},
+  journal={IEEE Transactions on Communications},
+  volume={74},
+  number={},
+  pages={9376-9390},
+  year={2026},
+  publisher={IEEE}
+}
+    </pre>
+    <div class="button-container">
+      <button class="copy-btn" onclick="copyCitation('citation-text-li2026mixed')">Copy</button>
+      <button class="close-btn" data-modal-id="citation-modal-li2026mixed">Close</button>
+    </div>
+  </div>
+</div>
+
 
 **QuIKS: Near-Zero Latency Key Supply with Adaptive Buffering for Resource-Efficient Quantum Key Distribution Networks**\
-Yuxin Chen, Zite Xia, Jian Li, Kaiping Xue, Zhonghui Li, Ruidong Li\
-**IEEE Conference on Computer Communications 2026(INFOCOM 2026)**, May 18-21, 2026.
+Yuxin Chen, Zite Xia, Jian Li, Kaiping Xue, Zhonghui Li, Lutong Chen, Ruidong Li\
+**IEEE Conference on Computer Communications 2026(INFOCOM 2026)**, May 18-21, 2026.\
+**[[Online](https://ieeexplore.ieee.org/abstract/document/11571199)]** - **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11571199)]** - **[<button class="citation-btn open-modal" data-modal-id="citation-modal-chen2026quiks">BibTex</button>]**
+
+<div id="citation-modal-chen2026quiks" class="modal">
+  <div class="modal-content">
+    <pre id="citation-text-chen2026quiks" class="citation-box">
+@inproceedings{chen2026quiks,
+  title={QuIKS: Near-Zero Latency Key Supply with Adaptive Buffering for Resource-Efficient Quantum Key Distribution Networks},
+  author={Chen, Yuxin and Xia, Zite and Li, Jian and Xue, Kaiping and Li, Zhonghui and Chen, Lutong and Li, Ruidong},
+  booktitle={IEEE INFOCOM 2026-IEEE Conference on Computer Communications},
+  pages={1--10},
+  year={2026},
+  organization={IEEE}
+}
+    </pre>
+    <div class="button-container">
+      <button class="copy-btn" onclick="copyCitation('citation-text-chen2026quiks')">Copy</button>
+      <button class="close-btn" data-modal-id="citation-modal-chen2026quiks">Close</button>
+    </div>
+  </div>
+</div>
+
+# 2025
 
 **Fully Heterogeneous Prepare-and-measure Quantum Network for the Next Stage of Quantum Internet**\
 Fengyu Lu, Zehao Wang, Yao Zhou, Yuxuan Fan, Shuang Wang, Zhenqiang Ying, Jian Li, Deyong He, \

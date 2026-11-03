@@ -110,17 +110,6 @@ draft: false
   <div class="row">
     <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/chenyuxin.jpg" width="210px" height="280px" />
-        <figcaption>
-            <h5>Yuxin Chen</h5>
-            <p><a href="mailto:dhcgdb@mail.ustc.edu.cn">E-mail</a></p>
-            <p><b>Research Direction: </b></p>
-            <p>QKD Network</p>
-        </figcaption>
-        </figure>
-    </div>
-    <div class="col-sm">
-        <figure  style="width: 210px" >
         <img src="/images/yangyuqi.jpg" width="210px" height="280px" />
         <figcaption>
             <h5>Yuqi Yang</h5>
@@ -164,28 +153,6 @@ draft: false
   <div class="row">
     <div class="col-sm">
         <figure  style="width: 210px" >
-        <img src="/images/wujiaqi.jpg" width="210px" height="280px" />
-        <figcaption>
-            <h5>Jiaqi Wu</h5>
-            <p><a href="mailto:wujiaqi191383@mail.ustc.edu.cn">E-mail</a></p>
-            <p><b>Research Direction: </b></p>
-            <p>QKD Network</p>
-        </figcaption>
-        </figure>
-    </div>
-    <div class="col-sm">
-        <figure  style="width: 210px" >
-        <img src="/images/gaoxumin.jpg" width="210px" height="280px" />
-        <figcaption>
-            <h5>Xuming Gao</h5>
-            <p><a href="mailto:dearlanxing@mail.ustc.edu.cn">E-mail</a></p>
-            <p><b>Research Direction: </b></p>
-            <p>QKD Network</p>
-        </figcaption>
-        </figure>
-    </div>
-    <div class="col-sm">
-        <figure  style="width: 210px" >
         <img src="/images/yangbing.jpg" width="210px" height="280px" />
         <figcaption>
             <h5>Bing Yang</h5>
@@ -195,7 +162,7 @@ draft: false
         </figcaption>
         </figure>
     </div>
-    <div class="col-sm">
+    <!-- <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/shangkunjie.jpg" width="210px" height="280px" />
         <figcaption>
@@ -205,7 +172,7 @@ draft: false
             <p>QKD Network</p>
         </figcaption>
         </figure>
-    </div>
+    </div> -->
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/zhenghaijun.jpg" width="210px" height="280px" />
@@ -228,17 +195,7 @@ draft: false
         </figcaption>
         </figure>
     </div>
-  </div>
-</div>
-
-
-# Bachelor Students
-
-***
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
+        <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/yuzhongchen.jpg" width="210px" height="280px" />
         <figcaption>
@@ -263,6 +220,38 @@ draft: false
   </div>
 </div>
 
+
+# Bachelor Students
+
+***
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/dongzhijie.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5></h5>
+            <p><a href="mailto:dzj612717@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Research Direction: </b></p>
+            <p>Quantum Internet</p>
+        </figcaption>
+        </figure>
+    </div>
+        <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/lichunlin.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5></h5>
+            <p><a href="mailto:lcl060625@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Research Direction: </b></p>
+            <p>Quantum Internet</p>
+        </figcaption>
+        </figure>
+    </div>
+  </div>
+</div>
+
 # Graduate Students
 
 ***
@@ -272,6 +261,18 @@ draft: false
 ***
 <div class="container">
   <div class="row">
+  <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/chenyuxin.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Yuxin Chen</h5>
+            <p><a href="mailto:dhcgdb@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Graduation Year: </b>2026</p>
+            <p><b>To: </b>Huawei</p>
+            <p><b>City: </b>Shenzhen</p>
+        </figcaption>
+        </figure>
+    </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/wangzhaoying.jpg" width="210px" height="280px" />
@@ -318,6 +319,30 @@ draft: false
 ***
 <div class="container">
   <div class="row">
+      <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/wujiaqi.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Jiaqi Wu</h5>
+            <p><a href="mailto:wujiaqi191383@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Graduation Year: </b>2026</p>
+            <p><b>To: </b>Research Institute</p>
+            <p><b>City: </b>Shanghai</p>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-sm">
+        <figure  style="width: 210px" >
+        <img src="/images/gaoxumin.jpg" width="210px" height="280px" />
+        <figcaption>
+            <h5>Xuming Gao</h5>
+            <p><a href="mailto:dearlanxing@mail.ustc.edu.cn">E-mail</a></p>
+            <p><b>Graduation Year: </b>2026</p>
+            <p><b>To: </b>Research Institute</p>
+            <p><b>City: </b>Nanjing</p>
+        </figcaption>
+        </figure>
+    </div>
     <div class="col-sm">
         <figure  style="width: 210px" >
         <img src="/images/zhengpeng.jpg" width="210px" height="280px" />
